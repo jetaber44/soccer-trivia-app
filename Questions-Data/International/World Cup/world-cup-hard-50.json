@@ -1,0 +1,802 @@
+[
+  {
+    "question": "Which player scored the fastest goal in World Cup history (11 seconds)?",
+    "answer": "Hakan Şükür",
+    "options": [
+      "Hakan Şükür",
+      "Clint Dempsey",
+      "Bryan Robson",
+      "Cristiano Ronaldo"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Hakan_Şükür"
+  },
+  {
+    "question": "Who was the top scorer at the 1994 FIFA World Cup?",
+    "answer": "Hristo Stoichkov",
+    "options": [
+      "Hristo Stoichkov",
+      "Romário",
+      "Roberto Baggio",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
+  },
+  {
+    "question": "Who was the top scorer at the 1994 FIFA World Cup?",
+    "answer": "Hristo Stoichkov",
+    "options": [
+      "Hristo Stoichkov",
+      "Romário",
+      "Roberto Baggio",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
+  },
+  {
+    "question": "Which player scored the fastest goal in World Cup history (11 seconds)?",
+    "answer": "Hakan Şükür",
+    "options": [
+      "Hakan Şükür",
+      "Clint Dempsey",
+      "Bryan Robson",
+      "Cristiano Ronaldo"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Hakan_Şükür"
+  },
+  {
+    "question": "Which German player scored in four consecutive World Cups (2002–2014)?",
+    "answer": "Miroslav Klose",
+    "options": [
+      "Miroslav Klose",
+      "Thomas Müller",
+      "Lothar Matthäus",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Miroslav_Klose"
+  },
+  {
+    "question": "Which player scored the fastest goal in World Cup history (11 seconds)?",
+    "answer": "Hakan Şükür",
+    "options": [
+      "Hakan Şükür",
+      "Clint Dempsey",
+      "Bryan Robson",
+      "Cristiano Ronaldo"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Hakan_Şükür"
+  },
+  {
+    "question": "Which German player scored in four consecutive World Cups (2002–2014)?",
+    "answer": "Miroslav Klose",
+    "options": [
+      "Miroslav Klose",
+      "Thomas Müller",
+      "Lothar Matthäus",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Miroslav_Klose"
+  },
+  {
+    "question": "Which country received the most red cards in a single World Cup tournament?",
+    "answer": "Cameroon",
+    "options": [
+      "Cameroon",
+      "Uruguay",
+      "Portugal",
+      "Argentina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Cameroon_national_football_team"
+  },
+  {
+    "question": "Who was the top scorer at the 1994 FIFA World Cup?",
+    "answer": "Hristo Stoichkov",
+    "options": [
+      "Hristo Stoichkov",
+      "Romário",
+      "Roberto Baggio",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
+  },
+  {
+    "question": "Which German player scored in four consecutive World Cups (2002–2014)?",
+    "answer": "Miroslav Klose",
+    "options": [
+      "Miroslav Klose",
+      "Thomas Müller",
+      "Lothar Matthäus",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Miroslav_Klose"
+  },
+  {
+    "question": "Who was the top scorer at the 1994 FIFA World Cup?",
+    "answer": "Hristo Stoichkov",
+    "options": [
+      "Hristo Stoichkov",
+      "Romário",
+      "Roberto Baggio",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
+  },
+  {
+    "question": "Who was the top scorer at the 1994 FIFA World Cup?",
+    "answer": "Hristo Stoichkov",
+    "options": [
+      "Hristo Stoichkov",
+      "Romário",
+      "Roberto Baggio",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
+  },
+  {
+    "question": "Who refereed the 2006 FIFA World Cup Final between Italy and France?",
+    "answer": "Horacio Elizondo",
+    "options": [
+      "Horacio Elizondo",
+      "Howard Webb",
+      "Markus Merk",
+      "Pierluigi Collina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Final"
+  },
+  {
+    "question": "Which country received the most red cards in a single World Cup tournament?",
+    "answer": "Cameroon",
+    "options": [
+      "Cameroon",
+      "Uruguay",
+      "Portugal",
+      "Argentina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Cameroon_national_football_team"
+  },
+  {
+    "question": "Which German player scored in four consecutive World Cups (2002–2014)?",
+    "answer": "Miroslav Klose",
+    "options": [
+      "Miroslav Klose",
+      "Thomas Müller",
+      "Lothar Matthäus",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Miroslav_Klose"
+  },
+  {
+    "question": "Who refereed the 2006 FIFA World Cup Final between Italy and France?",
+    "answer": "Horacio Elizondo",
+    "options": [
+      "Horacio Elizondo",
+      "Howard Webb",
+      "Markus Merk",
+      "Pierluigi Collina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Final"
+  },
+  {
+    "question": "Which German player scored in four consecutive World Cups (2002–2014)?",
+    "answer": "Miroslav Klose",
+    "options": [
+      "Miroslav Klose",
+      "Thomas Müller",
+      "Lothar Matthäus",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Miroslav_Klose"
+  },
+  {
+    "question": "Which country received the most red cards in a single World Cup tournament?",
+    "answer": "Cameroon",
+    "options": [
+      "Cameroon",
+      "Uruguay",
+      "Portugal",
+      "Argentina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Cameroon_national_football_team"
+  },
+  {
+    "question": "Who refereed the 2006 FIFA World Cup Final between Italy and France?",
+    "answer": "Horacio Elizondo",
+    "options": [
+      "Horacio Elizondo",
+      "Howard Webb",
+      "Markus Merk",
+      "Pierluigi Collina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Final"
+  },
+  {
+    "question": "Who refereed the 2006 FIFA World Cup Final between Italy and France?",
+    "answer": "Horacio Elizondo",
+    "options": [
+      "Horacio Elizondo",
+      "Howard Webb",
+      "Markus Merk",
+      "Pierluigi Collina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Final"
+  },
+  {
+    "question": "Who was the top scorer at the 1994 FIFA World Cup?",
+    "answer": "Hristo Stoichkov",
+    "options": [
+      "Hristo Stoichkov",
+      "Romário",
+      "Roberto Baggio",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
+  },
+  {
+    "question": "Who was the top scorer at the 1994 FIFA World Cup?",
+    "answer": "Hristo Stoichkov",
+    "options": [
+      "Hristo Stoichkov",
+      "Romário",
+      "Roberto Baggio",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
+  },
+  {
+    "question": "Who was the top scorer at the 1994 FIFA World Cup?",
+    "answer": "Hristo Stoichkov",
+    "options": [
+      "Hristo Stoichkov",
+      "Romário",
+      "Roberto Baggio",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
+  },
+  {
+    "question": "Which player scored the fastest goal in World Cup history (11 seconds)?",
+    "answer": "Hakan Şükür",
+    "options": [
+      "Hakan Şükür",
+      "Clint Dempsey",
+      "Bryan Robson",
+      "Cristiano Ronaldo"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Hakan_Şükür"
+  },
+  {
+    "question": "Who refereed the 2006 FIFA World Cup Final between Italy and France?",
+    "answer": "Horacio Elizondo",
+    "options": [
+      "Horacio Elizondo",
+      "Howard Webb",
+      "Markus Merk",
+      "Pierluigi Collina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Final"
+  },
+  {
+    "question": "Which German player scored in four consecutive World Cups (2002–2014)?",
+    "answer": "Miroslav Klose",
+    "options": [
+      "Miroslav Klose",
+      "Thomas Müller",
+      "Lothar Matthäus",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Miroslav_Klose"
+  },
+  {
+    "question": "Which German player scored in four consecutive World Cups (2002–2014)?",
+    "answer": "Miroslav Klose",
+    "options": [
+      "Miroslav Klose",
+      "Thomas Müller",
+      "Lothar Matthäus",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Miroslav_Klose"
+  },
+  {
+    "question": "Which German player scored in four consecutive World Cups (2002–2014)?",
+    "answer": "Miroslav Klose",
+    "options": [
+      "Miroslav Klose",
+      "Thomas Müller",
+      "Lothar Matthäus",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Miroslav_Klose"
+  },
+  {
+    "question": "Which country received the most red cards in a single World Cup tournament?",
+    "answer": "Cameroon",
+    "options": [
+      "Cameroon",
+      "Uruguay",
+      "Portugal",
+      "Argentina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Cameroon_national_football_team"
+  },
+  {
+    "question": "Which country received the most red cards in a single World Cup tournament?",
+    "answer": "Cameroon",
+    "options": [
+      "Cameroon",
+      "Uruguay",
+      "Portugal",
+      "Argentina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Cameroon_national_football_team"
+  },
+  {
+    "question": "Which German player scored in four consecutive World Cups (2002–2014)?",
+    "answer": "Miroslav Klose",
+    "options": [
+      "Miroslav Klose",
+      "Thomas Müller",
+      "Lothar Matthäus",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Miroslav_Klose"
+  },
+  {
+    "question": "Which country received the most red cards in a single World Cup tournament?",
+    "answer": "Cameroon",
+    "options": [
+      "Cameroon",
+      "Uruguay",
+      "Portugal",
+      "Argentina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Cameroon_national_football_team"
+  },
+  {
+    "question": "Who refereed the 2006 FIFA World Cup Final between Italy and France?",
+    "answer": "Horacio Elizondo",
+    "options": [
+      "Horacio Elizondo",
+      "Howard Webb",
+      "Markus Merk",
+      "Pierluigi Collina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Final"
+  },
+  {
+    "question": "Who refereed the 2006 FIFA World Cup Final between Italy and France?",
+    "answer": "Horacio Elizondo",
+    "options": [
+      "Horacio Elizondo",
+      "Howard Webb",
+      "Markus Merk",
+      "Pierluigi Collina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Final"
+  },
+  {
+    "question": "Who refereed the 2006 FIFA World Cup Final between Italy and France?",
+    "answer": "Horacio Elizondo",
+    "options": [
+      "Horacio Elizondo",
+      "Howard Webb",
+      "Markus Merk",
+      "Pierluigi Collina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Final"
+  },
+  {
+    "question": "Which country received the most red cards in a single World Cup tournament?",
+    "answer": "Cameroon",
+    "options": [
+      "Cameroon",
+      "Uruguay",
+      "Portugal",
+      "Argentina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Cameroon_national_football_team"
+  },
+  {
+    "question": "Which player scored the fastest goal in World Cup history (11 seconds)?",
+    "answer": "Hakan Şükür",
+    "options": [
+      "Hakan Şükür",
+      "Clint Dempsey",
+      "Bryan Robson",
+      "Cristiano Ronaldo"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Hakan_Şükür"
+  },
+  {
+    "question": "Which German player scored in four consecutive World Cups (2002–2014)?",
+    "answer": "Miroslav Klose",
+    "options": [
+      "Miroslav Klose",
+      "Thomas Müller",
+      "Lothar Matthäus",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Miroslav_Klose"
+  },
+  {
+    "question": "Which player scored the fastest goal in World Cup history (11 seconds)?",
+    "answer": "Hakan Şükür",
+    "options": [
+      "Hakan Şükür",
+      "Clint Dempsey",
+      "Bryan Robson",
+      "Cristiano Ronaldo"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Hakan_Şükür"
+  },
+  {
+    "question": "Which player scored the fastest goal in World Cup history (11 seconds)?",
+    "answer": "Hakan Şükür",
+    "options": [
+      "Hakan Şükür",
+      "Clint Dempsey",
+      "Bryan Robson",
+      "Cristiano Ronaldo"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Hakan_Şükür"
+  },
+  {
+    "question": "Who was the top scorer at the 1994 FIFA World Cup?",
+    "answer": "Hristo Stoichkov",
+    "options": [
+      "Hristo Stoichkov",
+      "Romário",
+      "Roberto Baggio",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
+  },
+  {
+    "question": "Who refereed the 2006 FIFA World Cup Final between Italy and France?",
+    "answer": "Horacio Elizondo",
+    "options": [
+      "Horacio Elizondo",
+      "Howard Webb",
+      "Markus Merk",
+      "Pierluigi Collina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Final"
+  },
+  {
+    "question": "Who was the top scorer at the 1994 FIFA World Cup?",
+    "answer": "Hristo Stoichkov",
+    "options": [
+      "Hristo Stoichkov",
+      "Romário",
+      "Roberto Baggio",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
+  },
+  {
+    "question": "Which player scored the fastest goal in World Cup history (11 seconds)?",
+    "answer": "Hakan Şükür",
+    "options": [
+      "Hakan Şükür",
+      "Clint Dempsey",
+      "Bryan Robson",
+      "Cristiano Ronaldo"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Hakan_Şükür"
+  },
+  {
+    "question": "Which player scored the fastest goal in World Cup history (11 seconds)?",
+    "answer": "Hakan Şükür",
+    "options": [
+      "Hakan Şükür",
+      "Clint Dempsey",
+      "Bryan Robson",
+      "Cristiano Ronaldo"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Hakan_Şükür"
+  },
+  {
+    "question": "Which player scored the fastest goal in World Cup history (11 seconds)?",
+    "answer": "Hakan Şükür",
+    "options": [
+      "Hakan Şükür",
+      "Clint Dempsey",
+      "Bryan Robson",
+      "Cristiano Ronaldo"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Hakan_Şükür"
+  },
+  {
+    "question": "Which country received the most red cards in a single World Cup tournament?",
+    "answer": "Cameroon",
+    "options": [
+      "Cameroon",
+      "Uruguay",
+      "Portugal",
+      "Argentina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Cameroon_national_football_team"
+  },
+  {
+    "question": "Who refereed the 2006 FIFA World Cup Final between Italy and France?",
+    "answer": "Horacio Elizondo",
+    "options": [
+      "Horacio Elizondo",
+      "Howard Webb",
+      "Markus Merk",
+      "Pierluigi Collina"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Final"
+  },
+  {
+    "question": "Who was the top scorer at the 1994 FIFA World Cup?",
+    "answer": "Hristo Stoichkov",
+    "options": [
+      "Hristo Stoichkov",
+      "Romário",
+      "Roberto Baggio",
+      "Jürgen Klinsmann"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
+  },
+  {
+    "question": "Which player scored the fastest goal in World Cup history (11 seconds)?",
+    "answer": "Hakan Şükür",
+    "options": [
+      "Hakan Şükür",
+      "Clint Dempsey",
+      "Bryan Robson",
+      "Cristiano Ronaldo"
+    ],
+    "category": "International",
+    "subcategories": [
+      "World Cup"
+    ],
+    "difficulty": "hard",
+    "source": "https://en.wikipedia.org/wiki/Hakan_Şükür"
+  }
+]

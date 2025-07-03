@@ -1,0 +1,545 @@
+[
+  {
+    "question": "Which country won the 1986 FIFA World Cup?",
+    "answer": "Argentina",
+    "options": ["Argentina", "Uruguay", "England", "Italy"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 2010 FIFA World Cup?",
+    "answer": "Thomas Müller",
+    "options": ["Eusébio", "Thomas Müller", "Davor Šuker", "Miroslav Klose"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 2010 FIFA World Cup?",
+    "answer": "South Africa",
+    "options": ["Sweden", "Uruguay", "England", "South Africa"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 2022 FIFA World Cup?",
+    "answer": "Argentina",
+    "options": ["Brazil", "West Germany", "Uruguay", "Argentina"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 2018 FIFA World Cup?",
+    "answer": "Harry Kane",
+    "options": ["Gerd Müller", "Kylian Mbappé", "Hristo Stoichkov", "Harry Kane"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 1978 FIFA World Cup?",
+    "answer": "Argentina",
+    "options": ["England", "Uruguay", "Argentina", "West Germany"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Who was the top scorer at the 2006 FIFA World Cup?",
+    "answer": "Miroslav Klose",
+    "options": ["Ronaldo", "Miroslav Klose", "James Rodríguez", "Kylian Mbappé"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 1958 FIFA World Cup?",
+    "answer": "Sweden",
+    "options": ["South Africa", "France", "Sweden", "Germany"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 1930 FIFA World Cup?",
+    "answer": "Uruguay",
+    "options": ["France", "Uruguay", "Spain", "Argentina"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 2002 FIFA World Cup?",
+    "answer": "Ronaldo",
+    "options": ["Just Fontaine", "Hristo Stoichkov", "Harry Kane", "Ronaldo"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 1974 FIFA World Cup?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Argentina", "England", "Sweden"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 1998 FIFA World Cup?",
+    "answer": "France",
+    "options": ["Uruguay", "France", "Italy", "England"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 1970 FIFA World Cup?",
+    "answer": "Gerd Müller",
+    "options": ["Kylian Mbappé", "James Rodríguez", "Gerd Müller", "Ronaldo"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["France", "Brazil", "England", "West Germany"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 2010 FIFA World Cup?",
+    "answer": "Spain",
+    "options": ["Spain", "Argentina", "Italy", "Italy"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 2022 FIFA World Cup?",
+    "answer": "Kylian Mbappé",
+    "options": ["Harry Kane", "Thomas Müller", "Kylian Mbappé", "Miroslav Klose"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 2018 FIFA World Cup?",
+    "answer": "Russia",
+    "options": ["England", "Russia", "Qatar", "West Germany"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 1982 FIFA World Cup?",
+    "answer": "Italy",
+    "options": ["West Germany", "West Germany", "Germany", "Italy"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 1958 FIFA World Cup?",
+    "answer": "Just Fontaine",
+    "options": ["Eusébio", "Gerd Müller", "Just Fontaine", "Thomas Müller"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["South Africa", "Russia", "Brazil", "South Korea and Japan"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 1930 FIFA World Cup?",
+    "answer": "Uruguay",
+    "options": ["France", "Uruguay", "Spain", "Argentina"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 2002 FIFA World Cup?",
+    "answer": "Ronaldo",
+    "options": ["Just Fontaine", "Hristo Stoichkov", "Harry Kane", "Ronaldo"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 1974 FIFA World Cup?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Argentina", "England", "Sweden"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 1998 FIFA World Cup?",
+    "answer": "France",
+    "options": ["Uruguay", "France", "Italy", "England"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 1970 FIFA World Cup?",
+    "answer": "Gerd Müller",
+    "options": ["Harry Kane", "Gerd Müller", "Davor Šuker", "Eusébio"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 2010 FIFA World Cup?",
+    "answer": "South Africa",
+    "options": ["Germany", "England", "South Africa", "France"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 2006 FIFA World Cup?",
+    "answer": "Italy",
+    "options": ["Italy", "Brazil", "Germany", "Brazil"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 2010 FIFA World Cup?",
+    "answer": "Thomas Müller",
+    "options": ["Ronaldo", "Davor Šuker", "Thomas Müller", "Kylian Mbappé"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["Brazil", "England", "Argentina", "Sweden"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 2022 FIFA World Cup?",
+    "answer": "Argentina",
+    "options": ["Brazil", "Argentina", "West Germany", "Italy"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Which country won the 1930 FIFA World Cup?",
+    "answer": "Uruguay",
+    "options": ["France", "Uruguay", "Spain", "Argentina"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 2002 FIFA World Cup?",
+    "answer": "Ronaldo",
+    "options": ["Just Fontaine", "Hristo Stoichkov", "Harry Kane", "Ronaldo"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 1974 FIFA World Cup?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Argentina", "England", "Sweden"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 1998 FIFA World Cup?",
+    "answer": "France",
+    "options": ["Uruguay", "France", "Italy", "England"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 1970 FIFA World Cup?",
+    "answer": "Gerd Müller",
+    "options": ["Harry Kane", "Gerd Müller", "Davor Šuker", "Eusébio"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 2010 FIFA World Cup?",
+    "answer": "South Africa",
+    "options": ["Germany", "England", "South Africa", "France"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 2006 FIFA World Cup?",
+    "answer": "Italy",
+    "options": ["Italy", "Brazil", "Germany", "Brazil"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 2010 FIFA World Cup?",
+    "answer": "Thomas Müller",
+    "options": ["Ronaldo", "Davor Šuker", "Thomas Müller", "Kylian Mbappé"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["Brazil", "England", "Argentina", "Sweden"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 2022 FIFA World Cup?",
+    "answer": "Argentina",
+    "options": ["Brazil", "Argentina", "West Germany", "Italy"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 2010 FIFA World Cup?",
+    "answer": "Thomas Müller",
+    "options": ["Ronaldo", "Thomas Müller", "Kylian Mbappé", "Davor Šuker"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 2006 FIFA World Cup?",
+    "answer": "Germany",
+    "options": ["South Africa", "Germany", "Russia", "Argentina"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 1962 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["France", "Italy", "Brazil", "Uruguay"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 1994 FIFA World Cup?",
+    "answer": "Hristo Stoichkov",
+    "options": ["Just Fontaine", "Hristo Stoichkov", "Harry Kane", "Eusébio"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 1958 FIFA World Cup?",
+    "answer": "Sweden",
+    "options": ["Brazil", "Argentina", "Sweden", "France"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 2002 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Spain", "West Germany", "Italy"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 2014 FIFA World Cup?",
+    "answer": "James Rodríguez",
+    "options": ["James Rodríguez", "Hristo Stoichkov", "Thomas Müller", "Ronaldo"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 2018 FIFA World Cup?",
+    "answer": "Russia",
+    "options": ["Qatar", "Argentina", "Brazil", "Russia"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 2022 FIFA World Cup?",
+    "answer": "Argentina",
+    "options": ["Brazil", "Germany", "Argentina", "West Germany"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 1966 FIFA World Cup?",
+    "answer": "Eusébio",
+    "options": ["Davor Šuker", "Thomas Müller", "Eusébio", "Hristo Stoichkov"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["England", "Sweden", "Brazil", "Germany"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 2014 FIFA World Cup?",
+    "answer": "Germany",
+    "options": ["Germany", "France", "Argentina", "Spain"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 2002 FIFA World Cup?",
+    "answer": "Ronaldo",
+    "options": ["Gerd Müller", "Ronaldo", "Eusébio", "Hristo Stoichkov"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 1974 FIFA World Cup?",
+    "answer": "West Germany",
+    "options": ["South Africa", "Qatar", "West Germany", "Sweden"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 1998 FIFA World Cup?",
+    "answer": "France",
+    "options": ["Italy", "France", "Italy", "Germany"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 1994 FIFA World Cup?",
+    "answer": "Hristo Stoichkov",
+    "options": ["Hristo Stoichkov", "Kylian Mbappé", "Davor Šuker", "James Rodríguez"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 1958 FIFA World Cup?",
+    "answer": "Sweden",
+    "options": ["Brazil", "Argentina", "Sweden", "France"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  },
+  {
+    "question": "Which country won the 2002 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Spain", "West Germany", "Italy"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals"
+  },
+  {
+    "question": "Who was the top scorer at the 2014 FIFA World Cup?",
+    "answer": "James Rodríguez",
+    "options": ["James Rodríguez", "Hristo Stoichkov", "Thomas Müller", "Ronaldo"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards"
+  },
+  {
+    "question": "Which country hosted the 2018 FIFA World Cup?",
+    "answer": "Russia",
+    "options": ["Qatar", "Argentina", "Brazil", "Russia"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts"
+  }
+]
+
+
+

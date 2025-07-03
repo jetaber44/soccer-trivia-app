@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Which country hosted the 2006 FIFA World Cup?",
+    "answer": "Germany",
+    "options": ["Germany", "South Africa", "Japan", "Brazil"],
+    "category": "International",
+    "subcategories": ["World Cup", "UEFA"],
+    "difficulty": "easy",
+    "source": "FIFA.com"
+  },
+  {
+    "question": "Which team won the UEFA Champions League in 2019?",
+    "answer": "Liverpool",
+    "options": ["Tottenham", "Manchester City", "Liverpool", "Barcelona"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "source": "UEFA.com"
+  },
+  {
+    "question": "Who was the Premier League top scorer in the 2017–18 season?",
+    "answer": "Mohamed Salah",
+    "options": ["Harry Kane", "Sergio Agüero", "Mohamed Salah", "Romelu Lukaku"],
+    "category": "Leagues",
+    "subcategories": ["Premier League"],
+    "difficulty": "easy",
+    "source": "PremierLeague.com"
+  },
+  {
+    "question": "Which club did Cristiano Ronaldo join after leaving Manchester United in 2009?",
+    "answer": "Real Madrid",
+    "options": ["Barcelona", "Juventus", "Real Madrid", "Paris Saint-Germain"],
+    "category": "Transfers",
+    "subcategories": ["Career Paths"],
+    "difficulty": "easy",
+    "source": "Transfermarkt"
+  },
+  {
+    "question": "Which country won the 1994 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Italy", "Germany", "Argentina"],
+    "category": "International",
+    "subcategories": ["World Cup", "CONMEBOL", "1990s"],
+    "difficulty": "easy",
+    "source": "FIFA.com"
+  },
+  {
+    "question": "Who won the MLS Cup in 2022?",
+    "answer": "Los Angeles FC",
+    "options": ["LA Galaxy", "Seattle Sounders", "Los Angeles FC", "New York City FC"],
+    "category": "Leagues",
+    "subcategories": ["MLS"],
+    "difficulty": "easy",
+    "source": "mlssoccer.com"
+  },
+  {
+    "question": "Which player has the highest transfer fee ever recorded?",
+    "answer": "Neymar",
+    "options": ["Cristiano Ronaldo", "Kylian Mbappé", "Neymar", "Lionel Messi"],
+    "category": "Transfers",
+    "subcategories": ["Transfer Fees", "Market Value"],
+    "difficulty": "easy",
+    "source": "Transfermarkt"
+  },
+  {
+    "question": "Which domestic cup is held annually in England?",
+    "answer": "FA Cup",
+    "options": ["FA Cup", "Copa del Rey", "DFB-Pokal", "Coupe de France"],
+    "category": "Club Competitions",
+    "subcategories": ["Domestic Cups"],
+    "difficulty": "easy",
+    "source": "BBC Sport"
+  },
+  {
+    "question": "Which country won the Africa Cup of Nations in 2021?",
+    "answer": "Senegal",
+    "options": ["Egypt", "Senegal", "Nigeria", "Morocco"],
+    "category": "International",
+    "subcategories": ["CAF"],
+    "difficulty": "easy",
+    "source": "CAFOnline.com"
+  },
+  {
+    "question": "Which team won the Bundesliga in the 2020–21 season?",
+    "answer": "Bayern Munich",
+    "options": ["Borussia Dortmund", "RB Leipzig", "Bayern Munich", "Bayer Leverkusen"],
+    "category": "Leagues",
+    "subcategories": ["Bundesliga", "2020s"],
+    "difficulty": "easy",
+    "source": "Bundesliga.com"
+  }
+]
