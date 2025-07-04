@@ -18,7 +18,6 @@ export default function QuizGame() {
   const [elapsedTime, setElapsedTime] = useState(0);
   const [points, setPoints] = useState(null);
   const [streak, setStreak] = useState(0);
-  const [wrongStreak, setWrongStreak] = useState(0);
   const [showYellowCard, setShowYellowCard] = useState(false);
   const [yellowCards, setYellowCards] = useState(0);
   const [showRedCard, setShowRedCard] = useState(false);
@@ -35,7 +34,6 @@ useEffect(() => {
 
       try {
         const baseQuery = collection(db, "triviaQuestions");
-        const isDefaultOnly = NO_EASY_OR_HARD_MODE.includes(subcategory);
 
         let snapshot;
 
