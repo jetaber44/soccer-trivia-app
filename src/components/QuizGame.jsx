@@ -23,6 +23,7 @@ export default function QuizGame() {
   const [showRedCard, setShowRedCard] = useState(false);
 
   const [correctAnswers, setCorrectAnswers] = useState(0);
+  const [wrongStreak, setWrongStreak] = useState(0);
 const [longestStreak, setLongestStreak] = useState(0);
 useEffect(() => {
     async function fetchQuestions() {
