@@ -23,15 +23,10 @@ export default function QuizGame() {
   const [showRedCard, setShowRedCard] = useState(false);
 
   const [correctAnswers, setCorrectAnswers] = useState(0);
-  const [wrongStreak, setWrongStreak] = useState(0);
+const [, setWrongStreak] = useState(0);
 const [longestStreak, setLongestStreak] = useState(0);
 useEffect(() => {
     async function fetchQuestions() {
-      const NO_EASY_OR_HARD_MODE = [
-        "CONCACAF", "CAF", "AFC", "OFC",
-        "MLS", "Rest of World",
-        "2000s", "1990s", "1980s", "1970s or Earlier"
-      ];
 
       try {
         const baseQuery = collection(db, "triviaQuestions");
