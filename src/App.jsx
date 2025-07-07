@@ -11,9 +11,9 @@ function App() {
     <Router>
       {/* Background wrapper */}
       <div
-        className="min-h-screen bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: "url('/Images/background.png')" }}
-      >
+      className="relative min-h-screen bg-cover bg-center bg-no-repeat"
+      style={{ backgroundImage: "url('/Images/background.png')" }}
+    >
         {/* Optional overlay for contrast */}
         <div className="bg-black bg-opacity-20 min-h-screen text-white">
           <div className="px-4 py-6">

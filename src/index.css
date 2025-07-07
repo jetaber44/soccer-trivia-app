@@ -12,3 +12,12 @@ button {
   padding: 0.5rem 1rem;
   font-size: 1rem;
 }
+
+@keyframes bounceCard {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
