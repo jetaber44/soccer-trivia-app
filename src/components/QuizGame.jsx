@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { collection, getDocs, query, where } from "firebase/firestore";
 import { db } from "../firebase";
+import RefereeCard from "../components/RefereeCard";
 
 export default function QuizGame() {
   const { category, subcategory, difficulty } = useParams();
@@ -18,9 +19,10 @@ export default function QuizGame() {
   const [elapsedTime, setElapsedTime] = useState(0);
   const [points, setPoints] = useState(null);
   const [streak, setStreak] = useState(0);
-  const [showYellowCard, setShowYellowCard] = useState(false);
   const [yellowCards, setYellowCards] = useState(0);
-  const [showRedCard, setShowRedCard] = useState(false);
+  const [showCard, setShowCard] = useState(false);
+  const [cardType, setCardType] = useState("red");
+
 
   const [correctAnswers, setCorrectAnswers] = useState(0);
 const [, setWrongStreak] = useState(0);
@@ -143,6 +145,12 @@ const all = snapshot.docs.map(doc => doc.data());
 
   const currentQuestion = questions[currentQuestionIndex];
 
+  function triggerRefereeCard(type) {
+  setCardType(type);
+  setShowCard(true);
+  setTimeout(() => setShowCard(false), 2000);
+}
+
   function handleSelect(option) {
   if (isAnswered) return;
   setSelected(option);
@@ -159,7 +167,6 @@ const all = snapshot.docs.map(doc => doc.data());
 
     // Reset card state on correct answer
     setWrongStreak(0);
-    setShowYellowCard(false);
   } else {
     setPoints(0);
     setStreak(0);
@@ -172,16 +179,16 @@ const all = snapshot.docs.map(doc => doc.data());
         triggerRedCardEnd();
       }
 
-      // 3 wrong in a row = yellow card
-      if (newCount === 3) {
+      // 3 wrong in a row = yellow card or red if already had one
+if (newCount === 3) {
   if (yellowCards === 1) {
+    triggerRefereeCard("red");
     triggerRedCardEnd(); // 2nd yellow = red
   } else {
-    setShowYellowCard(true);
     setYellowCards(1);
+    triggerRefereeCard("yellow");
   }
 }
-
 
       return newCount;
     });
@@ -196,15 +203,14 @@ const all = snapshot.docs.map(doc => doc.data());
     setElapsedTime(0);
     setTimerActive(true);
     setPoints(null);
-    setShowYellowCard(false);
   }
 
   function triggerRedCardEnd() {
-    setShowRedCard(true);
-    setTimeout(() => {
-      setCurrentQuestionIndex(questions.length); // Forces summary screen
-    }, 1500);
-  }
+  triggerRefereeCard("red");
+  setTimeout(() => {
+    setCurrentQuestionIndex(questions.length); // Forces summary screen
+  }, 1500);
+}
 
   if (currentQuestionIndex >= questions.length) {
   return (
@@ -233,12 +239,7 @@ const all = snapshot.docs.map(doc => doc.data());
 
   return (
   <>
-    {showRedCard && (
-      <div className="fixed inset-0 bg-black bg-opacity-80 flex flex-col justify-center items-center z-50">
-        <div className="w-24 h-36 bg-red-500 border-4 border-black rounded-sm shadow-2xl animate-pulse"></div>
-        <p className="text-white font-bold mt-4 text-2xl">🚫 Red Card – Game Over</p>
-      </div>
-    )}
+  
 
     <div className="text-center px-4 py-6 max-w-2xl mx-auto">
       <p className="text-amber-400 font-extrabold text-lg mb-4">Total Score: {score}</p>
@@ -289,13 +290,7 @@ const all = snapshot.docs.map(doc => doc.data());
         ))}
       </div>
 
-      {showYellowCard && (
-        <div className="flex flex-col items-center mb-6">
-          <div className="w-20 h-32 bg-yellow-400 border-4 border-black rounded-sm shadow-lg"></div>
-          <p className="text-yellow-300 font-semibold mt-3">⚠️ 3 wrong in a row</p>
-        </div>
-      )}
-
+      
       {isAnswered && (
         <button
           onClick={nextQuestion}
@@ -307,5 +302,20 @@ const all = snapshot.docs.map(doc => doc.data());
 
       <p className="mt-6 font-medium">Current Streak: {streak}</p>
     </div>
+    {yellowCards > 0 && (
+      <div
+        className="absolute top-6 right-6 z-[200] flex flex-col items-center"
+        style={{
+          animation: "bounceCard 1s ease-in-out infinite",
+          maxWidth: "calc(100vw - 2rem)",
+        }}
+      >
+        <div className="w-10 h-16 sm:w-12 sm:h-20 bg-yellow-400 border-2 border-black rounded-sm shadow-lg" />
+        <p className="text-yellow-300 font-bold mt-2 text-xs sm:text-sm text-center leading-tight whitespace-nowrap">
+          ⚠️ 1st Yellow
+        </p>
+      </div>
+    )}
+    <RefereeCard type={cardType} show={showCard} />
   </>
 )};
