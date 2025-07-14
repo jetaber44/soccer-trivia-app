@@ -304,14 +304,14 @@ if (newCount === 3) {
     </div>
     {yellowCards > 0 && (
       <div
-        className="absolute top-6 right-6 z-[200] flex flex-col items-center"
+        className="absolute top-3 right-3 z-[200] flex flex-col items-center scale-90 sm:scale-100"
         style={{
           animation: "bounceCard 1s ease-in-out infinite",
-          maxWidth: "calc(100vw - 2rem)",
+          maxWidth: "calc(100vw - 1.5rem)",
         }}
       >
-        <div className="w-10 h-16 sm:w-12 sm:h-20 bg-yellow-400 border-2 border-black rounded-sm shadow-lg" />
-        <p className="text-yellow-300 font-bold mt-2 text-xs sm:text-sm text-center leading-tight whitespace-nowrap">
+        <div className="w-8 h-14 sm:w-12 sm:h-20 bg-yellow-400 border-2 border-black rounded-sm shadow-lg" />
+        <p className="text-yellow-300 font-bold mt-1 text-[11px] sm:text-sm text-center leading-tight whitespace-nowrap">
           ⚠️ 1st Yellow
         </p>
       </div>
