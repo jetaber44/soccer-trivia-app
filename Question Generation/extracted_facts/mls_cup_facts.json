@@ -1,0 +1,642 @@
+{
+  "source": "https://en.wikipedia.org/wiki/MLS_Cup",
+  "article_title": "MLS Cup",
+  "facts": [
+    {
+      "id": "mls_cup_001",
+      "text": "The inaugural MLS Cup was held on October 20, 1996."
+    },
+    {
+      "id": "mls_cup_002",
+      "text": "D.C. United defeated the LA Galaxy in the first MLS Cup."
+    },
+    {
+      "id": "mls_cup_003",
+      "text": "The LA Galaxy have won a record six MLS Cup titles as of 2024."
+    },
+    {
+      "id": "mls_cup_004",
+      "text": "Three different trophy designs have been used for the MLS Cup: the Alan I. Rothenberg Trophy (1996-1998), a redesigned Alan I. Rothenberg Trophy (1999-2007), and the Philip F. Anschutz Trophy (since 2008)."
+    },
+    {
+      "id": "mls_cup_005",
+      "text": "D.C. United appeared in the first four MLS Cup finals, winning three of them."
+    },
+    {
+      "id": "mls_cup_006",
+      "text": "In 1997, D.C. United became the first team in MLS history to win both the Supporters' Shield and the MLS Cup in the same season."
+    },
+    {
+      "id": "mls_cup_007",
+      "text": "The Houston Dynamo won back-to-back MLS Cup titles in 2006 and 2007."
+    },
+    {
+      "id": "mls_cup_008",
+      "text": "The Colorado Rapids won their first championship in 2010."
+    },
+    {
+      "id": "mls_cup_009",
+      "text": "Sporting Kansas City, then known as the Kansas City Wizards, won their first MLS Cup in 2000 with a 1–0 victory over the Chicago Fire."
+    },
+    {
+      "id": "mls_cup_010",
+      "text": "In which year did the San Jose Earthquakes win the MLS Cup by defeating the L.A. Galaxy with a score of 2-1? **2001**"
+    },
+    {
+      "id": "mls_cup_011",
+      "text": "How many fans attended the 2002 MLS Cup finals, marking the largest crowd in MLS Cup history? **Over 61,000**"
+    },
+    {
+      "id": "mls_cup_012",
+      "text": "Which two teams played in the highest scoring MLS Cup final in league history, which ended with a score of 4-2? **The Fire and Earthquakes**"
+    },
+    {
+      "id": "mls_cup_013",
+      "text": "In what year did D.C. United win their fourth MLS Cup title by defeating the Kansas City Wizards with a score of 3-2? **2004**"
+    },
+    {
+      "id": "mls_cup_014",
+      "text": "Which team won the MLS Cup in 2005, despite having a ninth-place overall record? **LA Galaxy**"
+    },
+    {
+      "id": "mls_cup_015",
+      "text": "What change did MLS make starting in the 2006 season regarding playoff qualification? **Introduced new wild-cards allowing a certain number of clubs per conference to qualify along with the next best overall teams regardless of conference**"
+    },
+    {
+      "id": "mls_cup_016",
+      "text": "What is the name of the symbol worn on the jersey by the team that won the previous season's Serie A, adopted by MLS in 2006 for its champion teams? **Scudetto**"
+    },
+    {
+      "id": "mls_cup_017",
+      "text": "The LA Galaxy was the first team to wear the MLS scudetto in 2006 following their 2005 MLS Cup title."
+    },
+    {
+      "id": "mls_cup_018",
+      "text": "The Columbus Crew was the first team to wear the redesigned MLS scudetto."
+    },
+    {
+      "id": "mls_cup_019",
+      "text": "Real Salt Lake wore the scudetto in 2010 after winning their first MLS Cup in 2009."
+    },
+    {
+      "id": "mls_cup_020",
+      "text": "The LA Galaxy were the last team to wear the MLS scudetto after winning the MLS Cup in 2011."
+    },
+    {
+      "id": "mls_cup_021",
+      "text": "Starting in the 2013 season, the defending MLS Cup champions began displaying a gold star above their team's silver stars to indicate their MLS Cup wins."
+    },
+    {
+      "id": "mls_cup_022",
+      "text": "The New England Revolution earned the nickname \"Buffalo Bills of MLS\" after making three consecutive MLS Cup finals and losing all of them."
+    },
+    {
+      "id": "mls_cup_023",
+      "text": "In the 2005 MLS Cup final, the LA Galaxy defeated the New England Revolution with a 105th-minute overtime goal from Guillermo Ramírez."
+    },
+    {
+      "id": "mls_cup_024",
+      "text": "The 2006 MLS Cup final saw the Houston Dynamo defeat the New England Revolution in penalties, with the final score being 4-3 in favor of the Dynamo."
+    },
+    {
+      "id": "mls_cup_025",
+      "text": "The 2006 MLS Cup final was the first time in league history that a club lost consecutive MLS Cups."
+    },
+    {
+      "id": "mls_cup_026",
+      "text": "The 2007 MLS Cup final was played at RFK Stadium in Washington, D.C."
+    },
+    {
+      "id": "mls_cup_027",
+      "text": "The announced crowd for the 2007 MLS Cup was 39,859, the largest since 2002."
+    },
+    {
+      "id": "mls_cup_028",
+      "text": "The New England Revolution won its first U.S. Open Cup title in 2007."
+    },
+    {
+      "id": "mls_cup_029",
+      "text": "Taylor Twellman scored for the New England Revolution in the 20th minute of the 2007 MLS Cup final."
+    },
+    {
+      "id": "mls_cup_030",
+      "text": "Dwayne De Rosario scored the winning goal for Houston Dynamo in the 74th minute of the 2007 MLS Cup final."
+    },
+    {
+      "id": "mls_cup_031",
+      "text": "Houston Dynamo became the first team to earn back-to-back MLS Cup titles since D.C. United in 1996 and 1997."
+    },
+    {
+      "id": "mls_cup_032",
+      "text": "The Columbus Crew won the Supporters' Shield with 57 points in the 2008 MLS regular season."
+    },
+    {
+      "id": "mls_cup_033",
+      "text": "The Columbus Crew defeated the New York Red Bulls 3-1 in the 2008 MLS Cup final."
+    },
+    {
+      "id": "mls_cup_034",
+      "text": "The 2008 MLS Cup final was the first time in eight years that a regular season champion made it to the MLS Cup."
+    },
+    {
+      "id": "mls_cup_035",
+      "text": "The point gap between the Columbus Crew and the New York Red Bulls in the 2008 MLS Cup final was the largest in history."
+    },
+    {
+      "id": "mls_cup_036",
+      "text": "Real Salt Lake won their first major trophy by defeating LA Galaxy in the MLS Cup final held at Seattle's Qwest Field (now Lumen Field)."
+    },
+    {
+      "id": "mls_cup_037",
+      "text": "The 2009 MLS Cup final between LA Galaxy and Real Salt Lake was decided by penalty kicks after a stalemate in regulation and overtime."
+    },
+    {
+      "id": "mls_cup_038",
+      "text": "The announced crowd for the 2009 MLS Cup final was 46,011, marking the first championship crowd to draw over 45,000 spectators since 2002."
+    },
+    {
+      "id": "mls_cup_039",
+      "text": "The 2009 MLS Cup was the first MLS championship match televised on ESPN, with the first thirteen championships being carried on ABC."
+    },
+    {
+      "id": "mls_cup_040",
+      "text": "In the 2010 MLS season, six teams from the Western Conference qualified for the playoffs, the largest disparity between the two conferences in league history."
+    },
+    {
+      "id": "mls_cup_041",
+      "text": "The Colorado Rapids won MLS Cup 2010, defeating FC Dallas 2–1 in overtime."
+    },
+    {
+      "id": "mls_cup_042",
+      "text": "LA Galaxy appeared in three MLS Cup finals between 2011 and 2014, winning the MLS Cup in 2011 and 2012, and becoming the first MLS franchise to win five MLS Cups by 2014."
+    },
+    {
+      "id": "mls_cup_043",
+      "text": "LA Galaxy's Landon Donovan scored the only goal in the 2011 MLS Cup final, securing a 1–0 victory over the Houston Dynamo."
+    },
+    {
+      "id": "mls_cup_044",
+      "text": "The 2012 MLS Cup final was a rematch of the previous year's final, where LA Galaxy again defeated the Houston Dynamo, this time with a scoreline of 3–1."
+    },
+    {
+      "id": "mls_cup_045",
+      "text": "Real Salt Lake thwarted LA Galaxy's chance to win three consecutive MLS Cups by defeating them in the 2013 Western Conference semi-finals."
+    },
+    {
+      "id": "mls_cup_046",
+      "text": "In which year did the LA Galaxy win their fifth MLS Cup by defeating the New England Revolution with a goal from Robbie Keane in extra time? **2014**"
+    },
+    {
+      "id": "mls_cup_047",
+      "text": "Who scored the fastest goal in MLS Cup history, and how quickly was it scored? **Diego Valeri, 27 seconds**"
+    },
+    {
+      "id": "mls_cup_048",
+      "text": "During the 2016 MLS Cup, which team became the first to win an MLS Cup final without registering a single shot on goal? **Seattle Sounders FC**"
+    },
+    {
+      "id": "mls_cup_049",
+      "text": "Which team became the first Canadian team to win the MLS Cup and also completed a domestic treble in the same year? **Toronto FC in 2017**"
+    },
+    {
+      "id": "mls_cup_050",
+      "text": "How many spectators attended the 2018 MLS Cup, setting a new attendance record? **73,019**"
+    },
+    {
+      "id": "mls_cup_051",
+      "text": "Atlanta United FC won the MLS Cup in their second season as an expansion team in which year? **2018**"
+    },
+    {
+      "id": "mls_cup_052",
+      "text": "What was the final score when Seattle Sounders FC won their second MLS Cup in 2019? **3-1**"
+    },
+    {
+      "id": "mls_cup_053",
+      "text": "The Columbus Crew defeated which team 3-0 in the 2020 MLS Cup? **Seattle Sounders FC**"
+    },
+    {
+      "id": "mls_cup_054",
+      "text": "Which network aired the MLS Cup for the first time since 2008 during the 2019 edition? **ABC**"
+    },
+    {
+      "id": "mls_cup_055",
+      "text": "From 2015 to 2022, which networks were responsible for televising all MLS Cup playoff games? **ESPN, Fox Sports, and Univisión networks**"
+    },
+    {
+      "id": "mls_cup_056",
+      "text": "Starting in 2023, FOX Sports will be the only linear broadcaster of MLS in the United States, carrying select MLS Cup playoff matches and every MLS Cup with no alternate broadcaster."
+    },
+    {
+      "id": "mls_cup_057",
+      "text": "In Canada, TSN has been airing the MLS Cup on its networks since 2010."
+    },
+    {
+      "id": "mls_cup_058",
+      "text": "RDS holds exclusive rights to MLS, including the MLS Cup, in French."
+    },
+    {
+      "id": "mls_cup_059",
+      "text": "From 1996 to 1999 and 2003 to 2006, the MLS Cup playoffs format included the top four teams per conference."
+    },
+    {
+      "id": "mls_cup_060",
+      "text": "In 2000 and 2001, the MLS Cup playoffs format was the three division winners plus the next five teams with the best records."
+    },
+    {
+      "id": "mls_cup_061",
+      "text": "In 2002, the top 8 teams qualified for the MLS Cup playoffs regardless of conference."
+    },
+    {
+      "id": "mls_cup_062",
+      "text": "The 2007 MLS Cup playoffs format included the top two teams per conference plus the next four teams with the most points."
+    },
+    {
+      "id": "mls_cup_063",
+      "text": "At the end of the 2008 season, the MLS Cup playoffs format was the top three teams of each conference plus the next two highest point totals, regardless of conference."
+    },
+    {
+      "id": "mls_cup_064",
+      "text": "From 2012 to 2014, the MLS Cup playoffs format was changed to eliminate wild card slots, awarding playoff berths to the top five teams in each conference."
+    },
+    {
+      "id": "mls_cup_065",
+      "text": "The MLS Cup was held at a predetermined venue at the end of the 2011 season."
+    },
+    {
+      "id": "mls_cup_066",
+      "text": "Starting from the 2012 season, the MLS Cup has been held at the home field of the finalist with the highest point total during the regular season."
+    },
+    {
+      "id": "mls_cup_067",
+      "text": "From 2015 to 2018, how many teams per conference qualified for the MLS playoffs? **Six teams**"
+    },
+    {
+      "id": "mls_cup_068",
+      "text": "How many teams per conference qualified for the MLS playoffs in the 2019, 2021, and 2022 seasons? **Seven teams**"
+    },
+    {
+      "id": "mls_cup_069",
+      "text": "Due to the COVID-19 pandemic, how many teams from the Eastern and Western conferences respectively qualified for the MLS playoffs in the 2020 season? **Ten teams from the Eastern and eight teams from the Western**"
+    },
+    {
+      "id": "mls_cup_070",
+      "text": "In what year did the MLS playoffs expand to include nine teams per conference? **2023**"
+    },
+    {
+      "id": "mls_cup_071",
+      "text": "Who has been the presenting sponsor of the MLS Cup since the 2023 edition? **Audi**"
+    },
+    {
+      "id": "mls_cup_072",
+      "text": "Which team holds the record for the most MLS Cup championships as of 2024? **LA Galaxy with six cup titles**"
+    },
+    {
+      "id": "mls_cup_073",
+      "text": "Which team has lost the most MLS Cup finals as of 2024? **New England Revolution with five losses**"
+    },
+    {
+      "id": "mls_cup_074",
+      "text": "In what year did the Chicago Fire win the MLS Cup in their inaugural season? **1998**"
+    },
+    {
+      "id": "mls_cup_075",
+      "text": "Before the Chicago Fire, which was the only previous professional American soccer team to win a league championship in their inaugural season and in what year? **Philadelphia Atoms in 1973**"
+    },
+    {
+      "id": "mls_cup_076",
+      "text": "As of 2020, which is the only Canadian team to have won the MLS Cup? **Toronto FC in 2017**"
+    },
+    {
+      "id": "mls_cup_077",
+      "text": "Starting from which year could Canadian clubs qualify for the CONCACAF Champions Cup via MLS slots? **2024**"
+    },
+    {
+      "id": "mls_cup_078",
+      "text": "The 2001 CONCACAF Champions' Cup was canceled, leading to both the MLS Cup 2000 winner, Kansas City Wizards, and the MLS Cup 2001 winner, San Jose Earthquakes, qualifying for the 2002 CONCACAF Champions Cup."
+    },
+    {
+      "id": "mls_cup_079",
+      "text": "Toronto FC qualified for the CONCACAF Champions Cup by winning the Canadian Championship in both 2016 and 2017."
+    },
+    {
+      "id": "mls_cup_080",
+      "text": "Seattle Sounders FC qualified for the CONCACAF Champions Cup as the winners of the MLS Cup 2016."
+    },
+    {
+      "id": "mls_cup_081",
+      "text": "The trophy awarded to the MLS Cup champions is named the Philip F. Anschutz Trophy."
+    },
+    {
+      "id": "mls_cup_082",
+      "text": "The first three MLS Cup finals awarded the winning team with the Alan I. Rothenberg Trophy."
+    },
+    {
+      "id": "mls_cup_083",
+      "text": "The Philip F. Anschutz Trophy was redesigned and renamed in 2008."
+    },
+    {
+      "id": "mls_cup_084",
+      "text": "Eight MLS Cup matches have been played in the Greater Los Angeles area."
+    },
+    {
+      "id": "mls_cup_085",
+      "text": "Columbus, Ohio, has hosted the MLS Cup final four times."
+    },
+    {
+      "id": "mls_cup_086",
+      "text": "Before the 2012 season, the MLS Cup final was played at a predetermined site."
+    },
+    {
+      "id": "mls_cup_087",
+      "text": "Starting in 2012, the MLS Cup final has been hosted by the participant with the highest point total during the regular season."
+    },
+    {
+      "id": "mls_cup_088",
+      "text": "Before the 2012 change, only three teams had played the MLS Cup match on their home field: D.C. United in 1997, LA Galaxy in 2002, and again LA Galaxy in 2011."
+    },
+    {
+      "id": "mls_cup_089",
+      "text": "The first MLS Cup final to be played outside of the United States took place in 2010 at Toronto's BMO Field."
+    },
+    {
+      "id": "mls_cup_090",
+      "text": "The coldest MLS Cup final was in 2013 in Kansas City, Kansas, with a temperature of 20°F (-7°C)."
+    },
+    {
+      "id": "mls_cup_091",
+      "text": "The hottest MLS Cup final was in 2005 in Frisco, Texas, with a temperature of 75°F (23°C)."
+    },
+    {
+      "id": "mls_cup_092",
+      "text": "Sporting Kansas City won the MLS Cup in 2013 at their home stadium, Sporting Park, after a penalty shootout, which was the longest shootout in MLS Cup history."
+    },
+    {
+      "id": "mls_cup_093",
+      "text": "Landon Donovan played his final competitive match in the 2014 MLS Cup final."
+    },
+    {
+      "id": "mls_cup_094",
+      "text": "The Portland Timbers broke the pattern of hosts winning the MLS Cup by defeating the Columbus Crew in the Crew's home stadium in 2015."
+    },
+    {
+      "id": "mls_cup_095",
+      "text": "Goalkeepers who have won the MLS Cup MVP include Tony Meola in 2000, Nick Rimando in 2009, Stefan Frei in 2016, and Sean Johnson in 2021."
+    },
+    {
+      "id": "mls_cup_096",
+      "text": "Brian Mullan is the only player to have won the MLS Cup with four different teams."
+    },
+    {
+      "id": "mls_cup_097",
+      "text": "Canadian MLS teams were not eligible to earn a berth through MLS play until 2023."
+    },
+    {
+      "id": "mls_cup_098",
+      "text": "The MLS Cup is sometimes officially referred to as \"MLS Cup Presented by Audi\" on the official MLS website."
+    },
+    {
+      "id": "mls_cup_099",
+      "text": "D.C. United won their first cup in 1996."
+    },
+    {
+      "id": "mls_cup_100",
+      "text": "Eddie Pope scored the game-winning goal in the 1996 MLS Cup for D.C. United."
+    },
+    {
+      "id": "mls_cup_101",
+      "text": "The LA Galaxy won the MLS Cup in 2005 by defeating the New England Revolution 1–0."
+    },
+    {
+      "id": "mls_cup_102",
+      "text": "Major League Soccer took a break during the 2010 World Cup."
+    },
+    {
+      "id": "mls_cup_103",
+      "text": "The 2012 MLS season featured an unbalanced schedule."
+    },
+    {
+      "id": "mls_cup_104",
+      "text": "Houston Dynamo won the MLS Cup in 2007."
+    },
+    {
+      "id": "mls_cup_105",
+      "text": "Diego Valeri scored the fastest goal in MLS Cup history on December 6, 2015."
+    },
+    {
+      "id": "mls_cup_106",
+      "text": "Toronto FC beat Seattle to win the MLS Cup in 2017."
+    },
+    {
+      "id": "mls_cup_107",
+      "text": "Atlanta United set the MLS Cup attendance record in 2018."
+    },
+    {
+      "id": "mls_cup_108",
+      "text": "Seattle Sounders broke their all-time attendance record in the 2019 MLS Cup."
+    },
+    {
+      "id": "mls_cup_109",
+      "text": "Columbus won the MLS Cup in 2020."
+    },
+    {
+      "id": "mls_cup_110",
+      "text": "The 2019 MLS Cup was broadcasted live on ABC and Univision."
+    },
+    {
+      "id": "mls_cup_111",
+      "text": "The 2019 MLS Cup featured a Thanksgiving Day match aired on FOX."
+    },
+    {
+      "id": "mls_cup_112",
+      "text": "D.C. United won the inaugural MLS Cup in 1996."
+    },
+    {
+      "id": "mls_cup_113",
+      "text": "Chicago Fire FC won their first MLS Cup in 1998."
+    },
+    {
+      "id": "mls_cup_114",
+      "text": "LA Galaxy has won the MLS Cup 5 times as of 2024."
+    },
+    {
+      "id": "mls_cup_115",
+      "text": "Columbus Crew won the MLS Cup in 2023."
+    },
+    {
+      "id": "mls_cup_116",
+      "text": "The first MLS Cup final held at Foxboro Stadium was in 1996."
+    },
+    {
+      "id": "mls_cup_117",
+      "text": "MAPFRE Stadium hosted the MLS Cup finals in both 2015 and 2020."
+    },
+    {
+      "id": "mls_cup_118",
+      "text": "The MLS Cup final was held at BMO Field in Toronto three times: 2010, 2016, and 2017."
+    },
+    {
+      "id": "mls_cup_119",
+      "text": "The Home Depot Center, renamed StubHub Center, hosted the MLS Cup final 6 times from 2003 to 2014."
+    },
+    {
+      "id": "mls_cup_120",
+      "text": "Who won the MLS Cup MVP award in 2015? Diego Valeri"
+    },
+    {
+      "id": "mls_cup_121",
+      "text": "In what year did Landon Donovan win his second MLS Cup MVP award? 2011"
+    },
+    {
+      "id": "mls_cup_122",
+      "text": "Who was the MLS Cup MVP in 2023? Hernández"
+    },
+    {
+      "id": "mls_cup_123",
+      "text": "Which player won the MLS Cup MVP award in both 2001 and 2007? De Rosario"
+    },
+    {
+      "id": "mls_cup_124",
+      "text": "Who received the MLS Cup MVP award in 2018? Martínez"
+    },
+    {
+      "id": "mls_cup_125",
+      "text": "In 1996, who was awarded the MLS Cup MVP? Etcheverry"
+    },
+    {
+      "id": "mls_cup_126",
+      "text": "Who was the recipient of the MLS Cup MVP award in 2004? Eskandarian"
+    },
+    {
+      "id": "mls_cup_127",
+      "text": "In what year did Nick Rimando win the MLS Cup MVP award? 2009"
+    },
+    {
+      "id": "mls_cup_128",
+      "text": "Which team has the highest win percentage in MLS Cup Finals appearances as of 2024?"
+    },
+    {
+      "id": "mls_cup_129",
+      "text": "D.C. United (.800)"
+    },
+    {
+      "id": "mls_cup_130",
+      "text": "How many times has LA Galaxy won the MLS Cup as of 2024?"
+    },
+    {
+      "id": "mls_cup_131",
+      "text": "6 times"
+    },
+    {
+      "id": "mls_cup_132",
+      "text": "Which stadium hosted the MLS Cup Finals the most times as of 2024?"
+    },
+    {
+      "id": "mls_cup_133",
+      "text": "Dignity Health Sports Park (7 times)"
+    },
+    {
+      "id": "mls_cup_134",
+      "text": "In what year did Atlanta United FC win their first MLS Cup?"
+    },
+    {
+      "id": "mls_cup_135",
+      "text": "2018"
+    },
+    {
+      "id": "mls_cup_136",
+      "text": "Which team appeared in the MLS Cup Finals for the first time in 2021?"
+    },
+    {
+      "id": "mls_cup_137",
+      "text": "New York City FC"
+    },
+    {
+      "id": "mls_cup_138",
+      "text": "How many times has the New England Revolution been the runner-up in the MLS Cup Finals as of 2024?"
+    },
+    {
+      "id": "mls_cup_139",
+      "text": "5 times"
+    },
+    {
+      "id": "mls_cup_140",
+      "text": "What was the result of the 2018 MLS Cup between Toronto FC and Seattle Sounders FC?"
+    },
+    {
+      "id": "mls_cup_141",
+      "text": "Toronto FC won (F) and Seattle Sounders FC was in the Quarterfinals (QF)"
+    },
+    {
+      "id": "mls_cup_142",
+      "text": "As of 2024, which team has never won the MLS Cup despite making it to the finals?"
+    },
+    {
+      "id": "mls_cup_143",
+      "text": "New York Red Bulls (0 wins, 2 runner-up finishes)"
+    },
+    {
+      "id": "mls_cup_144",
+      "text": "Which team achieved a perfect win rate in their MLS Cup Finals appearances by 2024, winning every time they appeared?"
+    },
+    {
+      "id": "mls_cup_145",
+      "text": "San Jose Earthquakes (2 wins, 0 losses)"
+    },
+    {
+      "id": "mls_cup_146",
+      "text": "In what year did Columbus Crew win their third MLS Cup?"
+    },
+    {
+      "id": "mls_cup_147",
+      "text": "2023"
+    },
+    {
+      "id": "mls_cup_148",
+      "text": "Landon Donovan has won the most MLS Cups, with a total of 6 wins."
+    },
+    {
+      "id": "mls_cup_149",
+      "text": "The first MLS Cup MVP was Marco Etcheverry, a midfielder for D.C. United in 1996."
+    },
+    {
+      "id": "mls_cup_150",
+      "text": "Tony Meola was the first goalkeeper to win the MLS Cup MVP award, doing so in 2000 with the Kansas City Wizards."
+    },
+    {
+      "id": "mls_cup_151",
+      "text": "Dwayne De Rosario won the MLS Cup MVP award twice, first as a forward in 2001 and then as a midfielder in 2007."
+    },
+    {
+      "id": "mls_cup_152",
+      "text": "The LA Galaxy is the club with the most different players winning the MLS Cup MVP award, totaling 7 different winners."
+    },
+    {
+      "id": "mls_cup_153",
+      "text": "John McCarthy won the MLS Cup MVP award in 2022 as a goalkeeper for Los Angeles FC."
+    },
+    {
+      "id": "mls_cup_154",
+      "text": "Cucho Hernández, a forward for Columbus Crew, won the MLS Cup MVP award in 2023."
+    },
+    {
+      "id": "mls_cup_155",
+      "text": "Gastón Brugman, a midfielder for LA Galaxy, was the MLS Cup MVP in 2024."
+    },
+    {
+      "id": "mls_cup_156",
+      "text": "Jeff Agoos and Todd Dunivant are tied for the second-most MLS Cup wins as players, each with 5 victories."
+    },
+    {
+      "id": "mls_cup_157",
+      "text": "The 2023 MLS Cup MVP, Cucho Hernández, played for Columbus Crew."
+    }
+  ],
+  "extraction_stats": {
+    "total_facts": 157,
+    "unique_facts": 157,
+    "new_unique_facts": 157,
+    "chunks_processed": 16,
+    "total_prompt_tokens": 16857,
+    "total_completion_tokens": 3783
+  }
+}

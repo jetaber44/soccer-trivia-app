@@ -1,0 +1,622 @@
+{
+  "source": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+  "article_title": "Philadelphia Union",
+  "facts": [
+    {
+      "id": "philadelphia_union_001",
+      "text": "The Philadelphia Union was founded on February 28, 2008."
+    },
+    {
+      "id": "philadelphia_union_002",
+      "text": "The Philadelphia Union began playing in Major League Soccer (MLS) in 2010."
+    },
+    {
+      "id": "philadelphia_union_003",
+      "text": "Subaru Park, the home stadium of the Philadelphia Union, is located in Chester, Pennsylvania."
+    },
+    {
+      "id": "philadelphia_union_004",
+      "text": "Jay Sugarman is the majority owner and chairman of the Philadelphia Union."
+    },
+    {
+      "id": "philadelphia_union_005",
+      "text": "Kevin Durant is a minority owner of the Philadelphia Union."
+    },
+    {
+      "id": "philadelphia_union_006",
+      "text": "The Philadelphia Union finished as runners-up in the U.S. Open Cup tournaments in 2014, 2015, and 2018."
+    },
+    {
+      "id": "philadelphia_union_007",
+      "text": "The Philadelphia Union finished as runners-up in the 2022 MLS Cup final."
+    },
+    {
+      "id": "philadelphia_union_008",
+      "text": "The Philadelphia Union won the Supporters' Shield in 2020, marking the first in the club's history."
+    },
+    {
+      "id": "philadelphia_union_009",
+      "text": "The Philadelphia Atoms won the Soccer Bowl in their inaugural 1973 season."
+    },
+    {
+      "id": "philadelphia_union_010",
+      "text": "Bob Rigby became the first soccer player to be featured on the cover of Sports Illustrated following the Philadelphia Atoms' championship."
+    },
+    {
+      "id": "philadelphia_union_011",
+      "text": "The NASL, which included teams like the Philadelphia Atoms and Philadelphia Fury, folded in 1984."
+    },
+    {
+      "id": "philadelphia_union_012",
+      "text": "Major League Soccer (MLS) added Philadelphia as its sixteenth team on February 28, 2008."
+    },
+    {
+      "id": "philadelphia_union_013",
+      "text": "The finalization of the Philadelphia Union was supported by a $47 million package approved by Delaware County politicians and Pennsylvania governor Ed Rendell."
+    },
+    {
+      "id": "philadelphia_union_014",
+      "text": "In the 2010 MLS SuperDraft, the Philadelphia Union selected Danny Mwanga as the number one pick."
+    },
+    {
+      "id": "philadelphia_union_015",
+      "text": "The Philadelphia Union played their inaugural game on March 25, 2010, against Seattle Sounders FC."
+    },
+    {
+      "id": "philadelphia_union_016",
+      "text": "Sébastien Le Toux scored the first goal for Philadelphia in their home opener on April 10, 2010."
+    },
+    {
+      "id": "philadelphia_union_017",
+      "text": "The Union's first match at Subaru Park was on June 27, 2010, against Seattle Sounders FC."
+    },
+    {
+      "id": "philadelphia_union_018",
+      "text": "Zac MacMath was the fifth overall draft pick by the Philadelphia Union in the 2011 MLS SuperDraft."
+    },
+    {
+      "id": "philadelphia_union_019",
+      "text": "The Union acquired shirt sponsor Bimbo Bakeries USA on January 11, 2011."
+    },
+    {
+      "id": "philadelphia_union_020",
+      "text": "Philadelphia Union qualified for the MLS Cup Playoffs for the first time in the 2011 season."
+    },
+    {
+      "id": "philadelphia_union_021",
+      "text": "The Union lost the first leg of the MLS Eastern Conference semi-finals on October 30, 2011, against Houston Dynamo."
+    },
+    {
+      "id": "philadelphia_union_022",
+      "text": "John Hackworth became the Union's interim coach on June 13, 2012, and was given the role permanently on August 30, 2012."
+    },
+    {
+      "id": "philadelphia_union_023",
+      "text": "The 2012 MLS All-Star Game was held at Subaru Park, where the MLS All-Stars defeated Chelsea F.C. 3-2."
+    },
+    {
+      "id": "philadelphia_union_024",
+      "text": "The Philadelphia Union used the first overall pick to select goalkeeper Andre Blake."
+    },
+    {
+      "id": "philadelphia_union_025",
+      "text": "The Union traded forward Jack McInerney to the Montreal Impact for winger Andrew Wenger on April 20, 2014."
+    },
+    {
+      "id": "philadelphia_union_026",
+      "text": "Jim Curtin's coaching career with the Union began in 2014."
+    },
+    {
+      "id": "philadelphia_union_027",
+      "text": "The Union reached the Lamar Hunt U.S. Open Cup finals for the first time in 2014."
+    },
+    {
+      "id": "philadelphia_union_028",
+      "text": "The Union traded for forward C.J. Sapong from Sporting Kansas City during the offseason following the 2014 season."
+    },
+    {
+      "id": "philadelphia_union_029",
+      "text": "The Union traded Sheanon Williams to the Houston Dynamo for allocation money, which was used to sign Swiss midfielder Tranquillo Barnetta on July 29, 2015."
+    },
+    {
+      "id": "philadelphia_union_030",
+      "text": "The Union made their second consecutive appearance in the Lamar Hunt U.S. Open Cup final against Sporting Kansas City on September 30, 2015."
+    },
+    {
+      "id": "philadelphia_union_031",
+      "text": "Andre Blake won the 2016 MLS Goalkeeper of the Year Award."
+    },
+    {
+      "id": "philadelphia_union_032",
+      "text": "The Union reached the playoffs for the 2nd time in team history in 2016 but were defeated 3–1 by Toronto FC in the Knockout round of the MLS Cup Playoffs."
+    },
+    {
+      "id": "philadelphia_union_033",
+      "text": "The Union introduced a snake mascot named Phang on September 10, 2018."
+    },
+    {
+      "id": "philadelphia_union_034",
+      "text": "By July 2019, the Union reached first place in the Eastern Conference and had the club's best start to a season."
+    },
+    {
+      "id": "philadelphia_union_035",
+      "text": "In the 2020 season, the Philadelphia Union won their first trophy by finishing top of the league standings and earning the Supporters' Shield."
+    },
+    {
+      "id": "philadelphia_union_036",
+      "text": "The Philadelphia Union's head coach, Curtin, won his first Sigi Schmid Coach of the Year Award in 2020."
+    },
+    {
+      "id": "philadelphia_union_037",
+      "text": "The Philadelphia Union's debut in the CONCACAF Champions League was marked by their first international win against Deportivo Saprissa."
+    },
+    {
+      "id": "philadelphia_union_038",
+      "text": "The victory against Deportivo Saprissa marked Curtin's 100th win as head coach of the Philadelphia Union."
+    },
+    {
+      "id": "philadelphia_union_039",
+      "text": "The Philadelphia Union lost to New York City FC 2–1 in their first-ever conference final match in team history."
+    },
+    {
+      "id": "philadelphia_union_040",
+      "text": "On July 8, 2022, the Philadelphia Union defeated D.C. United 7–0, tying the MLS record for the biggest goal differential win."
+    },
+    {
+      "id": "philadelphia_union_041",
+      "text": "The Philadelphia Union advanced to their first-ever MLS Cup final after defeating New York City FC 3–1 in the conference finals."
+    },
+    {
+      "id": "philadelphia_union_042",
+      "text": "In the MLS Cup, the Philadelphia Union were defeated by LAFC in a penalty shoot-out."
+    },
+    {
+      "id": "philadelphia_union_043",
+      "text": "The Philadelphia Union's name, crest, and colors were officially announced on May 11, 2009."
+    },
+    {
+      "id": "philadelphia_union_044",
+      "text": "The name \"Union\" was chosen following a fan poll, with the other options being AC Philadelphia, SC Philadelphia, and Philadelphia City."
+    },
+    {
+      "id": "philadelphia_union_045",
+      "text": "The Union's colors, navy blue and gold, represent the primary colors of the Continental Army's uniforms during the American Revolutionary War."
+    },
+    {
+      "id": "philadelphia_union_046",
+      "text": "The team's crest features thirteen gold stars representing the original Thirteen Colonies and a rattlesnake paying homage to the \"Join, or Die\" political cartoon by Benjamin Franklin."
+    },
+    {
+      "id": "philadelphia_union_047",
+      "text": "The Philadelphia Union's official motto is \"jungite aut perite,\" a Latin translation of \"join or die.\""
+    },
+    {
+      "id": "philadelphia_union_048",
+      "text": "In February 2013, which team unveiled a third uniform commemorating Bethlehem Steel F.C.?"
+    },
+    {
+      "id": "philadelphia_union_049",
+      "text": "Philadelphia Union"
+    },
+    {
+      "id": "philadelphia_union_050",
+      "text": "When did the Philadelphia Union announce their initial sponsorship agreement with Bimbo Bakeries USA?"
+    },
+    {
+      "id": "philadelphia_union_051",
+      "text": "January 11, 2011"
+    },
+    {
+      "id": "philadelphia_union_052",
+      "text": "How much was the Philadelphia Union's sponsorship deal with Bimbo Bakeries USA initially valued at?"
+    },
+    {
+      "id": "philadelphia_union_053",
+      "text": "About $12 million"
+    },
+    {
+      "id": "philadelphia_union_054",
+      "text": "In what year did Bimbo and the Philadelphia Union renew their sponsorship arrangement for five years at an annual value of $2.3 million?"
+    },
+    {
+      "id": "philadelphia_union_055",
+      "text": "Which company became the official beer sponsor of the Philadelphia Union on November 26, 2014?"
+    },
+    {
+      "id": "philadelphia_union_056",
+      "text": "Dogfish Head Brewery"
+    },
+    {
+      "id": "philadelphia_union_057",
+      "text": "What is the name of the stadium where the Philadelphia Union play most of their games, as of 2010?"
+    },
+    {
+      "id": "philadelphia_union_058",
+      "text": "Subaru Park"
+    },
+    {
+      "id": "philadelphia_union_059",
+      "text": "Subaru Park is located at the southwesterly corner of which bridge?"
+    },
+    {
+      "id": "philadelphia_union_060",
+      "text": "Commodore Barry Bridge"
+    },
+    {
+      "id": "philadelphia_union_061",
+      "text": "Ahead of which season did Subaru Park undergo upgrades to enhance the matchday experience?"
+    },
+    {
+      "id": "philadelphia_union_062",
+      "text": "The 2025 season"
+    },
+    {
+      "id": "philadelphia_union_063",
+      "text": "The Philadelphia Union played their home opener at Lincoln Financial Field on April 10, 2010, against D.C. United."
+    },
+    {
+      "id": "philadelphia_union_064",
+      "text": "The Union's first match at their official home, Subaru Park, resulted in a 3–2 win over Seattle Sounders FC on June 27, 2010."
+    },
+    {
+      "id": "philadelphia_union_065",
+      "text": "The Philadelphia Union's training fields, constructed in fall 2014, are located right outside Subaru Park in Chester, Pennsylvania."
+    },
+    {
+      "id": "philadelphia_union_066",
+      "text": "In 2016, the Philadelphia Union opened a 16,500 square foot training facility and offices in the former machine shop of the Chester Waterside Station of the Philadelphia Electric Company."
+    },
+    {
+      "id": "philadelphia_union_067",
+      "text": "The WSFS Bank Sportsplex, announced by the Philadelphia Union in February 2023, is a $55 million indoor-outdoor training facility scheduled to open in 2024."
+    },
+    {
+      "id": "philadelphia_union_068",
+      "text": "The Philadelphia Union announced on August 19, 2015, that they would operate a reserve team in Bethlehem, Pennsylvania, competing in the United Soccer League (USL) starting in 2016."
+    },
+    {
+      "id": "philadelphia_union_069",
+      "text": "Bethlehem Steel FC's name, crest, and colors were officially announced on October 27, 2015, following a fan poll."
+    },
+    {
+      "id": "philadelphia_union_070",
+      "text": "In December 2019, the Philadelphia Union announced that the Bethlehem Steel identity would be retired ahead of the 2020 season, with the club becoming known as Philadelphia Union II."
+    },
+    {
+      "id": "philadelphia_union_071",
+      "text": "On December 6, 2021, Philadelphia Union II announced they would join the newly established MLS Next Pro."
+    },
+    {
+      "id": "philadelphia_union_072",
+      "text": "The Philadelphia Union Academy operates a training and competition program starting with the Under-9 age group and running through Under-17."
+    },
+    {
+      "id": "philadelphia_union_073",
+      "text": "MLS Next, an elite North American youth soccer league, was launched in 2020."
+    },
+    {
+      "id": "philadelphia_union_074",
+      "text": "The Union Academy teams train and compete in Wayne and Chester, Pennsylvania."
+    },
+    {
+      "id": "philadelphia_union_075",
+      "text": "Philadelphia Union midfielder Quinn Sullivan became the first Homegrown player to reach 100 MLS appearances for the club."
+    },
+    {
+      "id": "philadelphia_union_076",
+      "text": "Quinn Sullivan debuted for the Union on May 1, 2021, against New York City FC."
+    },
+    {
+      "id": "philadelphia_union_077",
+      "text": "On MLS Decision Day 2024, Quinn Sullivan became the Union’s youngest player to achieve 10 goals and 10 assists in a single season."
+    },
+    {
+      "id": "philadelphia_union_078",
+      "text": "Brenden Aaronson transferred from Philadelphia Union to Red Bull Salzburg in 2021, and then to Leeds United in 2022."
+    },
+    {
+      "id": "philadelphia_union_079",
+      "text": "Mark McKenzie, a Union Academy graduate, signed with Genk in Belgium in 2021."
+    },
+    {
+      "id": "philadelphia_union_080",
+      "text": "The Union Development Squad (UDS) entered the United Premier Soccer League for the Fall 2022 season."
+    },
+    {
+      "id": "philadelphia_union_081",
+      "text": "The Union Development Squad finished the regular season with a record of 9–0–3 in the Fall 2022 season."
+    },
+    {
+      "id": "philadelphia_union_082",
+      "text": "In February 2023, the Union Development Squad joined the National Premier Soccer League for the 2023 season."
+    },
+    {
+      "id": "philadelphia_union_083",
+      "text": "YSC Academy, a soccer-specific school for elite players, was founded by Philadelphia Union investor Richie Graham in September 2013."
+    },
+    {
+      "id": "philadelphia_union_084",
+      "text": "The first graduating class of YSC Academy was in 2015."
+    },
+    {
+      "id": "philadelphia_union_085",
+      "text": "The Sons of Ben, a supporters group instrumental in the founding of the Philadelphia Union, was founded in January 2007."
+    },
+    {
+      "id": "philadelphia_union_086",
+      "text": "The Sons of Ben presented scarves to the ownership group at the Philadelphia Union expansion press conference in January 2008."
+    },
+    {
+      "id": "philadelphia_union_087",
+      "text": "The Sons of Ben were present for the Philadelphia Union naming ceremony at City Hall on May 11, 2009."
+    },
+    {
+      "id": "philadelphia_union_088",
+      "text": "The Sons of Ben's principles are to be loud, proud, smart, and passionate."
+    },
+    {
+      "id": "philadelphia_union_089",
+      "text": "The Sons of Ben had over 4,000 members by 2023."
+    },
+    {
+      "id": "philadelphia_union_090",
+      "text": "The Sons of Ben created a 20,000 square foot tifo display for the 2023 MLS Cup Eastern Conference Final."
+    },
+    {
+      "id": "philadelphia_union_091",
+      "text": "The 'Help Kick Hunger' fundraiser has raised over $100,000 for Chester community food programs since its inception."
+    },
+    {
+      "id": "philadelphia_union_092",
+      "text": "The Philadelphia Union's primary rivals are the New York Red Bulls and New York City FC."
+    },
+    {
+      "id": "philadelphia_union_093",
+      "text": "The Philadelphia Union's first playoff win in team history was against the New York Red Bulls."
+    },
+    {
+      "id": "philadelphia_union_094",
+      "text": "The Philadelphia Union's most meaningful rivalry in recent years has been with New York City FC."
+    },
+    {
+      "id": "philadelphia_union_095",
+      "text": "The rivalry between the Philadelphia Union and New York City FC intensified after NYCFC controversially eliminated the Union in the 2021 Eastern Conference Final."
+    },
+    {
+      "id": "philadelphia_union_096",
+      "text": "The Philadelphia Union defeated NYCFC 3-1 at home to win the 2022 Eastern Conference final, earning their first ever appearance in an MLS Cup final."
+    },
+    {
+      "id": "philadelphia_union_097",
+      "text": "The Philadelphia Union has a smaller rivalry with D.C. United due to geographical proximity."
+    },
+    {
+      "id": "philadelphia_union_098",
+      "text": "The Philadelphia Union considers the New England Revolution and Atlanta United FC as rivals due to intense games and controversial moments."
+    },
+    {
+      "id": "philadelphia_union_099",
+      "text": "The Philadelphia Union has had eras of rivalries with the Seattle Sounders and LAFC."
+    },
+    {
+      "id": "philadelphia_union_100",
+      "text": "The rivalry between the Philadelphia Union and FC Cincinnati intensified due to multiple high-profile departures from Philadelphia to Cincinnati, including former Union assistant coach Pat Noonan becoming Cincinnati's head coach in 2022."
+    },
+    {
+      "id": "philadelphia_union_101",
+      "text": "Until the 2022 season, WPHL-TV and WPVI-TV were the main English-language television broadcasters for Union matches."
+    },
+    {
+      "id": "philadelphia_union_102",
+      "text": "From 2023, every Philadelphia Union match is available via MLS Season Pass on the Apple TV app, eliminating blackout restrictions."
+    },
+    {
+      "id": "philadelphia_union_103",
+      "text": "Union season ticket holders receive free access to the Apple TV MLS package starting from 2023."
+    },
+    {
+      "id": "philadelphia_union_104",
+      "text": "Keystone Sports & Entertainment owns the Philadelphia Union, with Jay Sugarman as the leading figure of the ownership group."
+    },
+    {
+      "id": "philadelphia_union_105",
+      "text": "Nick Sakiewicz's involvement with Keystone Sports & Entertainment ended on October 3, 2015."
+    },
+    {
+      "id": "philadelphia_union_106",
+      "text": "Basketball player Kevin Durant became an investor in the Philadelphia Union on June 15, 2020."
+    },
+    {
+      "id": "philadelphia_union_107",
+      "text": "Kevin Durant purchased five percent of the Philadelphia Union with the possibility of acquiring an additional five percent in the future."
+    },
+    {
+      "id": "philadelphia_union_108",
+      "text": "Alejandro Bedoya holds the records for both the most games played (245) and the most minutes played (19,388) for the Philadelphia Union as of February 22, 2025."
+    },
+    {
+      "id": "philadelphia_union_109",
+      "text": "Dániel Gazdag is the top goal scorer for the Philadelphia Union with 58 goals as of February 22, 2025."
+    },
+    {
+      "id": "philadelphia_union_110",
+      "text": "Kai Wagner has the most assists for the Philadelphia Union with 54 assists as of February 22, 2025."
+    },
+    {
+      "id": "philadelphia_union_111",
+      "text": "Andre Blake has played 246 games for the Philadelphia Union, making him the player with the most games played as of February 22, 2025."
+    },
+    {
+      "id": "philadelphia_union_112",
+      "text": "Andre Blake has recorded 76 shutouts for the Philadelphia Union as of February 22, 2025."
+    },
+    {
+      "id": "philadelphia_union_113",
+      "text": "The Philadelphia Union's soccer stadium is named Subaru Park."
+    },
+    {
+      "id": "philadelphia_union_114",
+      "text": "Philadelphia Union was awarded an MLS expansion team on February 28, 2008."
+    },
+    {
+      "id": "philadelphia_union_115",
+      "text": "The Philadelphia Union played their debut match on March 25, 2010."
+    },
+    {
+      "id": "philadelphia_union_116",
+      "text": "Philadelphia Union's first home victory came on April 10, 2010, against D.C. United."
+    },
+    {
+      "id": "philadelphia_union_117",
+      "text": "The Philadelphia Union's season-ticket packages were sold out as of May 20, 2010."
+    },
+    {
+      "id": "philadelphia_union_118",
+      "text": "The Philadelphia Union unveiled a snake mascot named Phang on September 11, 2018."
+    },
+    {
+      "id": "philadelphia_union_119",
+      "text": "Jim Curtin was named the 2020 MLS Sigi Schmid Coach of the Year on November 17, 2020."
+    },
+    {
+      "id": "philadelphia_union_120",
+      "text": "The Philadelphia Union won the 2020 MLS Supporters' Shield on November 8, 2020."
+    },
+    {
+      "id": "philadelphia_union_121",
+      "text": "The Philadelphia Union's team name was officially unveiled on January 23, 2010."
+    },
+    {
+      "id": "philadelphia_union_122",
+      "text": "In 2020, which team won the Supporters' Shield? Philadelphia Union"
+    },
+    {
+      "id": "philadelphia_union_123",
+      "text": "Which team was the MLS Cup champion in 2023? FC Cincinnati"
+    },
+    {
+      "id": "philadelphia_union_124",
+      "text": "Who won the Supporters' Shield in 2019? Los Angeles FC"
+    },
+    {
+      "id": "philadelphia_union_125",
+      "text": "In what year did Inter Miami CF win the Supporters' Shield? 2024"
+    },
+    {
+      "id": "philadelphia_union_126",
+      "text": "Which team won the MLS Cup in 2010? Colorado Rapids"
+    },
+    {
+      "id": "philadelphia_union_127",
+      "text": "Who was the MLS Cup champion in 2014? New England Revolution"
+    },
+    {
+      "id": "philadelphia_union_128",
+      "text": "In 2021, which team won the Supporters' Shield? New England Revolution"
+    },
+    {
+      "id": "philadelphia_union_129",
+      "text": "What team won the MLS Cup in 2017? Toronto FC"
+    },
+    {
+      "id": "philadelphia_union_130",
+      "text": "Which team was awarded the Supporters' Shield in 2012? San Jose Earthquakes"
+    },
+    {
+      "id": "philadelphia_union_131",
+      "text": "Who won the MLS Cup in 2008? Columbus Crew"
+    },
+    {
+      "id": "philadelphia_union_132",
+      "text": "In which year did the MLS Cup not take place?"
+    },
+    {
+      "id": "philadelphia_union_133",
+      "text": "Which team was the MLS Cup champion in 2023?"
+    },
+    {
+      "id": "philadelphia_union_134",
+      "text": "What was the shirt sponsor for the Philadelphia Union from 2011 to 2019?"
+    },
+    {
+      "id": "philadelphia_union_135",
+      "text": "Bimbo"
+    },
+    {
+      "id": "philadelphia_union_136",
+      "text": "Who was the shirt sponsor for the Philadelphia Union in 2020?"
+    },
+    {
+      "id": "philadelphia_union_137",
+      "text": "Subaru"
+    },
+    {
+      "id": "philadelphia_union_138",
+      "text": "Which player from Denmark is listed as a forward (FW) for the Philadelphia Union?"
+    },
+    {
+      "id": "philadelphia_union_139",
+      "text": "Mikael Uhre"
+    },
+    {
+      "id": "philadelphia_union_140",
+      "text": "Which team won the MLS Cup in consecutive years, 2016 and 2017?"
+    },
+    {
+      "id": "philadelphia_union_141",
+      "text": "The Philadelphia Union won their first Supporters' Shield in the year 2020."
+    },
+    {
+      "id": "philadelphia_union_142",
+      "text": "The Philadelphia Union won the Eastern Conference (Playoffs) for the first time in 2022."
+    },
+    {
+      "id": "philadelphia_union_143",
+      "text": "Jim Curtin served as the head coach of the Philadelphia Union from June 10, 2014, to November 7, 2024, with a win percentage of 42.68%."
+    },
+    {
+      "id": "philadelphia_union_144",
+      "text": "Ernst Tanner was appointed as the Sporting Director of the Philadelphia Union on August 9, 2018, and is still in the position as of the last update."
+    },
+    {
+      "id": "philadelphia_union_145",
+      "text": "The Philadelphia Union reached the semifinals of the CONCACAF Champions Cup in 2021 but were eliminated by Club América with an aggregate score of 0-4."
+    },
+    {
+      "id": "philadelphia_union_146",
+      "text": "Dániel Gazdag became the top scorer in the history of the Philadelphia Union with 71 goals from 2021 to 2025."
+    },
+    {
+      "id": "philadelphia_union_147",
+      "text": "In the 2022 MLS season, Dániel Gazdag was the top goalscorer for the Philadelphia Union with 24 goals."
+    },
+    {
+      "id": "philadelphia_union_148",
+      "text": "The Philadelphia Union achieved their highest average attendance in the 2023 MLS season with 18,907 fans."
+    },
+    {
+      "id": "philadelphia_union_149",
+      "text": "Conor Casey played for the Philadelphia Union from 2013 to 2015, scoring 22 goals."
+    },
+    {
+      "id": "philadelphia_union_150",
+      "text": "Ilsinho was a player for the Philadelphia Union from 2016 to 2021."
+    },
+    {
+      "id": "philadelphia_union_151",
+      "text": "Fafa Picault was part of the Philadelphia Union squad from 2017 to 2019."
+    },
+    {
+      "id": "philadelphia_union_152",
+      "text": "Sergio Santos played for the Philadelphia Union from 2019 to 2022."
+    }
+  ],
+  "extraction_stats": {
+    "total_facts": 160,
+    "unique_facts": 160,
+    "new_unique_facts": 152,
+    "chunks_processed": 15,
+    "total_prompt_tokens": 14675,
+    "total_completion_tokens": 3501
+  }
+}

@@ -1,0 +1,1873 @@
+
+// Topic: Manchester City
+{
+  "question": "Which Manchester City player scored the most goals in a single Premier League season as of the end of the 2022-2023 season?",
+  "answer": "Erling Haaland",
+  "options": ["Sergio Agüero", "Erling Haaland", "Raheem Sterling", "Kevin De Bruyne"],
+  "category": ["Leagues", "Premier League"],
+  "subcategories": ["2020s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who was Manchester City's manager when they won their first Premier League title in 2012?",
+  "answer": "Roberto Mancini",
+  "options": ["Roberto Mancini", "Manuel Pellegrini", "Pep Guardiola", "Mark Hughes"],
+  "category": ["Leagues", "Premier League"],
+  "subcategories": ["2010s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "In which year did Manchester City complete a domestic treble of the Premier League, FA Cup, and League Cup?",
+  "answer": "2019",
+  "options": ["2018", "2019", "2020", "2021"],
+  "category": ["Club Competitions", "Domestic Cups"],
+  "subcategories": ["2010s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who was Manchester City's top scorer in the UEFA Champions League during the 2020-2021 season?",
+  "answer": "Riyad Mahrez",
+  "options": ["Riyad Mahrez", "Phil Foden", "Kevin De Bruyne", "Gabriel Jesus"],
+  "category": ["Club Competitions", "UEFA Champions League"],
+  "subcategories": ["2020s"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which club did Manchester City defeat to win their first ever UEFA Champions League title in 2023?",
+  "answer": "Inter Milan",
+  "options": ["Inter Milan", "Real Madrid", "Paris Saint-Germain", "Chelsea"],
+  "category": ["Club Competitions", "UEFA Champions League"],
+  "subcategories": ["2020s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which former Manchester City player became the club's manager in the 2000s?",
+  "answer": "Stuart Pearce",
+  "options": ["Stuart Pearce", "Shaun Goater", "Richard Dunne", "Niall Quinn"],
+  "category": ["Leagues", "Premier League"],
+  "subcategories": ["2000s"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which player holds the record for the most appearances for Manchester City in the Premier League as of the end of the 2022-2023 season?",
+  "answer": "David Silva",
+  "options": ["David Silva", "Vincent Kompany", "Sergio Agüero", "Joe Hart"],
+  "category": ["Leagues", "Premier League"],
+  "subcategories": ["2020s"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which player scored the decisive goal in the 2011-2012 Premier League season finale against QPR to clinch the title for Manchester City?",
+  "answer": "Sergio Agüero",
+  "options": ["Sergio Agüero", "Edin Džeko", "Mario Balotelli", "Yaya Touré"],
+  "category": ["Leagues", "Premier League"],
+  "subcategories": ["2010s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "From which club did Manchester City sign Kevin De Bruyne in 2015?",
+  "answer": "VfL Wolfsburg",
+  "options": ["Chelsea", "VfL Wolfsburg", "Borussia Dortmund", "Bayern Munich"],
+  "category": ["Transfers", "Career Paths"],
+  "subcategories": ["2010s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "As of 2023, which Manchester City player has won the most Premier League Player of the Month awards?",
+  "answer": "Sergio Agüero",
+  "options": ["Sergio Agüero", "Kevin De Bruyne", "Raheem Sterling", "Yaya Touré"],
+  "category": ["Leagues", "Premier League"],
+  "subcategories": ["2020s"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which Manchester City player was part of the 2018 FIFA World Cup winning squad?",
+  "answer": "Benjamin Mendy",
+  "options": ["Benjamin Mendy", "Leroy Sané", "Gabriel Jesus", "Ilkay Gündogan"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Who was Manchester City's captain during their 2020-2021 Premier League winning campaign?",
+  "answer": "Fernandinho",
+  "options": ["Fernandinho", "Kevin De Bruyne", "Raheem Sterling", "Rúben Dias"],
+  "category": ["Leagues", "Premier League"],
+  "subcategories": ["2020s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which of these players was Manchester City's record transfer signing as of 2023?",
+  "answer": "Jack Grealish",
+  "options": ["Jack Grealish", "Riyad Mahrez", "Kevin De Bruyne", "Rodri"],
+  "category": ["Transfers", "Transfer Fees"],
+  "subcategories": ["2020s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Before joining Manchester City, Erling Haaland played for which Bundesliga club?",
+  "answer": "Borussia Dortmund",
+  "options": ["RB Leipzig", "Bayern Munich", "Borussia Dortmund", "Bayer Leverkusen"],
+  "category": ["Transfers", "Career Paths"],
+  "subcategories": ["2020s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "In which year did Manchester City move from Maine Road to the City of Manchester Stadium (now Etihad Stadium)?",
+  "answer": "2003",
+  "options": ["2002", "2003", "2004", "2005"],
+  "category": ["Leagues", "Premier League"],
+  "subcategories": ["2000s"],
+  "difficulty": "hard"
+}
+
+// Topic: 2018 World Cup
+{
+  "question": "Which player scored the winning goal in the 2018 World Cup final?",
+  "answer": "Kylian Mbappé",
+  "options": ["Kylian Mbappé", "Antoine Griezmann", "Paul Pogba", "Mario Mandzukic"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which team defeated Germany in the group stage of the 2018 World Cup, leading to their early exit?",
+  "answer": "South Korea",
+  "options": ["Mexico", "Sweden", "South Korea", "Brazil"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which country achieved its best-ever finish by reaching the semifinals in the 2018 World Cup?",
+  "answer": "Croatia",
+  "options": ["Belgium", "Sweden", "Croatia", "England"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who was awarded the Golden Boot as the top goal scorer in the 2018 World Cup?",
+  "answer": "Harry Kane",
+  "options": ["Harry Kane", "Romelu Lukaku", "Antoine Griezmann", "Cristiano Ronaldo"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which goalkeeper won the Golden Glove award for his performances in the 2018 World Cup?",
+  "answer": "Thibaut Courtois",
+  "options": ["Hugo Lloris", "Thibaut Courtois", "Jordan Pickford", "Danijel Subasic"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which team won the FIFA Fair Play Trophy at the 2018 World Cup?",
+  "answer": "Spain",
+  "options": ["Spain", "Germany", "Brazil", "Japan"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Who was the youngest player to score in the 2018 World Cup final?",
+  "answer": "Kylian Mbappé",
+  "options": ["Kylian Mbappé", "Antoine Griezmann", "Paul Pogba", "Benjamin Pavard"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which team did Russia defeat in a penalty shootout during the 2018 World Cup Round of 16?",
+  "answer": "Spain",
+  "options": ["Spain", "Croatia", "Denmark", "Portugal"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which stadium hosted the 2018 World Cup final?",
+  "answer": "Luzhniki Stadium",
+  "options": ["Luzhniki Stadium", "Krestovsky Stadium", "Fisht Olympic Stadium", "Spartak Stadium"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which player scored the first goal of the 2018 World Cup tournament?",
+  "answer": "Yury Gazinsky",
+  "options": ["Yury Gazinsky", "Denis Cheryshev", "Artem Dzyuba", "Aleksandr Golovin"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which team did Belgium defeat to secure the third place in the 2018 World Cup?",
+  "answer": "England",
+  "options": ["England", "Croatia", "France", "Brazil"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who was the coach of the French national team during their victorious 2018 World Cup campaign?",
+  "answer": "Didier Deschamps",
+  "options": ["Didier Deschamps", "Zinedine Zidane", "Laurent Blanc", "Raymond Domenech"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which player scored an own goal in the 2018 World Cup final?",
+  "answer": "Mario Mandzukic",
+  "options": ["Mario Mandzukic", "Raphaël Varane", "Dejan Lovren", "Samuel Umtiti"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which nation hosted the 2018 FIFA World Cup?",
+  "answer": "Russia",
+  "options": ["Russia", "Qatar", "Brazil", "South Africa"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which country did France defeat in the semifinals of the 2018 World Cup?",
+  "answer": "Belgium",
+  "options": ["Belgium", "Croatia", "England", "Argentina"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "How many goals were scored by the tournament's top scorer, Harry Kane, in the 2018 World Cup?",
+  "answer": "6",
+  "options": ["6", "4", "5", "7"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which team did Argentina face in the Round of 16 at the 2018 World Cup?",
+  "answer": "France",
+  "options": ["France", "Germany", "Brazil", "Croatia"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Who was Croatia's captain during the 2018 World Cup?",
+  "answer": "Luka Modric",
+  "options": ["Luka Modric", "Ivan Rakitic", "Mario Mandzukic", "Dejan Lovren"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which player from Uruguay was sent off in the quarterfinal match against France in the 2018 World Cup?",
+  "answer": "No player was sent off",
+  "options": ["No player was sent off", "Edinson Cavani", "Diego Godin", "Luis Suarez"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which team did England defeat in the 2018 World Cup quarterfinals?",
+  "answer": "Sweden",
+  "options": ["Sweden", "Colombia", "Russia", "Croatia"],
+  "category": ["International", "World Cup"],
+  "subcategories": ["2010s", "2018 World Cup"],
+  "difficulty": "hard"
+}
+
+// Topic: Manchester United
+{
+  "question": "Which Manchester United player famously scored a last-minute equalizer in the 1999 UEFA Champions League final before winning with a late winner?",
+  "answer": "Ole Gunnar Solskjær",
+  "options": ["Ole Gunnar Solskjær", "David Beckham", "Ryan Giggs", "Roy Keane"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "As of October 2023, who holds the record for the most appearances for Manchester United in the Premier League?",
+  "answer": "Ryan Giggs",
+  "options": ["Ryan Giggs", "Paul Scholes", "Wayne Rooney", "Gary Neville"],
+  "category": ["Leagues"],
+  "subcategories": ["Premier League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which manager led Manchester United to their first European Cup victory in 1968?",
+  "answer": "Matt Busby",
+  "options": ["Matt Busby", "Alex Ferguson", "Tommy Docherty", "Ron Atkinson"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "During the 2007-2008 season, which Manchester United player was the top scorer in the Premier League?",
+  "answer": "Cristiano Ronaldo",
+  "options": ["Cristiano Ronaldo", "Carlos Tevez", "Wayne Rooney", "Dimitar Berbatov"],
+  "category": ["Leagues"],
+  "subcategories": ["Premier League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "What was the transfer fee Manchester United paid to sign Rio Ferdinand from Leeds United in 2002?",
+  "answer": "£30 million",
+  "options": ["£30 million", "£25 million", "£35 million", "£28 million"],
+  "category": ["Transfers"],
+  "subcategories": ["Transfer Fees"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "In which year did Manchester United complete their historic treble of the Premier League, FA Cup, and UEFA Champions League?",
+  "answer": "1999",
+  "options": ["1999", "2008", "1996", "2001"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League", "Domestic Cups"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which Manchester United player was awarded the Ballon d'Or in 1968?",
+  "answer": "George Best",
+  "options": ["George Best", "Denis Law", "Bobby Charlton", "Eric Cantona"],
+  "category": ["International"],
+  "subcategories": ["UEFA"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which club did Manchester United defeat to win their first FA Cup under Sir Alex Ferguson in 1990?",
+  "answer": "Crystal Palace",
+  "options": ["Crystal Palace", "Liverpool", "Everton", "Arsenal"],
+  "category": ["Club Competitions"],
+  "subcategories": ["Domestic Cups"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Who was the first non-British manager to take charge of Manchester United?",
+  "answer": "Louis van Gaal",
+  "options": ["Louis van Gaal", "José Mourinho", "David Moyes", "Erik ten Hag"],
+  "category": ["Leagues"],
+  "subcategories": ["Premier League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "As of October 2023, how many Premier League titles has Manchester United won?",
+  "answer": "13",
+  "options": ["13", "15", "12", "14"],
+  "category": ["Leagues"],
+  "subcategories": ["Premier League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which player from Manchester United was famously known for his 'Kung Fu kick' incident in 1995?",
+  "answer": "Eric Cantona",
+  "options": ["Eric Cantona", "Roy Keane", "Paul Ince", "Mark Hughes"],
+  "category": ["Leagues"],
+  "subcategories": ["Premier League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which Manchester United academy graduate scored in the 2008 UEFA Champions League final?",
+  "answer": "Wes Brown",
+  "options": ["Wes Brown", "Darren Fletcher", "John O'Shea", "Johnny Evans"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "What was the original name of Manchester United Football Club before it was changed in 1902?",
+  "answer": "Newton Heath LYR F.C.",
+  "options": ["Newton Heath LYR F.C.", "Manchester Central F.C.", "Manchester Red Devils", "Lancashire United"],
+  "category": ["Leagues"],
+  "subcategories": ["Premier League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which Manchester United player was known as 'The King' and wore the number 7 shirt during his time at the club in the 1990s?",
+  "answer": "Eric Cantona",
+  "options": ["Eric Cantona", "David Beckham", "George Best", "Cristiano Ronaldo"],
+  "category": ["Leagues"],
+  "subcategories": ["Premier League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Under which manager did Manchester United win their first Premier League title in the 1992-1993 season?",
+  "answer": "Alex Ferguson",
+  "options": ["Alex Ferguson", "Ron Atkinson", "Matt Busby", "Tommy Docherty"],
+  "category": ["Leagues"],
+  "subcategories": ["Premier League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which former Manchester United captain has the second highest number of appearances for the club after Ryan Giggs?",
+  "answer": "Bobby Charlton",
+  "options": ["Bobby Charlton", "Paul Scholes", "Gary Neville", "Roy Keane"],
+  "category": ["Leagues"],
+  "subcategories": ["Premier League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "In which season did Manchester United last win the UEFA Europa League as of October 2023?",
+  "answer": "2016-2017",
+  "options": ["2016-2017", "2015-2016", "2017-2018", "2018-2019"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Europa League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which Manchester United player scored the winning penalty in the 2008 UEFA Champions League final shootout against Chelsea?",
+  "answer": "Edwin van der Sar",
+  "options": ["Edwin van der Sar", "Ryan Giggs", "Cristiano Ronaldo", "Owen Hargreaves"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+// Topic: 2014 World Cup
+{
+  "question": "Which team scored the most goals during the 2014 FIFA World Cup?",
+  "answer": "Germany",
+  "options": ["Germany", "Netherlands", "Brazil", "Argentina"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who was awarded the Golden Glove for the best goalkeeper in the 2014 World Cup?",
+  "answer": "Manuel Neuer",
+  "options": ["Manuel Neuer", "Keylor Navas", "Tim Howard", "Sergio Romero"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which player scored the fastest hat-trick in World Cup history during the 2014 tournament?",
+  "answer": "Xherdan Shaqiri",
+  "options": ["Xherdan Shaqiri", "Thomas Müller", "James Rodríguez", "Lionel Messi"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which country made its World Cup debut during the 2014 tournament?",
+  "answer": "Bosnia and Herzegovina",
+  "options": ["Bosnia and Herzegovina", "Iceland", "Slovakia", "Wales"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "What was the final score in the 2014 World Cup final between Germany and Argentina?",
+  "answer": "1-0",
+  "options": ["1-0", "2-1", "0-0 (penalties)", "3-2"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who was the head coach of the Netherlands during the 2014 World Cup?",
+  "answer": "Louis van Gaal",
+  "options": ["Louis van Gaal", "Guus Hiddink", "Ronald Koeman", "Bert van Marwijk"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which player was the top scorer of the 2014 World Cup with six goals?",
+  "answer": "James Rodríguez",
+  "options": ["James Rodríguez", "Thomas Müller", "Lionel Messi", "Neymar"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which team did Costa Rica defeat in the Round of 16 at the 2014 World Cup?",
+  "answer": "Greece",
+  "options": ["Greece", "Uruguay", "Italy", "England"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Who scored the only goal in the 2014 World Cup final?",
+  "answer": "Mario Götze",
+  "options": ["Mario Götze", "Thomas Müller", "André Schürrle", "Miroslav Klose"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which team caused a major upset by defeating Spain in the group stage of the 2014 World Cup?",
+  "answer": "Chile",
+  "options": ["Chile", "Netherlands", "Costa Rica", "Colombia"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "How many goals did Brazil concede in their semi-final match against Germany in the 2014 World Cup?",
+  "answer": "7",
+  "options": ["7", "5", "6", "4"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which player was the captain of Argentina during the 2014 World Cup?",
+  "answer": "Lionel Messi",
+  "options": ["Lionel Messi", "Javier Mascherano", "Ángel Di María", "Gonzalo Higuaín"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which stadium hosted the 2014 World Cup final?",
+  "answer": "Maracanã Stadium",
+  "options": ["Maracanã Stadium", "Estadio Nacional Mane Garrincha", "Arena de São Paulo", "Estádio Mineirão"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which African team advanced to the knockout stage of the 2014 World Cup?",
+  "answer": "Nigeria",
+  "options": ["Nigeria", "Ghana", "Ivory Coast", "Algeria"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Who won the FIFA Young Player Award at the 2014 World Cup?",
+  "answer": "Paul Pogba",
+  "options": ["Paul Pogba", "James Rodríguez", "Julian Draxler", "Raheem Sterling"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which defending champion was eliminated in the group stage of the 2014 World Cup?",
+  "answer": "Spain",
+  "options": ["Spain", "Italy", "France", "Brazil"],
+  "category": ["International"],
+  "subcategories": ["World Cup"],
+  "difficulty": "hard"
+}
+
+// Topic: CONMEBOL
+{
+  "question": "Which team won the first Copa Libertadores title in 1960?",
+  "answer": "Peñarol",
+  "options": ["Peñarol", "Santos", "Estudiantes", "River Plate"],
+  "category": ["International"],
+  "subcategories": ["CONMEBOL"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "As of 2023, which player holds the record for the most goals scored in a single Copa América tournament?",
+  "answer": "Jair",
+  "options": ["Jair", "Gabriel Batistuta", "Zizinho", "Paolo Guerrero"],
+  "category": ["International"],
+  "subcategories": ["CONMEBOL"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which CONMEBOL nation achieved its first World Cup victory in 1958?",
+  "answer": "Brazil",
+  "options": ["Brazil", "Uruguay", "Argentina", "Chile"],
+  "category": ["International"],
+  "subcategories": ["CONMEBOL", "World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who was the top scorer in the 2019 Copa América?",
+  "answer": "Everton",
+  "options": ["Everton", "Paolo Guerrero", "Lionel Messi", "Edinson Cavani"],
+  "category": ["International"],
+  "subcategories": ["CONMEBOL"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which country hosted the first Copa América tournament in 1916?",
+  "answer": "Argentina",
+  "options": ["Argentina", "Uruguay", "Brazil", "Chile"],
+  "category": ["International"],
+  "subcategories": ["CONMEBOL"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Who scored the decisive goal for Uruguay in the 1950 World Cup final against Brazil?",
+  "answer": "Alcides Ghiggia",
+  "options": ["Alcides Ghiggia", "Juan Alberto Schiaffino", "Obdulio Varela", "Juan Hohberg"],
+  "category": ["International"],
+  "subcategories": ["CONMEBOL", "World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which CONMEBOL club has won the most Copa Libertadores titles as of 2023?",
+  "answer": "Independiente",
+  "options": ["Independiente", "Boca Juniors", "River Plate", "Peñarol"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which player won the Golden Ball award for the best player at the 2015 Copa América?",
+  "answer": "Lionel Messi",
+  "options": ["Lionel Messi", "Arturo Vidal", "Sergio Agüero", "Paolo Guerrero"],
+  "category": ["International"],
+  "subcategories": ["CONMEBOL"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which country has won the Copa América the most times as of 2023?",
+  "answer": "Uruguay",
+  "options": ["Uruguay", "Argentina", "Brazil", "Chile"],
+  "category": ["International"],
+  "subcategories": ["CONMEBOL"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which player famously scored a hat-trick in the 1995 Copa América final?",
+  "answer": "Enzo Francescoli",
+  "options": ["Enzo Francescoli", "Zamorano", "Gabriel Batistuta", "Ronaldo"],
+  "category": ["International"],
+  "subcategories": ["CONMEBOL"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Who was the first non-Brazilian coach to win the Copa Libertadores?",
+  "answer": "Roberto Scarone",
+  "options": ["Roberto Scarone", "Carlos Bianchi", "Luis Cubilla", "Luis Aragonés"],
+  "category": ["International"],
+  "subcategories": ["CONMEBOL"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which team did River Plate defeat in the 2018 Copa Libertadores final to claim the title?",
+  "answer": "Boca Juniors",
+  "options": ["Boca Juniors", "Gremio", "Flamengo", "Palmeiras"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which legendary goalkeeper is known for his scorpion kick save during a friendly match against England in 1995?",
+  "answer": "René Higuita",
+  "options": ["René Higuita", "Claudio Taffarel", "José Luis Chilavert", "Dida"],
+  "category": ["International"],
+  "subcategories": ["CONMEBOL"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which CONMEBOL country was the first to host the FIFA World Cup?",
+  "answer": "Uruguay",
+  "options": ["Uruguay", "Brazil", "Argentina", "Chile"],
+  "category": ["International"],
+  "subcategories": ["CONMEBOL", "World Cup"],
+  "difficulty": "easy"
+}
+
+// Topic: CONCACAF
+{
+  "question": "Which team won the first CONCACAF Gold Cup held in 1991?",
+  "answer": "United States",
+  "options": ["United States", "Mexico", "Costa Rica", "Honduras"],
+  "category": ["International"],
+  "subcategories": ["CONCACAF"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "As of October 2023, which player holds the record for the most goals scored in CONCACAF Gold Cup history?",
+  "answer": "Landon Donovan",
+  "options": ["Landon Donovan", "Clint Dempsey", "Javier Hernández", "Luis Tejada"],
+  "category": ["International"],
+  "subcategories": ["CONCACAF"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which Caribbean nation reached the quarter-finals of the CONCACAF Gold Cup for the first time in 2019?",
+  "answer": "Haiti",
+  "options": ["Haiti", "Trinidad and Tobago", "Jamaica", "Cuba"],
+  "category": ["International"],
+  "subcategories": ["CONCACAF"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which country hosted the CONCACAF Gold Cup in 2015, sharing hosting duties with the United States?",
+  "answer": "Canada",
+  "options": ["Canada", "Mexico", "Costa Rica", "Honduras"],
+  "category": ["International"],
+  "subcategories": ["CONCACAF"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which CONCACAF team achieved their highest FIFA World Cup placement by reaching the quarter-finals in 2002?",
+  "answer": "United States",
+  "options": ["United States", "Mexico", "Costa Rica", "Jamaica"],
+  "category": ["International"],
+  "subcategories": ["CONCACAF"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "In the 1998 CONCACAF Champions' Cup, which team became the first Major League Soccer team to win the competition?",
+  "answer": "D.C. United",
+  "options": ["D.C. United", "LA Galaxy", "New York Red Bulls", "Toronto FC"],
+  "category": ["Club Competitions"],
+  "subcategories": ["Rest of World"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which team did Mexico defeat in the final to win the 2019 CONCACAF Gold Cup?",
+  "answer": "United States",
+  "options": ["United States", "Costa Rica", "Honduras", "Jamaica"],
+  "category": ["International"],
+  "subcategories": ["CONCACAF"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who was the top scorer of the 2021 CONCACAF Gold Cup?",
+  "answer": "Almoez Ali",
+  "options": ["Almoez Ali", "Raúl Jiménez", "Cyle Larin", "Hirving Lozano"],
+  "category": ["International"],
+  "subcategories": ["CONCACAF"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which Central American country has won the most UNCAF Nations Cup titles, which was replaced by the Copa Centroamericana?",
+  "answer": "Costa Rica",
+  "options": ["Costa Rica", "Honduras", "Panama", "El Salvador"],
+  "category": ["International"],
+  "subcategories": ["CONCACAF"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which player was named the Best Young Player of the 2017 CONCACAF Gold Cup?",
+  "answer": "Alphonso Davies",
+  "options": ["Alphonso Davies", "Christian Pulisic", "Jonathan David", "Hirving Lozano"],
+  "category": ["International"],
+  "subcategories": ["CONCACAF"],
+  "difficulty": "hard"
+}
+
+// Topic: Oceania Football Confederation
+{
+  "question": "Which nation won the OFC Nations Cup for the first time in 2016?",
+  "answer": "New Zealand",
+  "options": ["New Zealand", "Tahiti", "Fiji", "Solomon Islands"],
+  "category": ["International"],
+  "subcategories": ["OFC"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who holds the record for most goals scored in a single OFC Nations Cup tournament as of October 2023?",
+  "answer": "Vaughan Coveny",
+  "options": ["Vaughan Coveny", "Roy Krishna", "Chris Wood", "Michel Hmae"],
+  "category": ["International"],
+  "subcategories": ["OFC"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which country's national team is known as the 'Bula Boys'?",
+  "answer": "Fiji",
+  "options": ["Fiji", "Vanuatu", "Samoa", "Papua New Guinea"],
+  "category": ["International"],
+  "subcategories": ["OFC"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "As of October 2023, which player holds the record for the most appearances in the OFC Nations Cup?",
+  "answer": "Ivan Vicelich",
+  "options": ["Ivan Vicelich", "Ryan Nelsen", "Roy Krishna", "Henry Fa'arodo"],
+  "category": ["International"],
+  "subcategories": ["OFC"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which OFC team qualified for the FIFA World Cup for the first time in 1982?",
+  "answer": "New Zealand",
+  "options": ["New Zealand", "Australia", "Tahiti", "Papua New Guinea"],
+  "category": ["International"],
+  "subcategories": ["OFC", "World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which nation achieved a historic victory by winning the OFC Nations Cup in 2012, breaking New Zealand's dominance?",
+  "answer": "Tahiti",
+  "options": ["Tahiti", "Fiji", "Vanuatu", "Solomon Islands"],
+  "category": ["International"],
+  "subcategories": ["OFC"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "As of October 2023, who is the highest-scoring player in the history of the OFC Champions League?",
+  "answer": "Emiliano Tade",
+  "options": ["Emiliano Tade", "Roy Krishna", "David Browne", "Ryan De Vries"],
+  "category": ["Club Competitions"],
+  "subcategories": ["Rest of World"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which OFC country was the first to host the FIFA U-20 World Cup in 1999?",
+  "answer": "New Zealand",
+  "options": ["New Zealand", "Australia", "Fiji", "Solomon Islands"],
+  "category": ["International"],
+  "subcategories": ["OFC"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which OFC member has won the most OFC Champions League titles as of October 2023?",
+  "answer": "Auckland City",
+  "options": ["Auckland City", "Waitakere United", "Ba FC", "Team Wellington"],
+  "category": ["Club Competitions"],
+  "subcategories": ["Rest of World"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "What was the original name of the OFC Champions League when it was first established in 1987?",
+  "answer": "Oceania Club Championship",
+  "options": ["Oceania Club Championship", "Pacific Club Cup", "Oceania Champions Cup", "Island Club Tournament"],
+  "category": ["Club Competitions"],
+  "subcategories": ["Rest of World"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which OFC national team is nicknamed the 'Kapuls'?",
+  "answer": "Papua New Guinea",
+  "options": ["Papua New Guinea", "Fiji", "Solomon Islands", "New Caledonia"],
+  "category": ["International"],
+  "subcategories": ["OFC"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "What significant change occurred in the OFC Nations Cup format starting with the 2016 edition?",
+  "answer": "It included a World Cup qualifying stage",
+  "options": ["It included a World Cup qualifying stage", "The tournament was held biennially", "The inclusion of invited teams from other confederations", "Played in a single host country"],
+  "category": ["International"],
+  "subcategories": ["OFC"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which OFC member is known for its unique tradition of 'soccer warriors' who perform traditional dances before matches?",
+  "answer": "Solomon Islands",
+  "options": ["Solomon Islands", "Fiji", "Vanuatu", "New Caledonia"],
+  "category": ["International"],
+  "subcategories": ["OFC"],
+  "difficulty": "hard"
+}
+
+// Topic: Confederation of African Football
+{
+  "question": "Which nation won the Africa Cup of Nations (AFCON) for the first time in 1996?",
+  "answer": "South Africa",
+  "options": ["South Africa", "Nigeria", "Egypt", "Ivory Coast"],
+  "category": ["International"],
+  "subcategories": ["CAF"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "As of October 2023, who is the all-time top scorer in the Africa Cup of Nations history?",
+  "answer": "Samuel Eto'o",
+  "options": ["Samuel Eto'o", "Didier Drogba", "Hossam Hassan", "Rashidi Yekini"],
+  "category": ["International"],
+  "subcategories": ["CAF"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which CAF team was the first to reach the quarter-finals of a FIFA World Cup?",
+  "answer": "Cameroon",
+  "options": ["Cameroon", "Nigeria", "Senegal", "Ghana"],
+  "category": ["International"],
+  "subcategories": ["CAF", "World Cup"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "In which year did the CAF introduce the African Nations Championship, a tournament exclusively for players from domestic leagues?",
+  "answer": "2009",
+  "options": ["2009", "1999", "2012", "2005"],
+  "category": ["International"],
+  "subcategories": ["CAF"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which coach led Egypt to three consecutive AFCON titles in 2006, 2008, and 2010?",
+  "answer": "Hassan Shehata",
+  "options": ["Hassan Shehata", "Claude Le Roy", "Hervé Renard", "Stephen Keshi"],
+  "category": ["International"],
+  "subcategories": ["CAF"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "What significant change was made to the AFCON tournament format starting with the 2019 edition?",
+  "answer": "The tournament expanded to 24 teams.",
+  "options": ["The tournament expanded to 24 teams.", "A new knockout stage was introduced.", "The tournament switched to biennial occurrence.", "The finals were held in July instead of January."],
+  "category": ["International"],
+  "subcategories": ["CAF"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which country hosted the first-ever Africa Cup of Nations tournament in 1957?",
+  "answer": "Sudan",
+  "options": ["Sudan", "Egypt", "Ethiopia", "Ghana"],
+  "category": ["International"],
+  "subcategories": ["CAF"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Who was the captain of the Senegal national team that reached the quarter-finals of the 2002 FIFA World Cup?",
+  "answer": "Aliou Cissé",
+  "options": ["Aliou Cissé", "El Hadji Diouf", "Henri Camara", "Kalilou Fadiga"],
+  "category": ["International"],
+  "subcategories": ["CAF", "World Cup"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which CAF member nation won its first AFCON title in 1994, led by coach Clemens Westerhof?",
+  "answer": "Nigeria",
+  "options": ["Nigeria", "Zambia", "Algeria", "Morocco"],
+  "category": ["International"],
+  "subcategories": ["CAF"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "What is the name of the competition organized by CAF for club teams across Africa?",
+  "answer": "CAF Champions League",
+  "options": ["CAF Champions League", "CAF Confederation Cup", "CAF Cup Winners' Cup", "CAF Super Cup"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which African player won the CAF African Player of the Year award in 2000, also known for his time at Barcelona?",
+  "answer": "Patrick Mboma",
+  "options": ["Patrick Mboma", "Samuel Eto'o", "Jay-Jay Okocha", "Nwankwo Kanu"],
+  "category": ["International"],
+  "subcategories": ["CAF"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which African nation has participated in every AFCON tournament since its inception?",
+  "answer": "Egypt",
+  "options": ["Egypt", "Cameroon", "Nigeria", "Ghana"],
+  "category": ["International"],
+  "subcategories": ["CAF"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "As of October 2023, which player holds the record for the most appearances in the Africa Cup of Nations?",
+  "answer": "Ahmed Hassan",
+  "options": ["Ahmed Hassan", "Rigobert Song", "Essam El-Hadary", "Asamoah Gyan"],
+  "category": ["International"],
+  "subcategories": ["CAF"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which legendary African player was known as the 'Black Panther' and is celebrated for his achievements with the Portuguese club Benfica?",
+  "answer": "Eusébio",
+  "options": ["Eusébio", "George Weah", "Roger Milla", "Abedi Pele"],
+  "category": ["Leagues"],
+  "subcategories": ["Rest of World"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which team won the 2021 Africa Cup of Nations, defeating Egypt in the final?",
+  "answer": "Senegal",
+  "options": ["Senegal", "Algeria", "Ivory Coast", "Morocco"],
+  "category": ["International"],
+  "subcategories": ["CAF"],
+  "difficulty": "easy"
+}
+
+// Topic: 2024 MLS Season
+{
+  "question": "Which team won the Supporters' Shield for the best regular-season record in the 2024 MLS season?",
+  "answer": "Philadelphia Union",
+  "options": ["Philadelphia Union", "LAFC", "Seattle Sounders", "Nashville SC"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS"],
+  "difficulty": "easy"
+}
+{
+  "question": "Who was the top goal scorer of the 2024 MLS season?",
+  "answer": "Raúl Ruidíaz",
+  "options": ["Raúl Ruidíaz", "Hany Mukhtar", "Carlos Vela", "Josef Martinez"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS"],
+  "difficulty": "easy"
+}
+{
+  "question": "Which team made the biggest improvement in their league standing compared to the 2023 MLS season?",
+  "answer": "Chicago Fire",
+  "options": ["Chicago Fire", "Austin FC", "Orlando City SC", "New York Red Bulls"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS"],
+  "difficulty": "hard"
+}
+{
+  "question": "Which player was named the MLS MVP for the 2024 season?",
+  "answer": "Hany Mukhtar",
+  "options": ["Hany Mukhtar", "Carles Gil", "Sebastián Driussi", "Walker Zimmerman"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS"],
+  "difficulty": "easy"
+}
+{
+  "question": "Which coach led their team to the MLS Cup victory in 2024?",
+  "answer": "Jim Curtin",
+  "options": ["Jim Curtin", "Brian Schmetzer", "Bruce Arena", "Greg Vanney"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS"],
+  "difficulty": "hard"
+}
+{
+  "question": "Which player recorded the most assists during the 2024 MLS season?",
+  "answer": "Carles Gil",
+  "options": ["Carles Gil", "Emanuel Reynoso", "Luciano Acosta", "Diego Valeri"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS"],
+  "difficulty": "easy"
+}
+{
+  "question": "Which MLS team had the highest average attendance during the 2024 season?",
+  "answer": "Atlanta United FC",
+  "options": ["Atlanta United FC", "Seattle Sounders", "LA Galaxy", "Portland Timbers"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS"],
+  "difficulty": "easy"
+}
+{
+  "question": "Who was named the MLS Goalkeeper of the Year in 2024?",
+  "answer": "Andre Blake",
+  "options": ["Andre Blake", "Matt Turner", "Stefan Frei", "Pedro Gallese"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS"],
+  "difficulty": "easy"
+}
+{
+  "question": "Which club made the most significant transfer signing in the 2024 MLS season?",
+  "answer": "Inter Miami CF signing Lionel Messi",
+  "options": ["Inter Miami CF signing Lionel Messi", "Toronto FC signing Lorenzo Insigne", "LAFC signing Gareth Bale", "New York City FC signing David Villa"],
+  "category": ["Leagues", "Transfers"],
+  "subcategories": ["MLS", "Career Paths"],
+  "difficulty": "hard"
+}
+{
+  "question": "Which MLS team was the first to clinch a playoff spot in the 2024 season?",
+  "answer": "Philadelphia Union",
+  "options": ["Philadelphia Union", "New England Revolution", "Seattle Sounders", "FC Cincinnati"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS"],
+  "difficulty": "hard"
+}
+{
+  "question": "Which team had the best defensive record in terms of goals conceded during the 2024 MLS season?",
+  "answer": "Nashville SC",
+  "options": ["Nashville SC", "Columbus Crew", "Philadelphia Union", "LAFC"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS"],
+  "difficulty": "hard"
+}
+{
+  "question": "Which 2024 MLS season match had the highest goal tally?",
+  "answer": "New York Red Bulls vs. DC United",
+  "options": ["New York Red Bulls vs. DC United", "Seattle Sounders vs. Portland Timbers", "LAFC vs. LA Galaxy", "Toronto FC vs. Montreal Impact"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS"],
+  "difficulty": "hard"
+}
+{
+  "question": "Who won the MLS Rookie of the Year award in 2024?",
+  "answer": "Dante Vanzeir",
+  "options": ["Dante Vanzeir", "Cade Cowell", "Jack McGlynn", "Quinn Sullivan"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS"],
+  "difficulty": "easy"
+}
+{
+  "question": "Which MLS club had the longest unbeaten streak during the 2024 season?",
+  "answer": "Seattle Sounders",
+  "options": ["Seattle Sounders", "Philadelphia Union", "LAFC", "New England Revolution"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS"],
+  "difficulty": "hard"
+}
+
+// Topic: 2023 MLS Season
+{
+  "question": "Which player won the 2023 MLS Golden Boot for scoring the most goals in the season?",
+  "answer": "Hany Mukhtar",
+  "options": ["Hany Mukhtar", "Denis Bouanga", "Cristian Espinoza", "Giorgos Giakoumakis"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS", "2020s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which team won the 2023 MLS Cup, marking their first championship victory?",
+  "answer": "Columbus Crew",
+  "options": ["Columbus Crew", "Seattle Sounders", "Philadelphia Union", "LAFC"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS", "2020s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "What significant milestone did Inter Miami achieve in the 2023 MLS season?",
+  "answer": "Signing Lionel Messi",
+  "options": ["Signing Lionel Messi", "Winning their first Supporters' Shield", "Reaching the MLS Cup final", "Building a new stadium"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS", "2020s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which MLS team had the longest unbeaten streak during the 2023 season?",
+  "answer": "FC Cincinnati",
+  "options": ["FC Cincinnati", "Nashville SC", "New England Revolution", "St. Louis City SC"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS", "2020s"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Who was the head coach of the 2023 MLS Cup-winning team, Columbus Crew?",
+  "answer": "Wilfried Nancy",
+  "options": ["Wilfried Nancy", "Brian Schmetzer", "Bruce Arena", "Jim Curtin"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS", "2020s"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which player set a new record for most assists in a single 2023 MLS season?",
+  "answer": "Luciano Acosta",
+  "options": ["Luciano Acosta", "Carles Gil", "Nicolás Lodeiro", "Emanuel Reynoso"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS", "2020s"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "As of the end of the 2023 season, which MLS team had the highest average attendance?",
+  "answer": "Atlanta United",
+  "options": ["Atlanta United", "Seattle Sounders", "LA Galaxy", "Charlotte FC"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS", "2020s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which player received the 2023 MLS MVP award for his outstanding performance throughout the season?",
+  "answer": "Hany Mukhtar",
+  "options": ["Hany Mukhtar", "Denis Bouanga", "Luciano Acosta", "Thiago Almada"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS", "2020s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which 2023 MLS expansion team had a remarkable debut season by qualifying for the playoffs?",
+  "answer": "St. Louis City SC",
+  "options": ["St. Louis City SC", "Inter Miami CF", "Charlotte FC", "Austin FC"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS", "2020s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which player made headlines by scoring the fastest hat-trick in the 2023 MLS season?",
+  "answer": "Cristian Arango",
+  "options": ["Cristian Arango", "Giorgos Giakoumakis", "Denis Bouanga", "Brandon Vazquez"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS", "2020s"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which goalkeeper led the 2023 MLS season in clean sheets?",
+  "answer": "Roman Bürki",
+  "options": ["Roman Bürki", "Andre Blake", "Steve Clark", "Brad Stuver"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS", "2020s"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Who was the MLS Commissioner during the 2023 season?",
+  "answer": "Don Garber",
+  "options": ["Don Garber", "Mark Abbott", "Sunil Gulati", "Jeffrey Webb"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS", "2020s"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which MLS team had the worst defensive record in the 2023 season, conceding the most goals?",
+  "answer": "Toronto FC",
+  "options": ["Toronto FC", "San Jose Earthquakes", "DC United", "Chicago Fire"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS", "2020s"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which player transferred to the MLS in 2023 from a European club and made an immediate impact at his new team?",
+  "answer": "Lionel Messi",
+  "options": ["Lionel Messi", "Giorgos Giakoumakis", "Christian Benteke", "Denis Bouanga"],
+  "category": ["Leagues", "Transfers"],
+  "subcategories": ["MLS", "2020s", "Career Paths"],
+  "difficulty": "easy"
+}
+
+// Topic: Barcelona
+{
+  "question": "Which Barcelona player scored the decisive goal in their 2006 UEFA Champions League final victory against Arsenal?",
+  "answer": "Juliano Belletti",
+  "options": ["Juliano Belletti", "Samuel Eto'o", "Ronaldinho", "Andrés Iniesta"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "As of 2023, who is the all-time top scorer for FC Barcelona?",
+  "answer": "Lionel Messi",
+  "options": ["Lionel Messi", "César Rodríguez", "Luis Suárez", "Samuel Eto'o"],
+  "category": ["Leagues"],
+  "subcategories": ["La Liga"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which manager led Barcelona to their first UEFA Champions League title in 1992?",
+  "answer": "Johan Cruyff",
+  "options": ["Johan Cruyff", "Pep Guardiola", "Bobby Robson", "Frank Rijkaard"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which Barcelona player famously scored a hat-trick against Real Madrid in El Clásico in 1994?",
+  "answer": "Romário",
+  "options": ["Romário", "Hristo Stoichkov", "Michael Laudrup", "Ronald Koeman"],
+  "category": ["Leagues"],
+  "subcategories": ["La Liga"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Who was Barcelona's captain before Lionel Messi took over the role in 2018?",
+  "answer": "Andrés Iniesta",
+  "options": ["Andrés Iniesta", "Xavi Hernández", "Carles Puyol", "Sergio Busquets"],
+  "category": ["Leagues"],
+  "subcategories": ["La Liga"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which legendary Barcelona player was signed from Ipswich Town in 1981?",
+  "answer": "Allan Simonsen",
+  "options": ["Allan Simonsen", "Johan Neeskens", "Bernd Schuster", "Diego Maradona"],
+  "category": ["Transfers"],
+  "subcategories": ["Career Paths"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "During which season did Barcelona achieve a record 100 points in La Liga under Tito Vilanova?",
+  "answer": "2012-2013",
+  "options": ["2012-2013", "2010-2011", "2014-2015", "2008-2009"],
+  "category": ["Leagues"],
+  "subcategories": ["La Liga"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which player transferred from Barcelona to Paris Saint-Germain for a world record fee in 2017?",
+  "answer": "Neymar",
+  "options": ["Neymar", "Luis Suárez", "Philippe Coutinho", "Ousmane Dembélé"],
+  "category": ["Transfers"],
+  "subcategories": ["Transfer Fees"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who scored the winning goal in the famous 5-0 El Clásico victory over Real Madrid in 2010?",
+  "answer": "Jeffrén Suárez",
+  "options": ["Jeffrén Suárez", "David Villa", "Pedro", "Lionel Messi"],
+  "category": ["Leagues"],
+  "subcategories": ["La Liga"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which Barcelona player was known for the 'Dream Team' era and scored the winning goal in the 1992 UEFA Champions League final?",
+  "answer": "Ronald Koeman",
+  "options": ["Ronald Koeman", "Hristo Stoichkov", "Michael Laudrup", "José Mari Bakero"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Who became Barcelona's head coach immediately after Pep Guardiola's departure in 2012?",
+  "answer": "Tito Vilanova",
+  "options": ["Tito Vilanova", "Luis Enrique", "Gerardo Martino", "Frank Rijkaard"],
+  "category": ["Leagues"],
+  "subcategories": ["La Liga"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which Barcelona academy graduate became the youngest player to score in La Liga for the club at age 16?",
+  "answer": "Ansu Fati",
+  "options": ["Ansu Fati", "Bojan Krkić", "Lionel Messi", "Pedri"],
+  "category": ["Leagues"],
+  "subcategories": ["La Liga"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which iconic Barcelona midfielder was part of the team from 1991 to 1995 and later became a renowned manager?",
+  "answer": "Pep Guardiola",
+  "options": ["Pep Guardiola", "Ronald Koeman", "Michael Laudrup", "Luis Enrique"],
+  "category": ["Leagues"],
+  "subcategories": ["La Liga"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which player scored the fastest hat-trick in Barcelona's UEFA Champions League history, achieving it in just 22 minutes?",
+  "answer": "Lionel Messi",
+  "options": ["Lionel Messi", "Neymar", "Luis Suárez", "Samuel Eto'o"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+// Topic: Real Madrid
+{
+  "question": "Which Real Madrid player scored the winning goal in the 2014 UEFA Champions League final against Atlético Madrid?",
+  "answer": "Gareth Bale",
+  "options": ["Gareth Bale", "Cristiano Ronaldo", "Sergio Ramos", "Ángel Di María"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who was the manager of Real Madrid during their 'La Décima' UEFA Champions League victory in 2014?",
+  "answer": "Carlo Ancelotti",
+  "options": ["Carlo Ancelotti", "Zinedine Zidane", "José Mourinho", "Vicente del Bosque"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "In which year did Real Madrid win their first European Cup, the predecessor to the UEFA Champions League?",
+  "answer": "1956",
+  "options": ["1956", "1960", "1957", "1959"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "As of October 2023, who holds the record for most appearances for Real Madrid in official competitions?",
+  "answer": "Raúl",
+  "options": ["Raúl", "Iker Casillas", "Sergio Ramos", "Cristiano Ronaldo"],
+  "category": ["Leagues"],
+  "subcategories": ["La Liga"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which player did Real Madrid sign from Juventus in 2001 for a then-world record transfer fee?",
+  "answer": "Zinedine Zidane",
+  "options": ["Zinedine Zidane", "Luis Figo", "David Beckham", "Ronaldo Nazário"],
+  "category": ["Transfers"],
+  "subcategories": ["Transfer Fees"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Real Madrid's famous 'Galácticos' era began with the signing of which player in 2000?",
+  "answer": "Luis Figo",
+  "options": ["Luis Figo", "Roberto Carlos", "Ronaldo Nazário", "Zinedine Zidane"],
+  "category": ["Transfers"],
+  "subcategories": ["Career Paths"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which Real Madrid player was the top scorer in La Liga for the 2010-2011 season?",
+  "answer": "Cristiano Ronaldo",
+  "options": ["Cristiano Ronaldo", "Lionel Messi", "Karim Benzema", "Gonzalo Higuaín"],
+  "category": ["Leagues"],
+  "subcategories": ["La Liga"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "What is the name of the stadium where Real Madrid plays its home games?",
+  "answer": "Santiago Bernabéu",
+  "options": ["Santiago Bernabéu", "Camp Nou", "Metropolitano", "La Rosaleda"],
+  "category": ["Leagues"],
+  "subcategories": ["La Liga"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who was the captain of Real Madrid when they won the UEFA Champions League in 2018?",
+  "answer": "Sergio Ramos",
+  "options": ["Sergio Ramos", "Marcelo", "Cristiano Ronaldo", "Luka Modric"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which club did Real Madrid defeat to win the 2002 UEFA Champions League, securing their ninth title?",
+  "answer": "Bayer Leverkusen",
+  "options": ["Bayer Leverkusen", "Juventus", "Valencia", "AC Milan"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which Real Madrid player famously scored a hat-trick against Bayern Munich in the 2017 UEFA Champions League quarter-finals?",
+  "answer": "Cristiano Ronaldo",
+  "options": ["Cristiano Ronaldo", "Karim Benzema", "Gareth Bale", "Marco Asensio"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who was Real Madrid's manager during their historic five consecutive European Cup wins from 1956 to 1960?",
+  "answer": "Miguel Muñoz",
+  "options": ["Miguel Muñoz", "Alfredo Di Stéfano", "Luis Molowny", "José Villalonga"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which legendary player scored a stunning volley for Real Madrid in the 2002 UEFA Champions League final?",
+  "answer": "Zinedine Zidane",
+  "options": ["Zinedine Zidane", "Raúl", "Fernando Morientes", "Roberto Carlos"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "In which year did Real Madrid achieve their first La Liga title?",
+  "answer": "1932",
+  "options": ["1932", "1930", "1934", "1941"],
+  "category": ["Leagues"],
+  "subcategories": ["La Liga"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which Real Madrid player earned the nickname 'El Buitre' during his playing career?",
+  "answer": "Emilio Butragueño",
+  "options": ["Emilio Butragueño", "Fernando Hierro", "Michel", "Raúl"],
+  "category": ["Leagues"],
+  "subcategories": ["La Liga"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "As of October 2023, which player holds the record for most goals scored in a single La Liga season for Real Madrid?",
+  "answer": "Cristiano Ronaldo",
+  "options": ["Cristiano Ronaldo", "Karim Benzema", "Raúl", "Alfredo Di Stéfano"],
+  "category": ["Leagues"],
+  "subcategories": ["La Liga"],
+  "difficulty": "easy"
+}
+
+// Topic: 2023-24 UEFA Champions League
+{
+  "question": "Which player scored the first goal of the 2023-24 UEFA Champions League group stage?",
+  "answer": "Rasmus Højlund",
+  "options": ["Rasmus Højlund", "Jude Bellingham", "Lautaro Martínez", "Robert Lewandowski"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "As of the end of the group stage, which team had the highest possession percentage in the 2023-24 UEFA Champions League?",
+  "answer": "Manchester City",
+  "options": ["Manchester City", "Barcelona", "Bayern Munich", "Real Madrid"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which club made its debut in the 2023-24 UEFA Champions League group stage?",
+  "answer": "Union Berlin",
+  "options": ["Union Berlin", "Lens", "Galatasaray", "Red Star Belgrade"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who was the manager of AC Milan during the 2023-24 UEFA Champions League season?",
+  "answer": "Stefano Pioli",
+  "options": ["Stefano Pioli", "Carlo Ancelotti", "Simone Inzaghi", "Massimiliano Allegri"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which player provided the most assists in the 2023-24 UEFA Champions League group stage?",
+  "answer": "Leroy Sané",
+  "options": ["Leroy Sané", "Kevin De Bruyne", "Lionel Messi", "Joshua Kimmich"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which stadium hosted the final of the 2023-24 UEFA Champions League?",
+  "answer": "Wembley Stadium",
+  "options": ["Wembley Stadium", "Allianz Arena", "Parc des Princes", "San Siro"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "What was the largest margin of victory in a single match during the 2023-24 UEFA Champions League group stage?",
+  "answer": "6 goals",
+  "options": ["6 goals", "5 goals", "4 goals", "7 goals"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which team was the top scorer in the group stage of the 2023-24 UEFA Champions League?",
+  "answer": "Real Madrid",
+  "options": ["Real Madrid", "Manchester City", "Bayern Munich", "PSG"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which goalkeeper kept the most clean sheets during the 2023-24 UEFA Champions League group stage?",
+  "answer": "Thibaut Courtois",
+  "options": ["Thibaut Courtois", "Ederson", "Manuel Neuer", "Jan Oblak"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which player scored a hat-trick in the 2023-24 UEFA Champions League group stage?",
+  "answer": "Kylian Mbappé",
+  "options": ["Kylian Mbappé", "Erling Haaland", "Karim Benzema", "Harry Kane"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which club had the youngest average squad age in the 2023-24 UEFA Champions League?",
+  "answer": "Red Bull Salzburg",
+  "options": ["Red Bull Salzburg", "Ajax", "Borussia Dortmund", "Benfica"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which country had the most clubs participating in the 2023-24 UEFA Champions League group stage?",
+  "answer": "England",
+  "options": ["England", "Spain", "Germany", "Italy"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "How many clubs from the 2023-24 UEFA Champions League group stage previously won the competition?",
+  "answer": "7",
+  "options": ["7", "6", "8", "9"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Who was the top scorer in the 2023-24 UEFA Champions League group stage?",
+  "answer": "Erling Haaland",
+  "options": ["Erling Haaland", "Robert Lewandowski", "Kylian Mbappé", "Mohamed Salah"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which team had the best defensive record in the 2023-24 UEFA Champions League group stage?",
+  "answer": "Inter Milan",
+  "options": ["Inter Milan", "Chelsea", "Paris Saint-Germain", "Barcelona"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+// Topic: 2022-23 UEFA Champions League
+{
+  "question": "Which player was the top scorer in the 2022-23 UEFA Champions League?",
+  "answer": "Erling Haaland",
+  "options": ["Erling Haaland", "Kylian Mbappé", "Robert Lewandowski", "Karim Benzema"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which club won the 2022-23 UEFA Champions League?",
+  "answer": "Manchester City",
+  "options": ["Manchester City", "Real Madrid", "Bayern Munich", "Paris Saint-Germain"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Who was the manager of the winning team in the 2022-23 UEFA Champions League?",
+  "answer": "Pep Guardiola",
+  "options": ["Pep Guardiola", "Carlo Ancelotti", "Thomas Tuchel", "Jürgen Klopp"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which team did Erling Haaland score his first UEFA Champions League hat-trick against in the 2022-23 season?",
+  "answer": "RB Leipzig",
+  "options": ["RB Leipzig", "Borussia Dortmund", "Chelsea", "Inter Milan"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which stadium hosted the 2022-23 UEFA Champions League final?",
+  "answer": "Atatürk Olympic Stadium",
+  "options": ["Atatürk Olympic Stadium", "Wembley Stadium", "San Siro", "Santiago Bernabéu"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which team did Manchester City defeat in the semi-finals of the 2022-23 UEFA Champions League?",
+  "answer": "Real Madrid",
+  "options": ["Real Madrid", "Bayern Munich", "Paris Saint-Germain", "Inter Milan"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which player provided the most assists in the 2022-23 UEFA Champions League?",
+  "answer": "Kevin De Bruyne",
+  "options": ["Kevin De Bruyne", "Lionel Messi", "Luka Modric", "Joshua Kimmich"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which club did Chelsea face in the quarter-finals of the 2022-23 UEFA Champions League?",
+  "answer": "Real Madrid",
+  "options": ["Real Madrid", "Bayern Munich", "Atletico Madrid", "AC Milan"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which player scored the winning goal in the 2022-23 UEFA Champions League final?",
+  "answer": "Rodri",
+  "options": ["Rodri", "Kevin De Bruyne", "Riyad Mahrez", "Phil Foden"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which goalkeeper kept the most clean sheets in the 2022-23 UEFA Champions League?",
+  "answer": "Ederson",
+  "options": ["Ederson", "Thibaut Courtois", "Manuel Neuer", "Alisson Becker"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "How many goals did Manchester City score in the 2022-23 UEFA Champions League final?",
+  "answer": "1",
+  "options": ["1", "2", "3", "0"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+  "question": "Which team did Benfica face in the Round of 16 in the 2022-23 UEFA Champions League?",
+  "answer": "Club Brugge",
+  "options": ["Club Brugge", "Paris Saint-Germain", "Borussia Dortmund", "Porto"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which player made the most appearances in the 2022-23 UEFA Champions League?",
+  "answer": "Rúben Dias",
+  "options": ["Rúben Dias", "Vinícius Júnior", "Ilkay Gündogan", "Antoine Griezmann"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+
+{
+  "question": "Which club did AC Milan defeat in the group stage to secure their place in the knockout rounds of the 2022-23 UEFA Champions League?",
+  "answer": "Red Bull Salzburg",
+  "options": ["Red Bull Salzburg", "Celtic", "Shakhtar Donetsk", "FC Porto"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}

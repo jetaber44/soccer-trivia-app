@@ -1,0 +1,353 @@
+[
+  {
+    "question": "Stanley Matthews won the inaugural Ballon d'Or listed here in 1956. What was his age at that time?",
+    "answer": "40",
+    "options": ["35", "38", "40", "42"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Michel Platini won the Ballon d'Or in 1984. What was his listed age?",
+    "answer": "28",
+    "options": ["26", "27", "28", "29"],
+    "category": "Time Periods",
+    "subcategories": ["1980s"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "What was Kevin Keegan's listed age when he won the Ballon d'Or in 1978?",
+    "answer": "26",
+    "options": ["24", "25", "26", "27"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Allan Simonsen won the Ballon d'Or in 1977. Which nation did he represent?",
+    "answer": "Denmark",
+    "options": ["Sweden", "Norway", "Denmark", "Finland"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  },
+  {
+    "question": "Gerd M�ller won the Ballon d'Or in 1970. What was his listed age?",
+    "answer": "24",
+    "options": ["22", "23", "24", "25"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Bobby Charlton won the Ballon d'Or in 1966. What was his listed age?",
+    "answer": "28",
+    "options": ["26", "27", "28", "29"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Andriy Shevchenko won the Ballon d'Or in 2004 for Milan. What was his listed age?",
+    "answer": "27",
+    "options": ["25", "26", "27", "28"],
+    "category": "Time Periods",
+    "subcategories": ["2000s"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Ronaldo won the Ballon d'Or in 1997. What was his listed age?",
+    "answer": "20",
+    "options": ["19", "20", "21", "22"],
+    "category": "Time Periods",
+    "subcategories": ["1990s"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Igor Belanov won the Ballon d'Or in 1986. What was his listed age?",
+    "answer": "25",
+    "options": ["23", "24", "25", "26"],
+    "category": "Time Periods",
+    "subcategories": ["1980s"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Michel Platini won the Ballon d'Or in 1983. What was his listed age?",
+    "answer": "27",
+    "options": ["25", "26", "27", "28"],
+    "category": "Time Periods",
+    "subcategories": ["1980s"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Karl-Heinz Rummenigge won the Ballon d'Or in 1981. What was his listed age?",
+    "answer": "25",
+    "options": ["23", "24", "25", "26"],
+    "category": "Time Periods",
+    "subcategories": ["1980s"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Franz Beckenbauer won the Ballon d'Or in 1976. What was his listed age?",
+    "answer": "30",
+    "options": ["28", "29", "30", "31"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Johan Cruyff won the Ballon d'Or in 1974. What was his listed age?",
+    "answer": "26",
+    "options": ["24", "25", "26", "27"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "George Best won the Ballon d'Or in 1968. What was his listed age?",
+    "answer": "21",
+    "options": ["19", "20", "21", "22"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Alfredo Di St�fano won the Ballon d'Or in 1959. What was his listed age?",
+    "answer": "32",
+    "options": ["30", "31", "32", "33"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Marco van Basten won the Ballon d'Or in 1992. What was his listed age?",
+    "answer": "27",
+    "options": ["25", "26", "27", "28"],
+    "category": "Time Periods",
+    "subcategories": ["1990s"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Pavel Nedved won the Ballon d'Or in 2003. What was his listed age?",
+    "answer": "30",
+    "options": ["28", "29", "30", "31"],
+    "category": "Time Periods",
+    "subcategories": ["2000s"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Roberto Baggio won the Ballon d'Or in 1993. What was his listed age?",
+    "answer": "25",
+    "options": ["23", "24", "25", "26"],
+    "category": "Time Periods",
+    "subcategories": ["1990s"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Raymond Kopa was part of the 1958 FIFA World Cup All-Star Team. Which nation did he represent?",
+    "answer": "France",
+    "options": ["Italy", "Germany", "France", "Spain"],
+    "category": "International",
+    "subcategories": ["World Cup", "1958"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Who was the first winner of the CONCACAF Male Player of the Year award on this list in 2013?",
+    "answer": "Oribe Peralta",
+    "options": ["Keylor Navas", "Javier Hern�ndez", "Oribe Peralta", "Bryan Ruiz"],
+    "category": "Time Periods",
+    "subcategories": ["2010s"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Which club from a non-top five European league was the last to win the UEFA Champions League?",
+    "answer": "FC Porto",
+    "options": ["FC Porto", "Ajax", "PSV Eindhoven", "Red Star Belgrade"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  },
+  {
+    "question": "What was the score in the 2004 Champions League final between FC Porto and AS Monaco?",
+    "answer": "3-0",
+    "options": ["3-0", "2-1", "1-0", "3-2"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "The CONCACAF Champions Cup was rebranded as the CONCACAF Champions League in which year?",
+    "answer": "2008",
+    "options": ["2008", "2005", "2010", "2002"],
+    "category": "Club Competitions",
+    "subcategories": ["CONCACAF"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Which MLS team was the first to win the CONCACAF Champions League title in its current format?",
+    "answer": "Seattle Sounders FC",
+    "options": ["Seattle Sounders FC", "Toronto FC", "LA Galaxy", "D.C. United"],
+    "category": "Leagues",
+    "subcategories": ["MLS"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  },
+  {
+    "question": "Which CONCACAF national team achieved their best-ever World Cup performance by reaching the quarterfinals in 2014?",
+    "answer": "Costa Rica",
+    "options": ["Costa Rica", "Mexico", "United States", "Jamaica"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  },
+  {
+    "question": "Which club, alongside Real Madrid and Barcelona, has never been relegated from La Liga?",
+    "answer": "Athletic Bilbao",
+    "options": ["Athletic Bilbao", "Valencia", "Sevilla", "Atletico Madrid"],
+    "category": "Leagues",
+    "subcategories": ["La Liga"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  },
+  {
+    "question": "As of 2025, which legendary goalkeeper holds the record for the most clean sheets in Serie A history?",
+    "answer": "Gianluigi Buffon",
+    "options": ["Gianluigi Buffon", "Dino Zoff", "Paolo Maldini", "Samir Handanović"],
+    "category": "Leagues",
+    "subcategories": ["Serie A"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  },
+  {
+    "question": "Often called the 'Game of the Century,' the 1970 World Cup semi-final saw Italy defeat West Germany in extra time. What was the final score in this thrilling match?",
+    "answer": "4-3",
+    "options": ["4-3", "3-2", "5-4", "2-1"],
+    "category": "International",
+    "subcategories": ["World Cup", "1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "The 1988 European Championship semi-final between West Germany and the Netherlands saw a dramatic late winner. Who scored the decisive goal for the Netherlands?",
+    "answer": "Marco van Basten",
+    "options": ["Marco van Basten", "Ruud Gullit", "Frank Rijkaard", "Ronald Koeman"],
+    "category": "International",
+    "subcategories": ["UEFA", "1980s"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "As of 2025, which MLS club is nicknamed 'The Five Stripes,' a direct reference to the design of their home kit?",
+    "answer": "Atlanta United FC",
+    "options": ["Atlanta United FC", "Seattle Sounders FC", "New York City FC", "Orlando City SC"],
+    "category": "Leagues",
+    "subcategories": ["MLS"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  },
+  {
+    "question": "Which team did Argentina face in the Round of 16 at the 2018 World Cup?",
+    "answer": "France",
+    "options": ["France", "Germany", "Brazil", "Croatia"],
+    "category": ["International", "World Cup"],
+    "subcategories": ["2010s", "2018 World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  },
+  {
+    "question": "Which team did England defeat in the 2018 World Cup quarterfinals?",
+    "answer": "Sweden",
+    "options": ["Sweden", "Colombia", "Russia", "Croatia"],
+    "category": ["International", "World Cup"],
+    "subcategories": ["2010s", "2018 World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  },
+  {
+    "question": "Who was the head coach of the Netherlands during the 2014 World Cup?",
+    "answer": "Louis van Gaal",
+    "options": ["Louis van Gaal", "Guus Hiddink", "Ronald Koeman", "Bert van Marwijk"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  },
+  {
+    "question": "Who was the top scorer in the 2019 Copa América?",
+    "answer": "Everton",
+    "options": ["Everton", "Paolo Guerrero", "Lionel Messi", "Edinson Cavani"],
+    "category": ["International"],
+    "subcategories": ["CONMEBOL"],
+    "difficulty": "easy",
+    "assigned_code": 6
+  },
+  {
+    "question": "Which legendary goalkeeper is known for his scorpion kick save during a friendly match against England in 1995?",
+    "answer": "René Higuita",
+    "options": ["René Higuita", "Claudio Taffarel", "José Luis Chilavert", "Dida"],
+    "category": ["International"],
+    "subcategories": ["CONMEBOL"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  },
+  {
+    "question": "Which club did Real Madrid defeat to win the 2002 UEFA Champions League, securing their ninth title?",
+    "answer": "Bayer Leverkusen",
+    "options": ["Bayer Leverkusen", "Juventus", "Valencia", "AC Milan"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  },
+  {
+    "question": "Which Soviet goalkeeper was a standout performer at the 1958 World Cup and later became a Ballon d'Or winner?",
+    "answer": "Lev Yashin",
+    "options": ["Lev Yashin", "Viktor Bannikov", "Rinat Dasayev", "Valentin Ivanov"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  },
+  {
+    "question": "Which English goalkeeper made a legendary save from a Pelé header in a 1–0 loss to Brazil during the group stage?",
+    "answer": "Gordon Banks",
+    "options": ["Gordon Banks", "Peter Bonetti", "Ray Clemence", "Sepp Maier"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  },
+  {
+    "question": "Which goalkeeper was named Best Goalkeeper of the 2022 World Cup?",
+    "answer": "Emiliano Martínez",
+    "options": ["Emiliano Martínez", "Dominik Livaković", "Hugo Lloris", "Yassine Bounou"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 6
+  }
+]

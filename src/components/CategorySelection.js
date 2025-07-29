@@ -12,7 +12,7 @@ const CategorySelection = () => {
   return (
     <div className="text-center px-4 py-6">
       {/* App Title - centered at top */}
-      <h1 className="text-4xl font-extrabold mb-2">⚽ Soccer Trivia</h1>
+      <h1 className="text-4xl font-extrabold mb-2">Quizlazo</h1>
 
       {/* Subtitle */}
       <h2 className="text-2xl font-semibold mb-6">Choose a Category</h2>

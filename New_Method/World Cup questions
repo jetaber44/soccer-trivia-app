@@ -1,0 +1,1387 @@
+[
+  {
+    "question": "Which team won the 1950 FIFA World Cup by defeating Brazil in the final match of the tournament?",
+    "answer": "Uruguay",
+    "options": ["Uruguay", "Brazil", "Sweden", "Spain"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who scored the winning goal for Uruguay in the decisive 2–1 victory over Brazil at the Maracanã in 1950?",
+    "answer": "Alcides Ghiggia",
+    "options": ["Alcides Ghiggia", "Juan Alberto Schiaffino", "Obdulio Varela", "Zizinho"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why was the 1950 FIFA World Cup final round decided by a group format rather than a single final match?",
+    "answer": "The tournament used a final group stage instead of a knockout phase.",
+    "options": [
+      "The tournament used a final group stage instead of a knockout phase.",
+      "The knockout stage was canceled due to travel restrictions.",
+      "Brazil refused to play a semifinal due to format disputes.",
+      "A tiebreaker match between Brazil and Uruguay was required."
+    ],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which country withdrew from Group 4 of the 1950 World Cup, leaving Uruguay to advance without playing a group match?",
+    "answer": "France",
+    "options": ["France", "Scotland", "India", "Paraguay"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Brazilian midfielder was awarded the best player of the 1950 World Cup, despite his team finishing as runner-up?",
+    "answer": "Zizinho",
+    "options": ["Zizinho", "Didi", "Ademir", "Julinho"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which stadium hosted the decisive match between Brazil and Uruguay in the 1950 World Cup, attended by an estimated 200,000 spectators?",
+    "answer": "Maracanã",
+    "options": ["Maracanã", "Pacaembu", "Estádio das Laranjeiras", "São Januário"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which player finished as the top scorer of the 1950 World Cup with 8 goals?",
+    "answer": "Ademir",
+    "options": ["Ademir", "Zizinho", "Juan Alberto Schiaffino", "Estanislao Basora"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "India withdrew from the 1950 World Cup before playing a match. Which of the following was a primary reason cited at the time?",
+    "answer": "Disagreements over FIFA regulations and logistics",
+    "options": [
+      "Disagreements over FIFA regulations and logistics",
+      "Lack of players due to political unrest",
+      "They were suspended by FIFA for eligibility violations",
+      "India opted to focus on the Asian Games instead"
+    ],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  [
+  {
+    "question": "Which nation won the 1954 FIFA World Cup by defeating Hungary 3–2 in the final?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Hungary", "Brazil", "Uruguay"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Hungarian striker scored 11 goals in the 1954 World Cup, finishing as the tournament's top scorer?",
+    "answer": "Sándor Kocsis",
+    "options": ["Sándor Kocsis", "Ferenc Puskás", "Helmut Rahn", "Nándor Hidegkuti"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "What controversial equipment innovation was credited with helping West Germany in the rainy 1954 World Cup final?",
+    "answer": "Changeable screw-in studs on their boots",
+    "options": [
+      "Changeable screw-in studs on their boots",
+      "Lightweight synthetic jerseys",
+      "Hydrophobic leather ball",
+      "Metal shin guards"
+    ],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the nickname commonly used to describe Hungary’s national team in the early 1950s?",
+    "answer": "The Mighty Magyars",
+    "options": [
+      "The Mighty Magyars",
+      "The Budapest Bombers",
+      "The Golden Eleven",
+      "The Danube Dynamos"
+    ],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which West German player scored twice in the 1954 World Cup final against Hungary?",
+    "answer": "Helmut Rahn",
+    "options": ["Helmut Rahn", "Fritz Walter", "Max Morlock", "Hans Schäfer"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Hungary defeated which nation 8–3 in the group stage of the 1954 World Cup before meeting them again in the final?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Austria", "Brazil", "Yugoslavia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Swiss city hosted the final match of the 1954 World Cup?",
+    "answer": "Bern",
+    "options": ["Bern", "Zurich", "Basel", "Geneva"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which major footballing nation was banned from the 1954 World Cup due to the aftermath of World War II?",
+    "answer": "Germany was no longer banned and participated; no major team was banned in 1954",
+    "options": [
+      "Germany was no longer banned and participated; no major team was banned in 1954",
+      "Japan",
+      "Italy",
+      "Argentina"
+    ],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which country won the 1958 FIFA World Cup, claiming their first-ever title?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Sweden", "France", "West Germany"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which 17-year-old Brazilian forward became a global sensation at the 1958 World Cup by scoring a hat-trick in the semifinal and two goals in the final?",
+    "answer": "Pelé",
+    "options": ["Pelé", "Garrincha", "Vavá", "Zagallo"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which French striker won the Golden Boot at the 1958 World Cup with 13 goals?",
+    "answer": "Just Fontaine",
+    "options": ["Just Fontaine", "Raymond Kopa", "Roger Piantoni", "Jean Vincent"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team did Sweden defeat in the semifinals of the 1958 World Cup to reach their only final to date?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Yugoslavia", "France", "Austria"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Brazilian winger was widely praised for his performances in 1958, often drawing multiple defenders and creating space for Pelé and Vavá?",
+    "answer": "Garrincha",
+    "options": ["Garrincha", "Didi", "Nilton Santos", "Zito"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which country hosted the 1958 World Cup?",
+    "answer": "Sweden",
+    "options": ["Sweden", "Brazil", "France", "West Germany"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Northern Ireland made their first World Cup appearance in 1958. How far did they advance?",
+    "answer": "Quarter-finals",
+    "options": ["Quarter-finals", "Group stage", "Semifinals", "Round of 16"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Soviet goalkeeper was a standout performer at the 1958 World Cup and later became a Ballon d'Or winner?",
+    "answer": "Lev Yashin",
+    "options": ["Lev Yashin", "Viktor Bannikov", "Rinat Dasayev", "Valentin Ivanov"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which country won the 1962 FIFA World Cup, successfully defending their title?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Czechoslovakia", "Chile", "Yugoslavia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which country hosted the 1962 FIFA World Cup?",
+    "answer": "Chile",
+    "options": ["Chile", "Brazil", "Uruguay", "Argentina"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Brazilian midfielder won the Golden Ball at the 1962 World Cup and was crucial in the absence of an injured Pelé?",
+    "answer": "Garrincha",
+    "options": ["Garrincha", "Didi", "Zito", "Vavá"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which European nation reached the 1962 World Cup final but lost 3–1 to Brazil?",
+    "answer": "Czechoslovakia",
+    "options": ["Czechoslovakia", "Hungary", "Yugoslavia", "Austria"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Chilean forward scored four goals during the 1962 World Cup and helped the host nation finish third?",
+    "answer": "Leonel Sánchez",
+    "options": ["Leonel Sánchez", "Eladio Rojas", "Carlos Campos", "Honorino Landa"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which two players shared the Golden Boot at the 1962 World Cup with 4 goals each, including one from the Soviet Union and one from Hungary?",
+    "answer": "Flórián Albert and Valentin Ivanov",
+    "options": [
+      "Flórián Albert and Valentin Ivanov",
+      "Just Fontaine and Josef Masopust",
+      "Vavá and Uwe Seeler",
+      "Didi and Sándor Kocsis"
+    ],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "What infamous nickname was given to the 1962 group stage match between Chile and Italy due to its violent nature?",
+    "answer": "The Battle of Santiago",
+    "options": [
+      "The Battle of Santiago",
+      "The War of the Andes",
+      "The Clash of the Continents",
+      "The Rumble in Rancagua"
+    ],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which West German player scored four goals during the 1962 World Cup and was a key attacking presence before injury?",
+    "answer": "Uwe Seeler",
+    "options": ["Uwe Seeler", "Helmut Rahn", "Fritz Walter", "Sigfried Held"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which country won the 1966 FIFA World Cup?",
+    "answer": "England",
+    "options": ["England", "West Germany", "Portugal", "Brazil"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which English striker scored a hat-trick in the 1966 World Cup final?",
+    "answer": "Geoff Hurst",
+    "options": ["Geoff Hurst", "Bobby Charlton", "Roger Hunt", "Martin Peters"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 1966 World Cup with 9 goals?",
+    "answer": "Eusébio",
+    "options": ["Eusébio", "Bobby Charlton", "Gerd Müller", "Luis Suárez Miramontes"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Asian team shocked Italy with a 1–0 win in the group stage of the 1966 World Cup?",
+    "answer": "North Korea",
+    "options": ["North Korea", "Japan", "Iran", "Israel"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which team did Portugal defeat 5–3 in the quarterfinals of the 1966 World Cup after trailing 3–0?",
+    "answer": "North Korea",
+    "options": ["North Korea", "Hungary", "Soviet Union", "Argentina"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was England’s captain during their 1966 World Cup triumph?",
+    "answer": "Bobby Moore",
+    "options": ["Bobby Moore", "Jack Charlton", "Bobby Charlton", "Alan Ball"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which South American giant failed to advance past the group stage at the 1966 World Cup?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Argentina", "Uruguay", "Chile"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which goalkeeper was England’s first-choice throughout their victorious 1966 World Cup campaign?",
+    "answer": "Gordon Banks",
+    "options": ["Gordon Banks", "Peter Bonetti", "Ray Clemence", "Pat Jennings"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which team won the 1970 FIFA World Cup final, defeating Italy 4–1?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Mexico", "West Germany", "Uruguay"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 1970 World Cup with 10 goals?",
+    "answer": "Gerd Müller",
+    "options": ["Gerd Müller", "Pelé", "Luigi Riva", "Teófilo Cubillas"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which 1970 World Cup semifinal between European powers featured five goals in extra time and is widely regarded as the 'Game of the Century'?",
+    "answer": "Italy vs West Germany",
+    "options": ["Italy vs West Germany", "Brazil vs England", "Brazil vs Uruguay", "Mexico vs Italy"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Peruvian midfielder scored five goals at the 1970 World Cup and was later named South American Footballer of the Year?",
+    "answer": "Teófilo Cubillas",
+    "options": ["Teófilo Cubillas", "Julio Meléndez", "César Cueto", "Pedro León"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which English goalkeeper made a legendary save from a Pelé header in a 1–0 loss to Brazil during the group stage?",
+    "answer": "Gordon Banks",
+    "options": ["Gordon Banks", "Peter Bonetti", "Ray Clemence", "Sepp Maier"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which country hosted the 1970 FIFA World Cup — the first World Cup held in North America?",
+    "answer": "Mexico",
+    "options": ["Mexico", "Chile", "Argentina", "Colombia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Italian forward scored the decisive extra-time goal against West Germany in the 1970 semifinal?",
+    "answer": "Giacinto Facchetti",
+    "options": ["Giacinto Facchetti", "Gigi Riva", "Roberto Boninsegna", "Sandro Mazzola"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which African nation made its World Cup debut in 1970, competing in a group with West Germany, Peru, and Bulgaria?",
+    "answer": "Morocco",
+    "options": ["Morocco", "Tunisia", "Zaire", "Algeria"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which country won the 1974 FIFA World Cup?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Netherlands", "Brazil", "Poland"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which forward was the top scorer at the 1974 World Cup with 7 goals?",
+    "answer": "Grzegorz Lato",
+    "options": ["Grzegorz Lato", "Johan Cruyff", "Gerd Müller", "Rivellino"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which tactical system, associated with the 1974 Netherlands team, emphasized fluid positioning and collective pressing?",
+    "answer": "Total Football",
+    "options": ["Total Football", "Catenaccio", "Tiki-Taka", "Zona Mista"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Dutch player captained the Netherlands at the 1974 World Cup and was named the tournament’s best player?",
+    "answer": "Johan Cruyff",
+    "options": ["Johan Cruyff", "Willem van Hanegem", "Ruud Krol", "Johnny Rep"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which African team recorded their first-ever World Cup point during the 1974 tournament?",
+    "answer": "Zaire",
+    "options": ["Zaire", "Morocco", "Algeria", "Tunisia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which team finished third at the 1974 World Cup after defeating Brazil in the third-place match?",
+    "answer": "Poland",
+    "options": ["Poland", "Sweden", "Argentina", "East Germany"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the result of the politically charged match between West Germany and East Germany in the 1974 group stage?",
+    "answer": "East Germany won 1–0",
+    "options": ["East Germany won 1–0", "West Germany won 2–1", "It ended 0–0", "West Germany won 1–0"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who scored the winning goal for West Germany in the 1974 World Cup final against the Netherlands?",
+    "answer": "Gerd Müller",
+    "options": ["Gerd Müller", "Paul Breitner", "Franz Beckenbauer", "Wolfgang Overath"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which country won the 1978 FIFA World Cup?",
+    "answer": "Argentina",
+    "options": ["Argentina", "Netherlands", "Brazil", "Italy"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which striker won the Golden Boot at the 1978 World Cup with 6 goals?",
+    "answer": "Mario Kempes",
+    "options": ["Mario Kempes", "Rob Rensenbrink", "Paolo Rossi", "Teófilo Cubillas"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team did Argentina defeat 3–1 after extra time in the 1978 World Cup final?",
+    "answer": "Netherlands",
+    "options": ["Netherlands", "Brazil", "France", "West Germany"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which European nation made its World Cup debut in 1978 and reached the second round group stage?",
+    "answer": "Austria",
+    "options": ["Austria", "Scotland", "Spain", "Sweden"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Dutch midfielder was the team’s top scorer at the 1978 World Cup?",
+    "answer": "Rob Rensenbrink",
+    "options": ["Rob Rensenbrink", "Ruud Krol", "Willy van de Kerkhof", "Johnny Rep"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which country hosted the 1978 FIFA World Cup?",
+    "answer": "Argentina",
+    "options": ["Argentina", "Chile", "Uruguay", "Colombia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Dutch legend declined to participate in the 1978 World Cup despite being active at the time?",
+    "answer": "Johan Cruyff",
+    "options": ["Johan Cruyff", "Johan Neeskens", "Arie Haan", "Wim Jansen"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which country won the 1982 FIFA World Cup?",
+    "answer": "Italy",
+    "options": ["Italy", "West Germany", "Brazil", "France"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which striker won the Golden Boot at the 1982 World Cup with 6 goals?",
+    "answer": "Paolo Rossi",
+    "options": ["Paolo Rossi", "Karl-Heinz Rummenigge", "Zico", "Michel Platini"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team did Italy defeat 3–1 in the 1982 World Cup final?",
+    "answer": "West Germany",
+    "options": ["West Germany", "France", "Brazil", "Argentina"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team did Italy eliminate with a 3–2 win in the 1982 quarterfinals, featuring a Paolo Rossi hat-trick?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Argentina", "France", "Soviet Union"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which goalkeeper's foul on Patrick Battiston in the semifinal caused controversy but no card?",
+    "answer": "Harald Schumacher",
+    "options": ["Harald Schumacher", "Jean-Luc Ettori", "Dino Zoff", "Peter Shilton"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which African team nearly reached the knockout stage but was controversially eliminated after the 'Disgrace of Gijón'?",
+    "answer": "Algeria",
+    "options": ["Algeria", "Cameroon", "Tunisia", "Morocco"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which nation made its World Cup debut in 1982 and earned a surprise draw with West Germany?",
+    "answer": "Algeria",
+    "options": ["Algeria", "Kuwait", "Honduras", "New Zealand"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which legendary midfielder captained France at the 1982 World Cup?",
+    "answer": "Michel Platini",
+    "options": ["Michel Platini", "Alain Giresse", "Jean Tigana", "Manuel Amoros"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  }
+],
+[
+  {
+    "question": "Which country won the 1986 FIFA World Cup?",
+    "answer": "Argentina",
+    "options": ["Argentina", "West Germany", "France", "Brazil"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Argentine player won the Golden Ball at the 1986 World Cup?",
+    "answer": "Diego Maradona",
+    "options": ["Diego Maradona", "Jorge Valdano", "Oscar Ruggeri", "Claudio Caniggia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 1986 World Cup with 6 goals?",
+    "answer": "Gary Lineker",
+    "options": ["Gary Lineker", "Careca", "Maradona", "Rudi Völler"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team lost to Argentina 3–2 in the 1986 World Cup final?",
+    "answer": "West Germany",
+    "options": ["West Germany", "France", "Italy", "Belgium"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which country did Maradona score both the 'Hand of God' and 'Goal of the Century' against?",
+    "answer": "England",
+    "options": ["England", "Belgium", "Italy", "Uruguay"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team knocked out Brazil on penalties in the 1986 quarterfinals?",
+    "answer": "France",
+    "options": ["France", "Argentina", "Germany", "Belgium"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which African team reached the Round of 16 at the 1986 World Cup — a first for the continent?",
+    "answer": "Morocco",
+    "options": ["Morocco", "Algeria", "Tunisia", "Cameroon"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Mexican striker scored four goals in the 1986 World Cup, helping the hosts reach the quarterfinals?",
+    "answer": "Manuel Negrete",
+    "options": ["Manuel Negrete", "Hugo Sánchez", "Tomás Boy", "Carlos Hermosillo"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which country won the 1990 FIFA World Cup?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Argentina", "Italy", "England"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which striker won the Golden Boot at the 1990 World Cup with 6 goals?",
+    "answer": "Salvatore Schillaci",
+    "options": ["Salvatore Schillaci", "Jürgen Klinsmann", "Gary Lineker", "Diego Maradona"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which country hosted the 1990 World Cup?",
+    "answer": "Italy",
+    "options": ["Italy", "Germany", "Spain", "France"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team did West Germany defeat in the 1990 final with a late penalty by Andreas Brehme?",
+    "answer": "Argentina",
+    "options": ["Argentina", "Italy", "England", "Czechoslovakia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which African team reached the quarterfinals of the 1990 World Cup, the first to do so?",
+    "answer": "Cameroon",
+    "options": ["Cameroon", "Nigeria", "Egypt", "Morocco"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which 38-year-old Cameroonian forward scored four goals during the 1990 tournament?",
+    "answer": "Roger Milla",
+    "options": ["Roger Milla", "François Omam-Biyik", "Thomas N'Kono", "Emmanuel Kunde"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which team eliminated England in the semifinals of the 1990 World Cup on penalties?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Italy", "Argentina", "Romania"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Italian goalkeeper won the Lev Yashin Award for best keeper at the 1990 World Cup?",
+    "answer": "Walter Zenga",
+    "options": ["Walter Zenga", "Dino Zoff", "Peter Shilton", "Bodo Illgner"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which country won the 1994 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Italy", "Germany", "Sweden"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which World Cup holds the all-time attendance record with over 3.5 million total spectators?",
+    "answer": "1994 World Cup",
+    "options": ["1994 World Cup", "2014 World Cup", "1998 World Cup", "2006 World Cup"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 1994 World Cup with 6 goals?",
+    "answer": "Hristo Stoichkov",
+    "options": ["Hristo Stoichkov", "Romário", "Roberto Baggio", "Oleg Salenko"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team lost the 1994 final to Brazil in a penalty shootout?",
+    "answer": "Italy",
+    "options": ["Italy", "Germany", "Argentina", "Netherlands"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which forward missed the decisive penalty for Italy in the 1994 final?",
+    "answer": "Roberto Baggio",
+    "options": ["Roberto Baggio", "Franco Baresi", "Daniele Massaro", "Demetrio Albertini"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which African team reached the Round of 16 before losing to Italy in extra time?",
+    "answer": "Nigeria",
+    "options": ["Nigeria", "Cameroon", "Morocco", "South Africa"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Russian forward scored five goals in a single match during the group stage?",
+    "answer": "Oleg Salenko",
+    "options": ["Oleg Salenko", "Dmitri Radchenko", "Igor Kolyvanov", "Sergei Yuran"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which country won the 1998 FIFA World Cup?",
+    "answer": "France",
+    "options": ["France", "Brazil", "Netherlands", "Croatia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 1998 World Cup with 6 goals?",
+    "answer": "Davor Šuker",
+    "options": ["Davor Šuker", "Ronaldo", "Christian Vieri", "Zinedine Zidane"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team did France defeat 3–0 in the 1998 World Cup final?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Croatia", "Germany", "Argentina"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which French midfielder scored twice in the 1998 final against Brazil?",
+    "answer": "Zinedine Zidane",
+    "options": ["Zinedine Zidane", "Emmanuel Petit", "Youri Djorkaeff", "Patrick Vieira"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which European team finished third in their World Cup debut in 1998?",
+    "answer": "Croatia",
+    "options": ["Croatia", "Ukraine", "Romania", "Czech Republic"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which nation made its first-ever World Cup appearance in 1998 and reached the Round of 16?",
+    "answer": "Senegal did not debut in 1998; the correct answer is Japan",
+    "options": ["Japan", "South Africa", "Jamaica", "Iran"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which goalkeeper was controversially sent off for Argentina in their Round of 16 shootout loss to England?",
+    "answer": "Carlos Roa",
+    "options": ["Carlos Roa", "Roberto Abbondanzieri", "Germán Burgos", "Sergio Goycochea"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was significant about the 1998 World Cup tournament format?",
+    "answer": "It was the first World Cup with 32 teams",
+    "options": [
+      "It was the first World Cup with 32 teams",
+      "It had no third-place match",
+      "It used golden goal in every knockout round",
+      "It was hosted across multiple countries"
+    ],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  }
+],
+[
+  {
+    "question": "Which country won the 2002 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Germany", "Turkey", "South Korea"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 2002 World Cup with 8 goals?",
+    "answer": "Ronaldo",
+    "options": ["Ronaldo", "Miroslav Klose", "Rivaldo", "Ronaldinho"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team did Brazil defeat in the 2002 World Cup final?",
+    "answer": "Germany",
+    "options": ["Germany", "Turkey", "England", "Italy"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which nation was a semifinalist in the 2002 World Cup?",
+    "answer": "South Korea",
+    "options": ["South Korea", "Spain", "USA", "England"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Asian country co-hosted the 2002 World Cup along with South Korea?",
+    "answer": "Japan",
+    "options": ["Japan", "China", "Thailand", "Indonesia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which European team finished third at the 2002 World Cup?",
+    "answer": "Turkey",
+    "options": ["Turkey", "Spain", "Sweden", "Denmark"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which country won the 2006 FIFA World Cup?",
+    "answer": "Italy",
+    "options": ["Italy", "France", "Germany", "Portugal"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team did Italy defeat in the 2006 World Cup final on penalties?",
+    "answer": "France",
+    "options": ["France", "Germany", "Brazil", "Argentina"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 2006 World Cup with 5 goals?",
+    "answer": "Miroslav Klose",
+    "options": ["Miroslav Klose", "Thierry Henry", "Luca Toni", "Zinedine Zidane"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which midfielder was sent off in the 2006 World Cup final for headbutting Marco Materazzi?",
+    "answer": "Zinedine Zidane",
+    "options": ["Zinedine Zidane", "Patrick Vieira", "Andrea Pirlo", "Gennaro Gattuso"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which country hosted the 2006 World Cup?",
+    "answer": "Germany",
+    "options": ["Germany", "Italy", "France", "Spain"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which African team advanced to the Round of 16 in their World Cup debut?",
+    "answer": "Ghana",
+    "options": ["Ghana", "Ivory Coast", "Togo", "Angola"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which goalkeeper was named Best Player of the Tournament — the first keeper to win the Golden Ball?",
+    "answer": "Gianluigi Buffon",
+    "options": ["Gianluigi Buffon", "Fabien Barthez", "Jens Lehmann", "Ricardo"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which nation finished third at the 2006 World Cup?",
+    "answer": "Germany",
+    "options": ["Germany", "Portugal", "Argentina", "Spain"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which country won the 2010 FIFA World Cup?",
+    "answer": "Spain",
+    "options": ["Spain", "Netherlands", "Germany", "Brazil"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who scored the winning goal for Spain in the 2010 World Cup final?",
+    "answer": "Andrés Iniesta",
+    "options": ["Andrés Iniesta", "Xavi", "David Villa", "Fernando Torres"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which African nation hosted the 2010 World Cup?",
+    "answer": "South Africa",
+    "options": ["South Africa", "Nigeria", "Egypt", "Ghana"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 2010 World Cup with 5 goals?",
+    "answer": "Thomas Müller",
+    "options": ["Thomas Müller", "David Villa", "Wesley Sneijder", "Diego Forlán"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which South American player won the Golden Ball at the 2010 World Cup?",
+    "answer": "Diego Forlán",
+    "options": ["Diego Forlán", "Luis Suárez", "Lionel Messi", "Gonzalo Higuaín"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which European team finished second after losing the final in extra time?",
+    "answer": "Netherlands",
+    "options": ["Netherlands", "Germany", "Portugal", "Italy"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which African team reached the quarterfinals and was eliminated by Uruguay on penalties?",
+    "answer": "Ghana",
+    "options": ["Ghana", "South Africa", "Ivory Coast", "Cameroon"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which goalkeeper saved two penalties for Germany in their shootout win over Argentina?",
+    "answer": "This event did not occur in 2010; Germany beat Argentina 4–0 in regular time",
+    "options": [
+      "This event did not occur in 2010; Germany beat Argentina 4–0 in regular time",
+      "Manuel Neuer",
+      "Sergio Romero",
+      "Júlio César"
+    ],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which country won the 2014 FIFA World Cup?",
+    "answer": "Germany",
+    "options": ["Germany", "Argentina", "Brazil", "Netherlands"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which German scored the winning goal in the 2014 World Cup final?",
+    "answer": "Mario Götze",
+    "options": ["Mario Götze", "Thomas Müller", "André Schürrle", "Miroslav Klose"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Germany", "South Africa", "Russia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which German striker became the all-time leading World Cup scorer during the 2014 tournament?",
+    "answer": "Miroslav Klose",
+    "options": ["Miroslav Klose", "Ronaldo", "Thomas Müller", "Gerd Müller"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which player won the Golden Ball at the 2014 World Cup?",
+    "answer": "Lionel Messi",
+    "options": ["Lionel Messi", "Arjen Robben", "James Rodríguez", "Thomas Müller"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who won the Golden Boot at the 2014 World Cup with 6 goals?",
+    "answer": "James Rodríguez",
+    "options": ["James Rodríguez", "Neymar", "Lionel Messi", "Robin van Persie"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team did Germany defeat 7–1 in the 2014 World Cup semifinals?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Argentina", "France", "Portugal"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which African nation reached the Round of 16 in 2014 before being eliminated by France?",
+    "answer": "Nigeria",
+    "options": ["Nigeria", "Algeria", "Ghana", "Cameroon"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which country won the 2018 FIFA World Cup?",
+    "answer": "France",
+    "options": ["France", "Croatia", "Belgium", "England"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was the score of the 2018 World Cup final?",
+    "answer": "4–2",
+    "options": ["4–2", "2–1", "3–1", "1–0"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who won the Best Young Player Award at the 2018 World Cup?",
+    "answer": "Kylian Mbappé",
+    "options": ["Kylian Mbappé", "Eden Hazard", "Denis Cheryshev", "Vinicius Jr"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which striker won the Golden Boot at the 2018 World Cup with 6 goals?",
+    "answer": "Harry Kane",
+    "options": ["Harry Kane", "Romelu Lukaku", "Kylian Mbappé", "Cristiano Ronaldo"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who won the Golden Ball at the 2018 World Cup?",
+    "answer": "Luka Modrić",
+    "options": ["Luka Modrić", "Kevin De Bruyne", "Eden Hazard", "Paul Pogba"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team defeated Brazil 2–1 in the 2018 quarterfinals?",
+    "answer": "Belgium",
+    "options": ["Belgium", "France", "Croatia", "Uruguay"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which goalkeeper saved a penalty in stoppage time to help Denmark force extra time vs Croatia?",
+    "answer": "Kasper Schmeichel",
+    "options": ["Kasper Schmeichel", "Danijel Subašić", "Thibaut Courtois", "Jordan Pickford"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which team eliminated Spain in the Round of 16 after a penalty shootout?",
+    "answer": "Russia",
+    "options": ["Russia", "Croatia", "Sweden", "Denmark"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which country won the 2022 FIFA World Cup?",
+    "answer": "Argentina",
+    "options": ["Argentina", "France", "Croatia", "Brazil"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was the score of the 2022 World Cup final before penalties?",
+    "answer": "3–3",
+    "options": ["3–3", "2–2", "1–1", "4–4"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who won the Golden Boot at the 2022 World Cup with 8 goals?",
+    "answer": "Kylian Mbappé",
+    "options": ["Kylian Mbappé", "Lionel Messi", "Olivier Giroud", "Julián Álvarez"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who won the Golden Ball at the 2022 World Cup?",
+    "answer": "Lionel Messi",
+    "options": ["Lionel Messi", "Kylian Mbappé", "Luka Modrić", "Antoine Griezmann"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which African nation became the first to reach a World Cup semifinal?",
+    "answer": "Morocco",
+    "options": ["Morocco", "Senegal", "Cameroon", "Ghana"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team eliminated Portugal in the 2022 World Cup quarterfinals?",
+    "answer": "Morocco",
+    "options": ["Morocco", "France", "Croatia", "Netherlands"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who scored a hat-trick in the 2022 World Cup final?",
+    "answer": "Kylian Mbappé",
+    "options": ["Kylian Mbappé", "Lionel Messi", "Olivier Giroud", "Ángel Di María"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which goalkeeper was named Best Goalkeeper of the 2022 World Cup?",
+    "answer": "Emiliano Martínez",
+    "options": ["Emiliano Martínez", "Dominik Livaković", "Hugo Lloris", "Yassine Bounou"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which player has scored the most goals in FIFA World Cup history?",
+    "answer": "Miroslav Klose",
+    "options": ["Miroslav Klose", "Ronaldo", "Lionel Messi", "Gerd Müller"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which team has appeared in the most FIFA World Cup tournaments?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Germany", "Argentina", "Italy"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which player has made the most appearances in World Cup matches?",
+    "answer": "Lionel Messi",
+    "options": ["Lionel Messi", "Lothar Matthäus", "Miroslav Klose", "Cristiano Ronaldo"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who scored the fastest goal in World Cup history, just 11 seconds into a match?",
+    "answer": "Hakan Şükür",
+    "options": ["Hakan Şükür", "Clint Dempsey", "Bryan Robson", "David Villa"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which goalkeeper has kept the most clean sheets in World Cup history?",
+    "answer": "Peter Shilton",
+    "options": ["Peter Shilton", "Fabien Barthez", "Manuel Neuer", "Gianluigi Buffon"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which team holds the record for the most goals scored in a single World Cup tournament?",
+    "answer": "Hungary (1954)",
+    "options": ["Hungary (1954)", "Brazil (2002)", "Germany (2014)", "France (2022)"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which country has lost the most World Cup finals?",
+    "answer": "Germany",
+    "options": ["Germany", "Argentina", "Netherlands", "Italy"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+],
+[
+  {
+    "question": "Which player was the oldest to appear in a World Cup match?",
+    "answer": "Essam El-Hadary",
+    "options": ["Essam El-Hadary", "Roger Milla", "Gianluigi Buffon", "Pat Jennings"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which player was the youngest to score in a World Cup match?",
+    "answer": "Pelé",
+    "options": ["Pelé", "Manuel Rosas", "Kylian Mbappé", "Lionel Messi"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which country has hosted the World Cup more than once and also won it as host?",
+    "answer": "Italy",
+    "options": ["Italy", "Germany", "France", "Argentina"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the largest margin of victory in a World Cup match?",
+    "answer": "9 goals",
+    "options": ["9 goals", "8 goals", "10 goals", "7 goals"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which player has scored in five different World Cup tournaments?",
+    "answer": "Cristiano Ronaldo",
+    "options": ["Cristiano Ronaldo", "Miroslav Klose", "Pelé", "Lionel Messi"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which country received the most red cards in a single World Cup tournament?",
+    "answer": "Cameroon (1994)",
+    "options": ["Cameroon (1994)", "Uruguay (2010)", "Netherlands (2006)", "Argentina (2002)"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which team won the most matches in a single World Cup tournament?",
+    "answer": "Brazil (2002)",
+    "options": ["Brazil (2002)", "France (2018)", "Germany (2014)", "Argentina (2022)"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard"
+  }
+]
+
+
+
+  
+]

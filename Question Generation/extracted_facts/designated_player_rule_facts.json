@@ -1,0 +1,13 @@
+{
+  "source": "https://en.wikipedia.org/wiki/Designated_Player_Rule",
+  "article_title": "Designated Player Rule",
+  "facts": [],
+  "extraction_stats": {
+    "total_facts": 0,
+    "unique_facts": 0,
+    "new_unique_facts": 0,
+    "chunks_processed": 11,
+    "total_prompt_tokens": 0,
+    "total_completion_tokens": 0
+  }
+}

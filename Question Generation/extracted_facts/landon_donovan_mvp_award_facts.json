@@ -1,0 +1,13 @@
+{
+  "source": "https://en.wikipedia.org/wiki/Landon_Donovan_MVP_Award",
+  "article_title": "Landon Donovan MVP Award",
+  "facts": [],
+  "extraction_stats": {
+    "total_facts": 0,
+    "unique_facts": 0,
+    "new_unique_facts": 0,
+    "chunks_processed": 2,
+    "total_prompt_tokens": 0,
+    "total_completion_tokens": 0
+  }
+}

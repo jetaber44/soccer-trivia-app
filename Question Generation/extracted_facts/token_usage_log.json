@@ -1,0 +1,2172 @@
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/Major_League_Soccer",
+    "chunk": 1,
+    "prompt_tokens": 1549,
+    "completion_tokens": 442,
+    "facts_extracted": 18
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Major_League_Soccer",
+    "chunk": 2,
+    "prompt_tokens": 1446,
+    "completion_tokens": 302,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Major_League_Soccer",
+    "chunk": 3,
+    "prompt_tokens": 977,
+    "completion_tokens": 184,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/List_of_MLS_seasons",
+    "chunk": 1,
+    "prompt_tokens": 1665,
+    "completion_tokens": 233,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/List_of_MLS_seasons",
+    "chunk": 2,
+    "prompt_tokens": 458,
+    "completion_tokens": 255,
+    "facts_extracted": 14
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/List_of_MLS_Cup_champions",
+    "chunk": 1,
+    "prompt_tokens": 1465,
+    "completion_tokens": 228,
+    "facts_extracted": 6
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/List_of_MLS_Cup_champions",
+    "chunk": 2,
+    "prompt_tokens": 1085,
+    "completion_tokens": 271,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 1,
+    "prompt_tokens": 1018,
+    "completion_tokens": 227,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 2,
+    "prompt_tokens": 873,
+    "completion_tokens": 242,
+    "facts_extracted": 7
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 3,
+    "prompt_tokens": 935,
+    "completion_tokens": 245,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 4,
+    "prompt_tokens": 786,
+    "completion_tokens": 246,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 5,
+    "prompt_tokens": 1001,
+    "completion_tokens": 322,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 6,
+    "prompt_tokens": 1130,
+    "completion_tokens": 286,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 7,
+    "prompt_tokens": 994,
+    "completion_tokens": 307,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 8,
+    "prompt_tokens": 1040,
+    "completion_tokens": 303,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 9,
+    "prompt_tokens": 1058,
+    "completion_tokens": 287,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 10,
+    "prompt_tokens": 1117,
+    "completion_tokens": 229,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 11,
+    "prompt_tokens": 274,
+    "completion_tokens": 42,
+    "facts_extracted": 2
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 12,
+    "prompt_tokens": 1335,
+    "completion_tokens": 210,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 13,
+    "prompt_tokens": 1309,
+    "completion_tokens": 152,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 14,
+    "prompt_tokens": 1265,
+    "completion_tokens": 149,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 15,
+    "prompt_tokens": 1563,
+    "completion_tokens": 295,
+    "facts_extracted": 20
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Cup",
+    "chunk": 16,
+    "prompt_tokens": 1159,
+    "completion_tokens": 241,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Supporters%27_Shield",
+    "chunk": 1,
+    "prompt_tokens": 1021,
+    "completion_tokens": 285,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Supporters%27_Shield",
+    "chunk": 2,
+    "prompt_tokens": 1000,
+    "completion_tokens": 260,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Supporters%27_Shield",
+    "chunk": 3,
+    "prompt_tokens": 762,
+    "completion_tokens": 338,
+    "facts_extracted": 18
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Supporters%27_Shield",
+    "chunk": 4,
+    "prompt_tokens": 1272,
+    "completion_tokens": 254,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Supporters%27_Shield",
+    "chunk": 5,
+    "prompt_tokens": 1465,
+    "completion_tokens": 187,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Supporters%27_Shield",
+    "chunk": 6,
+    "prompt_tokens": 1878,
+    "completion_tokens": 246,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Supporters%27_Shield",
+    "chunk": 7,
+    "prompt_tokens": 186,
+    "completion_tokens": 43,
+    "facts_extracted": 2
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/MLS_Golden_Boot",
+    "chunk": 1,
+    "prompt_tokens": 1295,
+    "completion_tokens": 227,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
+    "chunk": 1,
+    "prompt_tokens": 799,
+    "completion_tokens": 214,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
+    "chunk": 2,
+    "prompt_tokens": 1056,
+    "completion_tokens": 275,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
+    "chunk": 3,
+    "prompt_tokens": 1043,
+    "completion_tokens": 367,
+    "facts_extracted": 15
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
+    "chunk": 4,
+    "prompt_tokens": 1071,
+    "completion_tokens": 444,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
+    "chunk": 5,
+    "prompt_tokens": 1061,
+    "completion_tokens": 283,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
+    "chunk": 6,
+    "prompt_tokens": 1023,
+    "completion_tokens": 259,
+    "facts_extracted": 20
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
+    "chunk": 7,
+    "prompt_tokens": 1056,
+    "completion_tokens": 562,
+    "facts_extracted": 15
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
+    "chunk": 8,
+    "prompt_tokens": 1062,
+    "completion_tokens": 315,
+    "facts_extracted": 14
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
+    "chunk": 9,
+    "prompt_tokens": 234,
+    "completion_tokens": 90,
+    "facts_extracted": 2
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
+    "chunk": 10,
+    "prompt_tokens": 1294,
+    "completion_tokens": 115,
+    "facts_extracted": 5
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
+    "chunk": 11,
+    "prompt_tokens": 1293,
+    "completion_tokens": 166,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
+    "chunk": 12,
+    "prompt_tokens": 1229,
+    "completion_tokens": 196,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
+    "chunk": 13,
+    "prompt_tokens": 1656,
+    "completion_tokens": 297,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Charlotte_FC",
+    "chunk": 1,
+    "prompt_tokens": 1190,
+    "completion_tokens": 244,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 1,
+    "prompt_tokens": 963,
+    "completion_tokens": 215,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 2,
+    "prompt_tokens": 1005,
+    "completion_tokens": 270,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 3,
+    "prompt_tokens": 1028,
+    "completion_tokens": 413,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 4,
+    "prompt_tokens": 993,
+    "completion_tokens": 162,
+    "facts_extracted": 6
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 5,
+    "prompt_tokens": 961,
+    "completion_tokens": 313,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 6,
+    "prompt_tokens": 1064,
+    "completion_tokens": 295,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 7,
+    "prompt_tokens": 863,
+    "completion_tokens": 301,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 8,
+    "prompt_tokens": 1047,
+    "completion_tokens": 251,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 9,
+    "prompt_tokens": 1013,
+    "completion_tokens": 306,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 10,
+    "prompt_tokens": 1146,
+    "completion_tokens": 285,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 11,
+    "prompt_tokens": 629,
+    "completion_tokens": 154,
+    "facts_extracted": 6
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 12,
+    "prompt_tokens": 1306,
+    "completion_tokens": 203,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 13,
+    "prompt_tokens": 1347,
+    "completion_tokens": 162,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 14,
+    "prompt_tokens": 566,
+    "completion_tokens": 170,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 15,
+    "prompt_tokens": 1229,
+    "completion_tokens": 249,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 16,
+    "prompt_tokens": 1539,
+    "completion_tokens": 211,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+    "chunk": 17,
+    "prompt_tokens": 1678,
+    "completion_tokens": 285,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Cincinnati",
+    "chunk": 1,
+    "prompt_tokens": 1119,
+    "completion_tokens": 316,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Cincinnati",
+    "chunk": 2,
+    "prompt_tokens": 967,
+    "completion_tokens": 380,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Cincinnati",
+    "chunk": 3,
+    "prompt_tokens": 1058,
+    "completion_tokens": 495,
+    "facts_extracted": 15
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Cincinnati",
+    "chunk": 4,
+    "prompt_tokens": 1064,
+    "completion_tokens": 222,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Cincinnati",
+    "chunk": 5,
+    "prompt_tokens": 1059,
+    "completion_tokens": 245,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Cincinnati",
+    "chunk": 6,
+    "prompt_tokens": 968,
+    "completion_tokens": 198,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Cincinnati",
+    "chunk": 7,
+    "prompt_tokens": 1349,
+    "completion_tokens": 183,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Cincinnati",
+    "chunk": 8,
+    "prompt_tokens": 1124,
+    "completion_tokens": 204,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Cincinnati",
+    "chunk": 9,
+    "prompt_tokens": 1767,
+    "completion_tokens": 285,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Cincinnati",
+    "chunk": 10,
+    "prompt_tokens": 708,
+    "completion_tokens": 352,
+    "facts_extracted": 17
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Columbus_Crew",
+    "chunk": 1,
+    "prompt_tokens": 1560,
+    "completion_tokens": 256,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Columbus_Crew",
+    "chunk": 2,
+    "prompt_tokens": 1900,
+    "completion_tokens": 263,
+    "facts_extracted": 20
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Columbus_Crew",
+    "chunk": 3,
+    "prompt_tokens": 1315,
+    "completion_tokens": 195,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 1,
+    "prompt_tokens": 952,
+    "completion_tokens": 236,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 2,
+    "prompt_tokens": 1006,
+    "completion_tokens": 305,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 3,
+    "prompt_tokens": 958,
+    "completion_tokens": 192,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 4,
+    "prompt_tokens": 978,
+    "completion_tokens": 300,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 5,
+    "prompt_tokens": 977,
+    "completion_tokens": 195,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 6,
+    "prompt_tokens": 909,
+    "completion_tokens": 236,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 7,
+    "prompt_tokens": 1001,
+    "completion_tokens": 316,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 8,
+    "prompt_tokens": 1048,
+    "completion_tokens": 332,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 9,
+    "prompt_tokens": 1018,
+    "completion_tokens": 292,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 10,
+    "prompt_tokens": 1043,
+    "completion_tokens": 336,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 11,
+    "prompt_tokens": 1119,
+    "completion_tokens": 216,
+    "facts_extracted": 6
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 12,
+    "prompt_tokens": 399,
+    "completion_tokens": 22,
+    "facts_extracted": 2
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 13,
+    "prompt_tokens": 1408,
+    "completion_tokens": 194,
+    "facts_extracted": 7
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 14,
+    "prompt_tokens": 1281,
+    "completion_tokens": 227,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 15,
+    "prompt_tokens": 1308,
+    "completion_tokens": 215,
+    "facts_extracted": 20
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 16,
+    "prompt_tokens": 1451,
+    "completion_tokens": 306,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 17,
+    "prompt_tokens": 1656,
+    "completion_tokens": 383,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/D.C._United",
+    "chunk": 18,
+    "prompt_tokens": 211,
+    "completion_tokens": 32,
+    "facts_extracted": 2
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 1,
+    "prompt_tokens": 851,
+    "completion_tokens": 237,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 2,
+    "prompt_tokens": 1006,
+    "completion_tokens": 242,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 3,
+    "prompt_tokens": 848,
+    "completion_tokens": 268,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 4,
+    "prompt_tokens": 1004,
+    "completion_tokens": 266,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 5,
+    "prompt_tokens": 946,
+    "completion_tokens": 377,
+    "facts_extracted": 14
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 6,
+    "prompt_tokens": 1126,
+    "completion_tokens": 453,
+    "facts_extracted": 18
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 7,
+    "prompt_tokens": 685,
+    "completion_tokens": 307,
+    "facts_extracted": 20
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 8,
+    "prompt_tokens": 985,
+    "completion_tokens": 267,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 9,
+    "prompt_tokens": 1004,
+    "completion_tokens": 384,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 10,
+    "prompt_tokens": 847,
+    "completion_tokens": 274,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 11,
+    "prompt_tokens": 700,
+    "completion_tokens": 254,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 12,
+    "prompt_tokens": 1312,
+    "completion_tokens": 125,
+    "facts_extracted": 7
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 13,
+    "prompt_tokens": 1289,
+    "completion_tokens": 134,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 14,
+    "prompt_tokens": 1594,
+    "completion_tokens": 220,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+    "chunk": 15,
+    "prompt_tokens": 296,
+    "completion_tokens": 108,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 1,
+    "prompt_tokens": 914,
+    "completion_tokens": 203,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 2,
+    "prompt_tokens": 837,
+    "completion_tokens": 200,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 3,
+    "prompt_tokens": 1035,
+    "completion_tokens": 318,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 4,
+    "prompt_tokens": 1011,
+    "completion_tokens": 229,
+    "facts_extracted": 6
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 5,
+    "prompt_tokens": 1047,
+    "completion_tokens": 428,
+    "facts_extracted": 14
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 6,
+    "prompt_tokens": 971,
+    "completion_tokens": 346,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 7,
+    "prompt_tokens": 920,
+    "completion_tokens": 257,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 8,
+    "prompt_tokens": 1045,
+    "completion_tokens": 315,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 9,
+    "prompt_tokens": 1089,
+    "completion_tokens": 295,
+    "facts_extracted": 20
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 10,
+    "prompt_tokens": 322,
+    "completion_tokens": 121,
+    "facts_extracted": 5
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 11,
+    "prompt_tokens": 1363,
+    "completion_tokens": 197,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 12,
+    "prompt_tokens": 1385,
+    "completion_tokens": 255,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 13,
+    "prompt_tokens": 1991,
+    "completion_tokens": 256,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 14,
+    "prompt_tokens": 1623,
+    "completion_tokens": 304,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CF_Montr%C3%A9al",
+    "chunk": 15,
+    "prompt_tokens": 1295,
+    "completion_tokens": 277,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 1,
+    "prompt_tokens": 1065,
+    "completion_tokens": 314,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 2,
+    "prompt_tokens": 1024,
+    "completion_tokens": 231,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 3,
+    "prompt_tokens": 1107,
+    "completion_tokens": 499,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 4,
+    "prompt_tokens": 1067,
+    "completion_tokens": 271,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 5,
+    "prompt_tokens": 1001,
+    "completion_tokens": 349,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 6,
+    "prompt_tokens": 1094,
+    "completion_tokens": 353,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 7,
+    "prompt_tokens": 1061,
+    "completion_tokens": 276,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 8,
+    "prompt_tokens": 734,
+    "completion_tokens": 211,
+    "facts_extracted": 7
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 9,
+    "prompt_tokens": 961,
+    "completion_tokens": 370,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 10,
+    "prompt_tokens": 1016,
+    "completion_tokens": 340,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 11,
+    "prompt_tokens": 1089,
+    "completion_tokens": 314,
+    "facts_extracted": 20
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 12,
+    "prompt_tokens": 1115,
+    "completion_tokens": 362,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 13,
+    "prompt_tokens": 1076,
+    "completion_tokens": 335,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 14,
+    "prompt_tokens": 837,
+    "completion_tokens": 259,
+    "facts_extracted": 20
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 15,
+    "prompt_tokens": 542,
+    "completion_tokens": 176,
+    "facts_extracted": 6
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 16,
+    "prompt_tokens": 995,
+    "completion_tokens": 367,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 17,
+    "prompt_tokens": 1004,
+    "completion_tokens": 309,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 18,
+    "prompt_tokens": 937,
+    "completion_tokens": 262,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 19,
+    "prompt_tokens": 1022,
+    "completion_tokens": 457,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 20,
+    "prompt_tokens": 1031,
+    "completion_tokens": 247,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 21,
+    "prompt_tokens": 442,
+    "completion_tokens": 160,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 22,
+    "prompt_tokens": 1406,
+    "completion_tokens": 285,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 23,
+    "prompt_tokens": 1317,
+    "completion_tokens": 190,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 24,
+    "prompt_tokens": 1288,
+    "completion_tokens": 212,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 25,
+    "prompt_tokens": 1233,
+    "completion_tokens": 234,
+    "facts_extracted": 20
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_England_Revolution",
+    "chunk": 26,
+    "prompt_tokens": 1053,
+    "completion_tokens": 210,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 1,
+    "prompt_tokens": 1038,
+    "completion_tokens": 201,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 2,
+    "prompt_tokens": 943,
+    "completion_tokens": 306,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 3,
+    "prompt_tokens": 836,
+    "completion_tokens": 207,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 4,
+    "prompt_tokens": 1067,
+    "completion_tokens": 287,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 5,
+    "prompt_tokens": 892,
+    "completion_tokens": 340,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 6,
+    "prompt_tokens": 818,
+    "completion_tokens": 262,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 7,
+    "prompt_tokens": 983,
+    "completion_tokens": 439,
+    "facts_extracted": 15
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 8,
+    "prompt_tokens": 1070,
+    "completion_tokens": 260,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 9,
+    "prompt_tokens": 1082,
+    "completion_tokens": 323,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 10,
+    "prompt_tokens": 995,
+    "completion_tokens": 288,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 11,
+    "prompt_tokens": 1005,
+    "completion_tokens": 273,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 12,
+    "prompt_tokens": 374,
+    "completion_tokens": 82,
+    "facts_extracted": 5
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 13,
+    "prompt_tokens": 1240,
+    "completion_tokens": 192,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 14,
+    "prompt_tokens": 1191,
+    "completion_tokens": 159,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 15,
+    "prompt_tokens": 1067,
+    "completion_tokens": 292,
+    "facts_extracted": 20
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 16,
+    "prompt_tokens": 1057,
+    "completion_tokens": 196,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 17,
+    "prompt_tokens": 1686,
+    "completion_tokens": 284,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
+    "chunk": 18,
+    "prompt_tokens": 817,
+    "completion_tokens": 178,
+    "facts_extracted": 7
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 1,
+    "prompt_tokens": 1036,
+    "completion_tokens": 369,
+    "facts_extracted": 14
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 2,
+    "prompt_tokens": 1023,
+    "completion_tokens": 267,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 3,
+    "prompt_tokens": 833,
+    "completion_tokens": 325,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 4,
+    "prompt_tokens": 997,
+    "completion_tokens": 275,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 5,
+    "prompt_tokens": 1023,
+    "completion_tokens": 208,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 6,
+    "prompt_tokens": 978,
+    "completion_tokens": 328,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 7,
+    "prompt_tokens": 1089,
+    "completion_tokens": 485,
+    "facts_extracted": 15
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 8,
+    "prompt_tokens": 1100,
+    "completion_tokens": 326,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 9,
+    "prompt_tokens": 1084,
+    "completion_tokens": 392,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 10,
+    "prompt_tokens": 950,
+    "completion_tokens": 282,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 11,
+    "prompt_tokens": 1089,
+    "completion_tokens": 450,
+    "facts_extracted": 17
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 12,
+    "prompt_tokens": 1020,
+    "completion_tokens": 302,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 13,
+    "prompt_tokens": 1105,
+    "completion_tokens": 335,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 14,
+    "prompt_tokens": 757,
+    "completion_tokens": 467,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 15,
+    "prompt_tokens": 1385,
+    "completion_tokens": 70,
+    "facts_extracted": 3
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 16,
+    "prompt_tokens": 1203,
+    "completion_tokens": 167,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 17,
+    "prompt_tokens": 1221,
+    "completion_tokens": 197,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 18,
+    "prompt_tokens": 1509,
+    "completion_tokens": 404,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 19,
+    "prompt_tokens": 2144,
+    "completion_tokens": 226,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+    "chunk": 20,
+    "prompt_tokens": 1291,
+    "completion_tokens": 266,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Orlando_City_SC",
+    "chunk": 1,
+    "prompt_tokens": 920,
+    "completion_tokens": 298,
+    "facts_extracted": 15
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Orlando_City_SC",
+    "chunk": 2,
+    "prompt_tokens": 1071,
+    "completion_tokens": 222,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Orlando_City_SC",
+    "chunk": 3,
+    "prompt_tokens": 1018,
+    "completion_tokens": 457,
+    "facts_extracted": 18
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Orlando_City_SC",
+    "chunk": 4,
+    "prompt_tokens": 1024,
+    "completion_tokens": 413,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Orlando_City_SC",
+    "chunk": 5,
+    "prompt_tokens": 966,
+    "completion_tokens": 423,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Orlando_City_SC",
+    "chunk": 6,
+    "prompt_tokens": 820,
+    "completion_tokens": 303,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Orlando_City_SC",
+    "chunk": 7,
+    "prompt_tokens": 956,
+    "completion_tokens": 257,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Orlando_City_SC",
+    "chunk": 8,
+    "prompt_tokens": 1026,
+    "completion_tokens": 257,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Orlando_City_SC",
+    "chunk": 9,
+    "prompt_tokens": 779,
+    "completion_tokens": 190,
+    "facts_extracted": 6
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Orlando_City_SC",
+    "chunk": 10,
+    "prompt_tokens": 1292,
+    "completion_tokens": 98,
+    "facts_extracted": 4
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Orlando_City_SC",
+    "chunk": 11,
+    "prompt_tokens": 802,
+    "completion_tokens": 252,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Orlando_City_SC",
+    "chunk": 12,
+    "prompt_tokens": 1452,
+    "completion_tokens": 335,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Orlando_City_SC",
+    "chunk": 13,
+    "prompt_tokens": 1310,
+    "completion_tokens": 270,
+    "facts_extracted": 20
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 1,
+    "prompt_tokens": 956,
+    "completion_tokens": 267,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 2,
+    "prompt_tokens": 1158,
+    "completion_tokens": 255,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 3,
+    "prompt_tokens": 1006,
+    "completion_tokens": 275,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 4,
+    "prompt_tokens": 991,
+    "completion_tokens": 358,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 5,
+    "prompt_tokens": 766,
+    "completion_tokens": 223,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 6,
+    "prompt_tokens": 959,
+    "completion_tokens": 321,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 7,
+    "prompt_tokens": 912,
+    "completion_tokens": 232,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 8,
+    "prompt_tokens": 882,
+    "completion_tokens": 243,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 9,
+    "prompt_tokens": 878,
+    "completion_tokens": 258,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 10,
+    "prompt_tokens": 672,
+    "completion_tokens": 239,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 11,
+    "prompt_tokens": 1320,
+    "completion_tokens": 180,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 12,
+    "prompt_tokens": 1186,
+    "completion_tokens": 164,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 13,
+    "prompt_tokens": 1052,
+    "completion_tokens": 174,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 14,
+    "prompt_tokens": 1719,
+    "completion_tokens": 233,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+    "chunk": 15,
+    "prompt_tokens": 218,
+    "completion_tokens": 79,
+    "facts_extracted": 4
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Toronto_FC",
+    "chunk": 1,
+    "prompt_tokens": 1594,
+    "completion_tokens": 225,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Toronto_FC",
+    "chunk": 2,
+    "prompt_tokens": 1719,
+    "completion_tokens": 248,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Toronto_FC",
+    "chunk": 3,
+    "prompt_tokens": 306,
+    "completion_tokens": 136,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Nashville_SC",
+    "chunk": 1,
+    "prompt_tokens": 1039,
+    "completion_tokens": 252,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Nashville_SC",
+    "chunk": 2,
+    "prompt_tokens": 1070,
+    "completion_tokens": 272,
+    "facts_extracted": 14
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Nashville_SC",
+    "chunk": 3,
+    "prompt_tokens": 802,
+    "completion_tokens": 168,
+    "facts_extracted": 7
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Nashville_SC",
+    "chunk": 4,
+    "prompt_tokens": 1276,
+    "completion_tokens": 363,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Nashville_SC",
+    "chunk": 5,
+    "prompt_tokens": 1378,
+    "completion_tokens": 226,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Nashville_SC",
+    "chunk": 6,
+    "prompt_tokens": 1237,
+    "completion_tokens": 202,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Austin_FC",
+    "chunk": 1,
+    "prompt_tokens": 993,
+    "completion_tokens": 211,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Austin_FC",
+    "chunk": 2,
+    "prompt_tokens": 1103,
+    "completion_tokens": 414,
+    "facts_extracted": 19
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Austin_FC",
+    "chunk": 3,
+    "prompt_tokens": 1067,
+    "completion_tokens": 414,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Austin_FC",
+    "chunk": 4,
+    "prompt_tokens": 1017,
+    "completion_tokens": 317,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Austin_FC",
+    "chunk": 5,
+    "prompt_tokens": 1309,
+    "completion_tokens": 178,
+    "facts_extracted": 7
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Austin_FC",
+    "chunk": 6,
+    "prompt_tokens": 1020,
+    "completion_tokens": 179,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Austin_FC",
+    "chunk": 7,
+    "prompt_tokens": 1104,
+    "completion_tokens": 276,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Austin_FC",
+    "chunk": 8,
+    "prompt_tokens": 892,
+    "completion_tokens": 144,
+    "facts_extracted": 6
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Colorado_Rapids",
+    "chunk": 1,
+    "prompt_tokens": 1013,
+    "completion_tokens": 218,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Colorado_Rapids",
+    "chunk": 2,
+    "prompt_tokens": 825,
+    "completion_tokens": 265,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Colorado_Rapids",
+    "chunk": 3,
+    "prompt_tokens": 886,
+    "completion_tokens": 361,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Colorado_Rapids",
+    "chunk": 4,
+    "prompt_tokens": 946,
+    "completion_tokens": 268,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Colorado_Rapids",
+    "chunk": 5,
+    "prompt_tokens": 1067,
+    "completion_tokens": 271,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Colorado_Rapids",
+    "chunk": 6,
+    "prompt_tokens": 1014,
+    "completion_tokens": 244,
+    "facts_extracted": 20
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Colorado_Rapids",
+    "chunk": 7,
+    "prompt_tokens": 1047,
+    "completion_tokens": 312,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Colorado_Rapids",
+    "chunk": 8,
+    "prompt_tokens": 630,
+    "completion_tokens": 140,
+    "facts_extracted": 6
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Colorado_Rapids",
+    "chunk": 9,
+    "prompt_tokens": 1332,
+    "completion_tokens": 282,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Colorado_Rapids",
+    "chunk": 10,
+    "prompt_tokens": 1217,
+    "completion_tokens": 207,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Colorado_Rapids",
+    "chunk": 11,
+    "prompt_tokens": 1168,
+    "completion_tokens": 168,
+    "facts_extracted": 7
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Colorado_Rapids",
+    "chunk": 12,
+    "prompt_tokens": 1760,
+    "completion_tokens": 242,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Colorado_Rapids",
+    "chunk": 13,
+    "prompt_tokens": 1143,
+    "completion_tokens": 341,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Dallas",
+    "chunk": 1,
+    "prompt_tokens": 978,
+    "completion_tokens": 279,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Dallas",
+    "chunk": 2,
+    "prompt_tokens": 979,
+    "completion_tokens": 394,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Dallas",
+    "chunk": 3,
+    "prompt_tokens": 1067,
+    "completion_tokens": 254,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Dallas",
+    "chunk": 4,
+    "prompt_tokens": 869,
+    "completion_tokens": 278,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Dallas",
+    "chunk": 5,
+    "prompt_tokens": 1070,
+    "completion_tokens": 442,
+    "facts_extracted": 14
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Dallas",
+    "chunk": 6,
+    "prompt_tokens": 948,
+    "completion_tokens": 263,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Dallas",
+    "chunk": 7,
+    "prompt_tokens": 1390,
+    "completion_tokens": 229,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Dallas",
+    "chunk": 8,
+    "prompt_tokens": 1320,
+    "completion_tokens": 225,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/FC_Dallas",
+    "chunk": 9,
+    "prompt_tokens": 1377,
+    "completion_tokens": 219,
+    "facts_extracted": 18
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Houston_Dynamo_FC",
+    "chunk": 1,
+    "prompt_tokens": 987,
+    "completion_tokens": 249,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Houston_Dynamo_FC",
+    "chunk": 4,
+    "prompt_tokens": 1035,
+    "completion_tokens": 330,
+    "facts_extracted": 14
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Houston_Dynamo_FC",
+    "chunk": 11,
+    "prompt_tokens": 1293,
+    "completion_tokens": 236,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Houston_Dynamo_FC",
+    "chunk": 13,
+    "prompt_tokens": 1327,
+    "completion_tokens": 252,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Houston_Dynamo_FC",
+    "chunk": 14,
+    "prompt_tokens": 1237,
+    "completion_tokens": 175,
+    "facts_extracted": 7
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/LA_Galaxy",
+    "chunk": 1,
+    "prompt_tokens": 1027,
+    "completion_tokens": 250,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/LA_Galaxy",
+    "chunk": 2,
+    "prompt_tokens": 1027,
+    "completion_tokens": 373,
+    "facts_extracted": 30
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/LA_Galaxy",
+    "chunk": 6,
+    "prompt_tokens": 1029,
+    "completion_tokens": 224,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/LA_Galaxy",
+    "chunk": 10,
+    "prompt_tokens": 1388,
+    "completion_tokens": 270,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/LA_Galaxy",
+    "chunk": 12,
+    "prompt_tokens": 1389,
+    "completion_tokens": 181,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/LA_Galaxy",
+    "chunk": 14,
+    "prompt_tokens": 1260,
+    "completion_tokens": 229,
+    "facts_extracted": 20
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Los_Angeles_FC",
+    "chunk": 1,
+    "prompt_tokens": 1118,
+    "completion_tokens": 427,
+    "facts_extracted": 17
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Los_Angeles_FC",
+    "chunk": 3,
+    "prompt_tokens": 961,
+    "completion_tokens": 288,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Los_Angeles_FC",
+    "chunk": 7,
+    "prompt_tokens": 1069,
+    "completion_tokens": 428,
+    "facts_extracted": 14
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Los_Angeles_FC",
+    "chunk": 8,
+    "prompt_tokens": 850,
+    "completion_tokens": 256,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Los_Angeles_FC",
+    "chunk": 10,
+    "prompt_tokens": 1117,
+    "completion_tokens": 209,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Los_Angeles_FC",
+    "chunk": 13,
+    "prompt_tokens": 1743,
+    "completion_tokens": 225,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Minnesota_United_FC",
+    "chunk": 1,
+    "prompt_tokens": 1614,
+    "completion_tokens": 428,
+    "facts_extracted": 19
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Minnesota_United_FC",
+    "chunk": 2,
+    "prompt_tokens": 528,
+    "completion_tokens": 391,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Portland_Timbers",
+    "chunk": 1,
+    "prompt_tokens": 967,
+    "completion_tokens": 242,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Portland_Timbers",
+    "chunk": 2,
+    "prompt_tokens": 982,
+    "completion_tokens": 186,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Portland_Timbers",
+    "chunk": 7,
+    "prompt_tokens": 964,
+    "completion_tokens": 398,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Portland_Timbers",
+    "chunk": 9,
+    "prompt_tokens": 1087,
+    "completion_tokens": 250,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Portland_Timbers",
+    "chunk": 11,
+    "prompt_tokens": 1140,
+    "completion_tokens": 299,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Portland_Timbers",
+    "chunk": 13,
+    "prompt_tokens": 1338,
+    "completion_tokens": 279,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Portland_Timbers",
+    "chunk": 16,
+    "prompt_tokens": 1799,
+    "completion_tokens": 262,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Real_Salt_Lake",
+    "chunk": 5,
+    "prompt_tokens": 1064,
+    "completion_tokens": 201,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Real_Salt_Lake",
+    "chunk": 7,
+    "prompt_tokens": 1231,
+    "completion_tokens": 189,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Real_Salt_Lake",
+    "chunk": 11,
+    "prompt_tokens": 1690,
+    "completion_tokens": 219,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/San_Jose_Earthquakes",
+    "chunk": 3,
+    "prompt_tokens": 1111,
+    "completion_tokens": 361,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/San_Jose_Earthquakes",
+    "chunk": 6,
+    "prompt_tokens": 929,
+    "completion_tokens": 374,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/San_Jose_Earthquakes",
+    "chunk": 7,
+    "prompt_tokens": 1030,
+    "completion_tokens": 341,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/San_Jose_Earthquakes",
+    "chunk": 8,
+    "prompt_tokens": 986,
+    "completion_tokens": 314,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/San_Jose_Earthquakes",
+    "chunk": 14,
+    "prompt_tokens": 1452,
+    "completion_tokens": 248,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/San_Jose_Earthquakes",
+    "chunk": 16,
+    "prompt_tokens": 1316,
+    "completion_tokens": 331,
+    "facts_extracted": 9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Seattle_Sounders_FC",
+    "chunk": 1,
+    "prompt_tokens": 1387,
+    "completion_tokens": 291,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Sporting_Kansas_City",
+    "chunk": 1,
+    "prompt_tokens": 1116,
+    "completion_tokens": 343,
+    "facts_extracted": 15
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Sporting_Kansas_City",
+    "chunk": 2,
+    "prompt_tokens": 1052,
+    "completion_tokens": 261,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Sporting_Kansas_City",
+    "chunk": 6,
+    "prompt_tokens": 1004,
+    "completion_tokens": 230,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Sporting_Kansas_City",
+    "chunk": 7,
+    "prompt_tokens": 1070,
+    "completion_tokens": 457,
+    "facts_extracted": 19
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Sporting_Kansas_City",
+    "chunk": 8,
+    "prompt_tokens": 683,
+    "completion_tokens": 300,
+    "facts_extracted": 26
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Sporting_Kansas_City",
+    "chunk": 9,
+    "prompt_tokens": 1322,
+    "completion_tokens": 73,
+    "facts_extracted": 4
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Sporting_Kansas_City",
+    "chunk": 10,
+    "prompt_tokens": 1315,
+    "completion_tokens": 179,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Sporting_Kansas_City",
+    "chunk": 11,
+    "prompt_tokens": 566,
+    "completion_tokens": 208,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Sporting_Kansas_City",
+    "chunk": 12,
+    "prompt_tokens": 1334,
+    "completion_tokens": 491,
+    "facts_extracted": 50
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/St._Louis_City_SC",
+    "chunk": 1,
+    "prompt_tokens": 1019,
+    "completion_tokens": 324,
+    "facts_extracted": 13
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/St._Louis_City_SC",
+    "chunk": 3,
+    "prompt_tokens": 999,
+    "completion_tokens": 207,
+    "facts_extracted": 7
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC",
+    "chunk": 1,
+    "prompt_tokens": 989,
+    "completion_tokens": 282,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC",
+    "chunk": 4,
+    "prompt_tokens": 1080,
+    "completion_tokens": 361,
+    "facts_extracted": 12
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC",
+    "chunk": 5,
+    "prompt_tokens": 917,
+    "completion_tokens": 173,
+    "facts_extracted": 8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC",
+    "chunk": 6,
+    "prompt_tokens": 781,
+    "completion_tokens": 301,
+    "facts_extracted": 11
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC",
+    "chunk": 7,
+    "prompt_tokens": 1098,
+    "completion_tokens": 213,
+    "facts_extracted": 16
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC",
+    "chunk": 8,
+    "prompt_tokens": 1135,
+    "completion_tokens": 260,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC",
+    "chunk": 10,
+    "prompt_tokens": 1310,
+    "completion_tokens": 265,
+    "facts_extracted": 10
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC",
+    "chunk": 13,
+    "prompt_tokens": 1832,
+    "completion_tokens": 398,
+    "facts_extracted": 15
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/San_Diego_FC",
+    "chunk": 3,
+    "prompt_tokens": 1144,
+    "completion_tokens": 306,
+    "facts_extracted": 11
+  }
+]

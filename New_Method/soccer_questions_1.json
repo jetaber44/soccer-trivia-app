@@ -1,0 +1,907 @@
+{
+"question": "Which UEFA club won the inaugural FIFA Intercontinental Cup in December 2024, representing the 2023-24 UEFA Champions League winners?",
+"answer": "Real Madrid",
+"options": [
+"Manchester City",
+"Real Madrid",
+"Bayern Munich",
+"Paris Saint-Germain"
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "UEFA", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "The 2024 FIFA Intercontinental Cup saw the 'Derby of the Americas' contested. Which two confederations' champions faced each other in this match?",
+"answer": "CONMEBOL and CONCACAF",
+"options": [
+"CONMEBOL and CONCACAF",
+"UEFA and CONMEBOL",
+"AFC and CAF",
+"CONCACAF and CAF"
+],
+"category": ["International", "Club Competitions"],
+"subcategories": ["CONMEBOL", "CONCACAF", "Club World Cup", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "Beyond the UEFA Champions League winner, which other continental champion received a bye directly to the final of the 2024 FIFA Intercontinental Cup?",
+"answer": "No other continental champion received a direct bye to the final.",
+"options": [
+"The CONMEBOL Libertadores winner",
+"The AFC Champions League winner",
+"The CAF Champions League winner",
+"No other continental champion received a direct bye to the final."
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "UEFA", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "The 2024 FIFA Intercontinental Cup introduced a new trophy for the winner of the play-off stage, prior to the final. What was this trophy officially named?",
+"answer": "FIFA Challenger Cup",
+"options": [
+"FIFA Global Cup",
+"FIFA Challenger Cup",
+"FIFA Intercontinental Play-off Trophy",
+"FIFA Pathway Cup"
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "In the 2024 FIFA Intercontinental Cup, the final stages (including the final) were held in which country?",
+"answer": "Qatar",
+"options": [
+"United Arab Emirates",
+"Egypt",
+"Qatar",
+"Saudi Arabia"
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "AFC", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "Which CONCACAF team qualified for the 2024 FIFA Intercontinental Cup as the winner of the 2024 CONCACAF Champions Cup?",
+"answer": "Pachuca",
+"options": [
+"Club América",
+"Monterrey",
+"Seattle Sounders FC",
+"Pachuca"
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "CONCACAF", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "The 2024 FIFA Intercontinental Cup format included an 'African–Asian–Pacific Cup' play-off. Which three confederations' representatives competed in matches leading to this trophy?",
+"answer": "AFC, CAF, and OFC",
+"options": [
+"AFC, CAF, and OFC",
+"AFC, CONMEBOL, and OFC",
+"CAF, CONCACAF, and AFC",
+"UEFA, AFC, and OFC"
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "AFC", "CAF", "OFC", "2020s"],
+"difficulty": "hard"
+}
+
+{
+"question": "The 2024 FIFA Intercontinental Cup, a precursor to the expanded 2025 Club World Cup, featured which two clubs in its final, contested in Lusail, Qatar?",
+"answer": "Real Madrid and Pachuca",
+"options": [
+"Manchester City and Fluminense",
+"Real Madrid and Pachuca",
+"Al Ahly and Botafogo",
+"Bayern Munich and River Plate"
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "CONCACAF", "UEFA"],
+"difficulty": "hard"
+}
+{
+"question": "The newly expanded FIFA Club World Cup, debuting in 2025 with 32 teams, awards the highest number of qualification slots to which confederation?",
+"answer": "UEFA",
+"options": [
+"CONMEBOL",
+"CAF",
+"UEFA",
+"AFC"
+],
+"category": ["International", "Club Competitions"],
+"subcategories": ["Club World Cup", "UEFA", "CONMEBOL"],
+"difficulty": "easy"
+}
+{
+"question": "Which US city hosted the final of the inaugural 32-team FIFA Club World Cup in July 2025?",
+"answer": "East Rutherford, New Jersey",
+"options": [
+"Miami Gardens, Florida",
+"Pasadena, California",
+"East Rutherford, New Jersey",
+"Atlanta, Georgia"
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "CONCACAF"],
+"difficulty": "hard"
+}
+{
+"question": "Which club, the winners of the 2020-21 UEFA Champions League, secured a direct qualification spot for the 2025 FIFA Club World Cup based on their continental triumph?",
+"answer": "Chelsea FC",
+"options": [
+"Real Madrid CF",
+"Manchester City",
+"Chelsea FC",
+"Bayern Munich"
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["UEFA Champions League", "Club World Cup", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "How many teams participated in the revamped 2025 FIFA Club World Cup, marking a significant expansion from previous editions?",
+"answer": "32",
+"options": [
+"16",
+"24",
+"32",
+"64"
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "As of July 2025, the 2025 FIFA Club World Cup features a group stage followed by which type of knockout format?",
+"answer": "Single-match knockout stage from the Round of 16 to the final, with no third-place play-off.",
+"options": [
+"Two-legged knockout stage from the Quarter-finals, with a third-place play-off.",
+"Single-match knockout stage from the Quarter-finals, with a third-place play-off.",
+"Single-match knockout stage from the Round of 16 to the final, with no third-place play-off.",
+"Two-legged knockout stage from the Round of 16 to the final, with no third-place play-off."
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "Which CONMEBOL club secured a qualification spot for the 2025 FIFA Club World Cup as winners of the 2024 Copa Libertadores?",
+"answer": "Botafogo",
+"options": [
+"Fluminense",
+"Botafogo",
+"Palmeiras",
+"Flamengo"
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["CONMEBOL", "Club World Cup", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "Which AFC club secured its spot in the 2025 FIFA Club World Cup by winning the 2023-24 AFC Champions League?",
+"answer": "Al Ain FC",
+"options": [
+"Al Hilal",
+"Urawa Red Diamonds",
+"Ulsan HD",
+"Al Ain FC"
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["AFC", "Club World Cup", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "The 2025 FIFA Club World Cup features an additional host nation slot. Which MLS club qualified for this slot?",
+"answer": "Inter Miami CF",
+"options": [
+"Seattle Sounders FC",
+"Los Angeles FC",
+"Atlanta United FC",
+"Inter Miami CF"
+],
+"category": ["Club Competitions", "Leagues", "International"],
+"subcategories": ["Club World Cup", "MLS", "CONCACAF"],
+"difficulty": "easy"
+}
+
+
+{
+"question": "Which UEFA club, as of July 2025, qualified for the 2025 FIFA Club World Cup through the UEFA ranking pathway, despite not winning the Champions League in any of the 2021-2024 seasons?",
+"answer": "Borussia Dortmund",
+"options": [
+"AC Milan",
+"Borussia Dortmund",
+"Arsenal",
+"Napoli"
+],
+"category": ["Club Competitions", "Transfers"],
+"subcategories": ["UEFA Champions League", "Career Paths"],
+"difficulty": "hard"
+}
+{
+"question": "How many teams participated in the expanded FIFA Club World Cup held in the United States in 2025?",
+"answer": "32",
+"options": [
+"24",
+"16",
+"32",
+"8"
+],
+"category": ["International", "Club Competitions"],
+"subcategories": ["World Cup", "Club World Cup"],
+"difficulty": "easy"
+}
+{
+"question": "Which of the following CONCACAF clubs qualified for the 2025 FIFA Club World Cup by winning the 2022 CONCACAF Champions League, as of July 2025?",
+"answer": "Seattle Sounders FC",
+"options": [
+"CF Pachuca",
+"Club América",
+"Inter Miami CF",
+"Seattle Sounders FC"
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "CONCACAF"],
+"difficulty": "hard"
+}
+{
+"question": "The 2025 FIFA Club World Cup featured a group stage followed by a direct knockout stage. What was the structure of the group stage?",
+"answer": "Eight groups of four teams, single-game round-robin",
+"options": [
+"Six groups of five teams, home and away legs",
+"Eight groups of four teams, single-game round-robin",
+"Four groups of eight teams, single-game round-robin",
+"Twelve groups of three teams, home and away legs"
+],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup"],
+"difficulty": "easy"
+}
+{
+"question": "As of July 2025, which of these Brazilian clubs qualified for the 2025 FIFA Club World Cup by winning the 2021 CONMEBOL Libertadores?",
+"answer": "Palmeiras",
+"options": [
+"Flamengo",
+"River Plate",
+"Palmeiras",
+"Fluminense"
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "CONMEBOL"],
+"difficulty": "easy"
+}
+{
+"question": "Which of the following cities hosted matches for the 2025 FIFA Club World Cup, as of July 2025?",
+"answer": "Cincinnati",
+"options": [
+"Dallas",
+"Houston",
+"Cincinnati",
+"Denver"
+],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup"],
+"difficulty": "hard"
+}
+{
+"question": "The 2025 FIFA Club World Cup marked a significant change in format. What previous annual FIFA competition did this expanded tournament effectively replace?",
+"answer": "The seven-team FIFA Club World Cup format (2000-2023)",
+"options": [
+"The FIFA Confederations Cup",
+"The FIFA Intercontinental Cup (pre-2000)",
+"The FIFA Club World Cup Challenge (a proposed tournament)",
+"The seven-team FIFA Club World Cup format (2000-2023)"
+],
+"category": ["Club Competitions", "Time Periods"],
+"subcategories": ["Club World Cup", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "Beyond the confederation champions, how did additional teams primarily qualify for the 2025 FIFA Club World Cup from CONMEBOL and UEFA, as of July 2025?",
+"answer": "Via a four-year club ranking system within their confederation's top club competition",
+"options": [
+"Through domestic league performance over the last four years",
+"Via a four-year club ranking system within their confederation's top club competition",
+"By invitation from the host nation's football association",
+"Winning their respective domestic cups in the qualifying period"
+],
+"category": ["Club Competitions", "Transfers"],
+"subcategories": ["Club World Cup", "Market Value"],
+"difficulty": "hard"
+}
+{
+"question": "As of July 2025, which of the following African clubs, having not won the CAF Champions League in the qualifying window, secured a spot in the 2025 FIFA Club World Cup via the CAF ranking pathway?",
+"answer": "Mamelodi Sundowns",
+"options": [
+"Al Ahly",
+"Wydad AC",
+"Mamelodi Sundowns",
+"Raja Casablanca"
+],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "CAF"],
+"difficulty": "hard"
+}
+{
+"question": "The 2025 FIFA Club World Cup features an expanded format. How many total teams are participating in this revamped tournament?",
+"answer": "32",
+"options": ["16", "24", "32", "48"],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup"],
+"difficulty": "easy"
+}
+{
+"question": "Which confederation has the highest number of allocated slots for the 2025 FIFA Club World Cup?",
+"answer": "UEFA",
+"options": ["CONMEBOL", "CAF", "UEFA", "AFC"],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup", "UEFA", "CONMEBOL", "CAF", "AFC"],
+"difficulty": "easy"
+}
+{
+"question": "As of July 2025, which of the following CONCACAF teams qualified for the 2025 FIFA Club World Cup through their respective Champions League victories?",
+"answer": "CF Pachuca",
+"options": ["Club América", "Cruz Azul", "Tigres UANL", "CF Pachuca"],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "CONCACAF"],
+"difficulty": "hard"
+}
+{
+"question": "The 2025 FIFA Club World Cup is hosted by which country?",
+"answer": "United States",
+"options": ["Brazil", "Qatar", "United States", "Japan"],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "CONCACAF"],
+"difficulty": "easy"
+}
+{
+"question": "The 2025 FIFA Club World Cup features a group stage followed by a direct single-match knockout stage. Which of the following is NOT part of the knockout phase?",
+"answer": "Third-place play-off",
+"options": ["Round of 16", "Quarterfinals", "Semifinals", "Third-place play-off"],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup"],
+"difficulty": "easy"
+}
+{
+"question": "Which of these stadiums, known for hosting NFL games, is also a confirmed venue for the 2025 FIFA Club World Cup, as of July 2025?",
+"answer": "MetLife Stadium",
+"options": ["Lambeau Field", "AT&T Stadium", "MetLife Stadium", "Allegiant Stadium"],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup"],
+"difficulty": "hard"
+}
+{
+"question": "Beyond the confederation champions, how do additional teams from confederations like UEFA and CONMEBOL qualify for the 2025 FIFA Club World Cup?",
+"answer": "Via their four-year ranking pathway",
+"options": ["By winning their domestic league in 2024", "Through a special intercontinental playoff", "Via their four-year ranking pathway", "As wild card entries selected by FIFA"],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "UEFA", "CONMEBOL"],
+"difficulty": "hard"
+}
+{
+"question": "As of July 2025, which Brazilian club qualified for the 2025 FIFA Club World Cup as winners of the 2024 Copa Libertadores?",
+"answer": "Botafogo",
+"options": ["Grêmio", "Corinthians", "Botafogo", "Atlético Mineiro"],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "CONMEBOL"],
+"difficulty": "hard"
+}
+{
+"question": "The opening match of the 2025 FIFA Club World Cup is scheduled to feature Inter Miami CF. Against which African club did they play, as of July 2025?",
+"answer": "Al Ahly FC",
+"options": ["Wydad AC", "Espérance de Tunis", "Mamelodi Sundowns", "Al Ahly FC"],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "CAF", "MLS"],
+"difficulty": "hard"
+}
+
+{
+  "question": "Which Chelsea player received the tournament’s **Golden Ball** as best player in the 2025 Club World Cup?",
+  "answer": "Cole Palmer",
+  "options": ["João Pedro", "Cole Palmer", "Vitinha", "Robert Sánchez"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League", "UEFA Europa League"],
+  "difficulty": "easy"
+}
+json
+Copy
+Edit
+{
+  "question": "As of July 13, 2025, who were the **joint top scorers** of the expanded 2025 Club World Cup with four goals each?",
+  "answer": "Ángel Di María, Gonzalo García, Marcos Leonardo, Serhou Guirassy",
+  "options": [
+    "Cole Palmer, Michael Olise, Pedro Neto",
+    "Ángel Di María, Gonzalo García, Marcos Leonardo, Serhou Guirassy",
+    "Phil Foden, Erling Haaland, Germán Berterame",
+    "Harry Kane, Jamal Musiala, Kenan Yıldız"
+  ],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+json
+Copy
+Edit
+{
+  "question": "Which former UEFA Champions League-winning manager deployed a bold tactical system to lead Chelsea to the inaugural expanded title in July 2025?",
+  "answer": "Enzo Maresca",
+  "options": ["Pep Guardiola", "Mauricio Pochettino", "Enzo Maresca", "Massimiliano Allegri"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+json
+Copy
+Edit
+{
+  "question": "In the 2025 Club World Cup final, which **PSG player received a red card** before halftime, facilitating Chelsea’s dominance?",
+  "answer": "João Neves",
+  "options": ["Marquinhos", "Nuno Mendes", "João Neves", "Vitinha"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "hard"
+}
+json
+Copy
+Edit
+{
+  "question": "Which **stadium hosted the final** of the 2025 Club World Cup, marking a major US venue debut for the tournament?",
+  "answer": "MetLife Stadium",
+  "options": ["Hard Rock Stadium", "Rose Bowl", "MetLife Stadium", "Mercedes‑Benz Stadium"],
+  "category": ["Club Competitions"],
+  "subcategories": ["UEFA Champions League"],
+  "difficulty": "easy"
+}
+
+{
+"question": "Which club emerged victorious in the inaugural expanded 2025 FIFA Club World Cup, held in the United States?",
+"answer": "Chelsea",
+"options": ["Paris Saint-Germain", "Real Madrid", "Manchester City", "Chelsea"],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "The 2025 FIFA Club World Cup final, as of July 2025, was hosted in which prominent US stadium?",
+"answer": "MetLife Stadium",
+"options": ["Hard Rock Stadium", "Mercedes-Benz Stadium", "MetLife Stadium", "Rose Bowl Stadium"],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "Real Madrid's Gonzalo Garcia secured the Golden Boot at the 2025 FIFA Club World Cup. How many goals did he score, and what distinguished him from other top scorers?",
+"answer": "4 goals and 1 assist",
+"options": ["4 goals and 0 assists", "3 goals and 2 assists", "5 goals and 0 assists", "4 goals and 1 assist"],
+"category": ["Club Competitions", "Transfers"],
+"subcategories": ["Club World Cup", "2020s", "Career Paths"],
+"difficulty": "hard"
+}
+{
+"question": "Which of the following CONCACAF teams, as of July 2025, did not qualify for the 2025 FIFA Club World Cup based on winning their confederation's top club competition between 2021 and 2024?",
+"answer": "Club América",
+"options": ["Seattle Sounders FC", "Pachuca", "Monterrey", "Club América"],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "CONCACAF", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "Beyond winning a continental title, what was the secondary qualification pathway for clubs to enter the expanded 2025 FIFA Club World Cup, as of July 2025?",
+"answer": "High ranking of performance in the top-level continental tournament over a four-year period",
+"options": ["Being the domestic league champion of the host nation", "Receiving a wildcard invitation from FIFA", "High ranking of performance in the top-level continental tournament over a four-year period", "Winning their national cup competition in the preceding season"],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "As of July 2025, the 2025 FIFA Club World Cup introduced a new format with how many participating teams?",
+"answer": "32",
+"options": ["24", "16", "32", "12"],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "The 2025 FIFA Club World Cup saw Chelsea defeat which French club in the final, as of July 2025?",
+"answer": "Paris Saint-Germain",
+"options": ["Olympique Lyon", "AS Monaco", "Paris Saint-Germain", "Olympique Marseille"],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "Which of the following CONMEBOL clubs, as of July 2025, did not participate in the 2025 FIFA Club World Cup despite having won the Copa Libertadores in the four years prior to the tournament?",
+"answer": "Grêmio",
+"options": ["Flamengo", "Palmeiras", "Grêmio", "Fluminense"],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "CONMEBOL", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "Cole Palmer, a key player for the 2025 Club World Cup champions, finished the tournament with how many goals and assists, as of July 2025?",
+"answer": "3 goals and 2 assists",
+"options": ["2 goals and 3 assists", "3 goals and 1 assist", "4 goals and 0 assists", "3 goals and 2 assists"],
+"category": ["Club Competitions", "Transfers"],
+"subcategories": ["Club World Cup", "Career Paths", "2020s"],
+"difficulty": "hard"
+}
+
+{
+"question": "Which club made their debut appearance in the FIFA Club World Cup at the 2023 edition, reaching the final?",
+"answer": "Fluminense",
+"options": ["Fluminense", "Al Ahly", "Urawa Red Diamonds", "Club León"],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup", "CONMEBOL"],
+"difficulty": "easy"
+}
+{
+"question": "The 2023 FIFA Club World Cup final saw Manchester City defeat Fluminense. What was the exact scoreline of this final match?",
+"answer": "4-0",
+"options": ["3-1", "2-0", "4-0", "3-0"],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup", "UEFA Champions League"],
+"difficulty": "easy"
+}
+{
+"question": "Which player won the adidas Golden Ball award for being the best player of the 2023 FIFA Club World Cup?",
+"answer": "Rodri",
+"options": ["Julián Álvarez", "Phil Foden", "Rodri", "Mateo Kovačić"],
+"category": ["Club Competitions", "Transfers"],
+"subcategories": ["Club World Cup", "Market Value"],
+"difficulty": "easy"
+}
+{
+"question": "Aside from Julián Álvarez, which other players shared the top goalscorer title in the 2023 FIFA Club World Cup, each scoring two goals?",
+"answer": "Karim Benzema and Ali Maâloul",
+"options": ["Karim Benzema and Ali Maâloul", "N'Golo Kanté and Romarinho", "Phil Foden and John Kennedy", "Mateo Kovačić and Jhon Arias"],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup"],
+"difficulty": "hard"
+}
+{
+"question": "The 2023 FIFA Club World Cup was hosted in which country?",
+"answer": "Saudi Arabia",
+"options": ["United Arab Emirates", "Morocco", "Qatar", "Saudi Arabia"],
+"category": ["International", "Club Competitions"],
+"subcategories": ["AFC", "Club World Cup"],
+"difficulty": "easy"
+}
+{
+"question": "In the 2023 FIFA Club World Cup semi-final, Manchester City faced Urawa Red Diamonds. What was the score of that match?",
+"answer": "Manchester City 3-0 Urawa Red Diamonds",
+"options": ["Manchester City 3-0 Urawa Red Diamonds", "Manchester City 2-1 Urawa Red Diamonds", "Manchester City 1-0 Urawa Red Diamonds", "Manchester City 4-1 Urawa Red Diamonds"],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup"],
+"difficulty": "easy"
+}
+{
+"question": "Which player scored the fastest goal in FIFA Club World Cup history during the 2023 final, netting inside the first minute?",
+"answer": "Julián Álvarez",
+"options": ["Phil Foden", "Julián Álvarez", "Bernardo Silva", "Mateo Kovačić"],
+"category": ["Club Competitions"],
+"subcategories": ["Club World Cup", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "Which club from the CAF Confederation finished third in the 2023 FIFA Club World Cup?",
+"answer": "Al Ahly",
+"options": ["Wydad AC", "Esperance de Tunis", "Al Ahly", "Mamelodi Sundowns"],
+"category": ["Club Competitions", "International"],
+"subcategories": ["Club World Cup", "CAF"],
+"difficulty": "easy"
+}
+
+{
+"question": "Which club won the 2024 MLS Supporters' Shield, awarded to the team with the best regular season record?",
+"answer": "Inter Miami CF",
+"options": ["FC Cincinnati", "Los Angeles FC", "Inter Miami CF", "Columbus Crew"],
+"category": ["Leagues"],
+"subcategories": ["MLS", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "Christian Benteke of D.C. United claimed the 2024 MLS Golden Boot. How many goals did he score during the 2024 MLS regular season to win the award?",
+"answer": "23",
+"options": ["20", "22", "23", "25"],
+"category": ["Leagues"],
+"subcategories": ["MLS", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "The 2024 MLS Cup final saw a thrilling encounter. Which two teams competed in the final, with the LA Galaxy ultimately lifting the trophy?",
+"answer": "LA Galaxy vs. New York Red Bulls",
+"options": ["Columbus Crew vs. LAFC", "LA Galaxy vs. New York Red Bulls", "Inter Miami CF vs. Seattle Sounders FC", "Philadelphia Union vs. Portland Timbers"],
+"category": ["Leagues", "Club Competitions"],
+"subcategories": ["MLS", "Domestic Cups"],
+"difficulty": "hard"
+}
+{
+"question": "Lionel Messi was named the 2024 Landon Donovan MLS MVP. How many goal contributions (goals + assists) did he register in his 19 MLS appearances during the 2024 regular season?",
+"answer": "36",
+"options": ["28", "32", "36", "40"],
+"category": ["Leagues", "Transfers"],
+"subcategories": ["MLS", "Market Value", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "Which of these MLS clubs, based on their 2023 season performance, qualified for a direct bye to the Round of 16 in the 2024 Concacaf Champions Cup?",
+"answer": "Columbus Crew",
+"options": ["FC Cincinnati", "Inter Miami CF", "Houston Dynamo FC", "Columbus Crew"],
+"category": ["Club Competitions", "International"],
+"subcategories": ["CONCACAF", "MLS"],
+"difficulty": "hard"
+}
+{
+"question": "The 2023 MLS All-Star Game, featuring the MLS All-Stars against a European club, was played in Washington, D.C. Which Premier League side was the opponent?",
+"answer": "Arsenal FC",
+"options": ["Manchester United", "Chelsea FC", "Liverpool FC", "Arsenal FC"],
+"category": ["Leagues", "Club Competitions"],
+"subcategories": ["MLS", "Premier League"],
+"difficulty": "easy"
+}
+{
+"question": "Which MLS club held the highest average attendance during the 2024 regular season, continuing their strong fan support?",
+"answer": "Atlanta United FC",
+"options": ["Charlotte FC", "Seattle Sounders FC", "Atlanta United FC", "LA Galaxy"],
+"category": ["Leagues"],
+"subcategories": ["MLS"],
+"difficulty": "easy"
+}
+{
+"question": "The 2024 MLS season marked a significant milestone for league attendance. What new record was set for total regular season attendance as of October 2024?",
+"answer": "Over 11 million fans",
+"options": ["Over 9 million fans", "Over 10 million fans", "Over 11 million fans", "Over 12 million fans"],
+"category": ["Leagues"],
+"subcategories": ["MLS"],
+"difficulty": "hard"
+}
+
+{
+"question": "Which player became the oldest to compete in the Copa América in the 21st century during the 2024 tournament, at over 41 years old?",
+"answer": "Claudio Bravo",
+"options": ["Claudio Bravo", "Lionel Messi", "Salomón Rondón", "Dani Alves"],
+"category": ["International"],
+"subcategories": ["CONMEBOL", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "Argentina claimed their 16th Copa América title in 2024. Which nation did they surpass to become the most successful team in the tournament's history, as of July 2025?",
+"answer": "Uruguay",
+"options": ["Brazil", "Uruguay", "Chile", "Paraguay"],
+"category": ["International"],
+"subcategories": ["CONMEBOL", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "In the 2024 Copa Libertadores final, which club triumphed over Atlético Mineiro despite being reduced to ten men early in the match?",
+"answer": "Botafogo",
+"options": ["Flamengo", "Palmeiras", "Botafogo", "River Plate"],
+"category": ["Club Competitions"],
+"subcategories": ["CONMEBOL Champions League", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "Who was the top scorer of the CONMEBOL Copa América 2024, netting five goals?",
+"answer": "Lautaro Martínez",
+"options": ["Lionel Messi", "Julián Álvarez", "Lautaro Martínez", "Vinícius Júnior"],
+"category": ["International"],
+"subcategories": ["CONMEBOL", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "Which club won the 2024 Copa Sudamericana?",
+"answer": "Racing Club",
+"options": ["LDU Quito", "Racing Club", "Independiente del Valle", "Sao Paulo"],
+"category": ["Club Competitions"],
+"subcategories": ["CONMEBOL Europa League", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "Fluminense won their first Recopa Sudamericana title in 2024. Against which Ecuadorian club did they overturn a first-leg deficit to secure the trophy?",
+"answer": "LDU Quito",
+"options": ["Independiente del Valle", "Emelec", "Barcelona SC", "LDU Quito"],
+"category": ["Club Competitions"],
+"subcategories": ["CONMEBOL Champions League", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "Lionel Messi set a new record for most appearances in CONMEBOL Copa América history in 2024. How many matches did he reach?",
+"answer": "39",
+"options": ["34", "36", "39", "41"],
+"category": ["International"],
+"subcategories": ["CONMEBOL", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "Who was the New York Red Bulls' top scorer in the MLS regular season for the 2024 season, as of July 2025?",
+"answer": "Lewis Morgan",
+"options": ["Emil Forsberg", "Lewis Morgan", "Dante Vanzeir", "Elias Manoel"],
+"category": ["Leagues"],
+"subcategories": ["MLS", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "Which former Bundesliga manager took over as the head coach of the New York Red Bulls in December 2023, leading them into the 2024 season?",
+"answer": "Sandro Schwarz",
+"options": ["Gerhard Struber", "Sandro Schwarz", "Jesse Marsch", "Armas Chris"],
+"category": ["Leagues"],
+"subcategories": ["MLS", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "The New York Red Bulls reached the MLS Cup final for the first time since 2008 in the 2024 season. Who did they face in that final match?",
+"answer": "The provided search results do not explicitly state who the New York Red Bulls played in the 2024 MLS Cup final, only that they were runners-up and made the final for the first time since 2008. Therefore, I cannot answer this question accurately based on the given information.",
+"options": [],
+"category": ["Club Competitions"],
+"subcategories": ["MLS", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "Which New York Red Bulls Homegrown player, born in 2008, made their MLS debut in 2024 and scored a goal in a preseason friendly?",
+"answer": "Julian Hall",
+"options": ["Daniel Edelman", "Serge Ngoma", "Julian Hall", "Peter Stroud"],
+"category": ["Leagues"],
+"subcategories": ["MLS", "2020s"],
+"difficulty": "hard"
+}
+{
+"question": "As of July 2025, Emil Forsberg, a key acquisition for the New York Red Bulls in late 2023, joined from which prominent European club?",
+"answer": "RB Leipzig",
+"options": ["Borussia Dortmund", "FC Bayern Munich", "RB Leipzig", "VfL Wolfsburg"],
+"category": ["Transfers"],
+"subcategories": ["Career Paths", "2020s"],
+"difficulty": "easy"
+}
+{
+"question": "The New York Red Bulls recorded 11 wins, 14 losses, and 9 draws in the 2024 MLS regular season. How many points did they accumulate?",
+"answer": "47",
+"options": ["42", "47", "50", "39"],
+"category": ["Leagues"],
+"subcategories": ["MLS", "2020s"],
+"difficulty": "hard"
+}
+
+{
+"question": "Which former Premier League star, known for his prolific goalscoring, joined the New York Red Bulls as a Designated Player in 2010 and formed a formidable partnership with Thierry Henry?",
+"answer": "Tim Cahill",
+"options": [
+"Robbie Keane",
+"Jermain Defoe",
+"Tim Cahill",
+"Clint Dempsey"
+],
+"category": ["Leagues"],
+"subcategories": ["MLS"],
+"difficulty": "hard"
+}
+{
+"question": "Before becoming the New York Red Bulls, the club was known by what name from 1996 until their rebranding in 2006?",
+"answer": "MetroStars",
+"options": [
+"New York United",
+"New York Cosmos",
+"Empire SC",
+"MetroStars"
+],
+"category": ["Leagues"],
+"subcategories": ["MLS"],
+"difficulty": "easy"
+}
+{
+"question": "The New York Red Bulls won their first Supporters' Shield in what year?",
+"answer": "2013",
+"options": [
+"2011",
+"2013",
+"2015",
+"2018"
+],
+"category": ["Leagues"],
+"subcategories": ["MLS"],
+"difficulty": "easy"
+}
+{
+"question": "Which New York Red Bulls player holds the club record for most goals in a single MLS season?",
+"answer": "Bradley Wright-Phillips",
+"options": [
+"Thierry Henry",
+"Juan Pablo Ángel",
+"Bradley Wright-Phillips",
+"Giovanni Savarese"
+],
+"category": ["Leagues"],
+"subcategories": ["MLS"],
+"difficulty": "easy"
+}
+{
+"question": "In which year did the New York Red Bulls (then MetroStars) reach their first U.S. Open Cup final, ultimately losing to the Chicago Fire?",
+"answer": "2003",
+"options": [
+"1999",
+"2001",
+"2003",
+"2005"
+],
+"category": ["Club Competitions"],
+"subcategories": ["Domestic Cups"],
+"difficulty": "hard"
+}
+{
+"question": "Which Mexican international defender, a former FC Barcelona stalwart, joined the New York Red Bulls as a Designated Player in 2010, playing alongside Thierry Henry and Rafa Márquez?",
+"answer": "Rafael Márquez",
+"options": [
+"Héctor Moreno",
+"Carlos Salcido",
+"Francisco Javier Rodríguez",
+"Rafael Márquez"
+],
+"category": ["Leagues", "Transfers"],
+"subcategories": ["MLS", "Career Paths"],
+"difficulty": "hard"
+}
+{
+"question": "What is the name of the New York Red Bulls' primary rivalry with New York City FC?",
+"answer": "Hudson River Derby",
+"options": [
+"Big Apple Clash",
+"East Coast Derby",
+"Metropolitan Showdown",
+"Hudson River Derby"
+],
+"category": ["Leagues"],
+"subcategories": ["MLS"],
+"difficulty": "easy"
+}
+{
+"question": "Which Austrian winger, a consistent goalscorer for the New York Red Bulls, scored 39 goals in 127 appearances between 2016 and 2021?",
+"answer": "Daniel Royer",
+"options": [
+"Andreas Ivanschitz",
+"Daniel Royer",
+"Marco Djuricin",
+"Valon Berisha"
+],
+"category": ["Leagues"],
+"subcategories": ["MLS"],
+"difficulty": "hard"
+}
+{
+"question": "The New York Red Bulls reached the semi-finals of the CONCACAF Champions League in which year, their deepest run in the competition to date?",
+"answer": "2018",
+"options": [
+"2015",
+"2016",
+"2018",
+"2020"
+],
+"category": ["Club Competitions"],
+"subcategories": ["CONCACAF Champions League"],
+"difficulty": "hard"
+}
+{
+"question": "Who was the first ever player signed by MLS in 1995, who subsequently joined the MetroStars (now New York Red Bulls) for their inaugural 1996 season?",
+"answer": "Tab Ramos",
+"options": [
+"Alexi Lalas",
+"Cobi Jones",
+"Tony Meola",
+"Tab Ramos"
+],
+"category": ["Leagues", "Time Periods"],
+"subcategories": ["MLS", "1990s"],
+"difficulty": "hard"
+}
+
+{
+  "question": "Which player scored the most goals in a single season for the New York Red Bulls?",
+  "answer": "Bradley Wright-Phillips",
+  "options": ["Juan Pablo Ángel", "Bradley Wright-Phillips", "Thierry Henry", "Amado Guevara"],
+  "category": ["Leagues"],
+  "subcategories": ["MLS"],
+  "difficulty": "easy"
+}
+

@@ -6,6 +6,8 @@ import time
 import os
 from datetime import datetime
 import re
+import random
+from TOPIC_LIBRARY_LEAGUES import TOPIC_LIBRARY
 from google.cloud import firestore
 from google.oauth2 import service_account
 
@@ -75,9 +77,21 @@ def extract_concept_tag(question):
     return " ".join(all_tokens)
 
 def clean_json_response(answer):
-    cleaned = re.sub(r"```(?:json)?\n?", "", answer)  # remove leading ```json or ```
-    cleaned = re.sub(r"```", "", cleaned)              # remove trailing ```
-    return cleaned.strip()
+    cleaned = re.sub(r"```(?:json)?\n?", "", answer)  # remove ```json
+    cleaned = re.sub(r"```", "", cleaned)             # remove closing ```
+    cleaned = cleaned.strip()
+
+    # Trim everything before the first [
+    start_index = cleaned.find("[")
+    if start_index != -1:
+        cleaned = cleaned[start_index:]
+
+    # Trim everything after the final closing ]
+    end_index = cleaned.rfind("]")
+    if end_index != -1:
+        cleaned = cleaned[:end_index + 1]
+
+    return cleaned
 
 def save_questions(category, subcategory, difficulty, all_unique_questions):
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -114,15 +128,27 @@ def submit_request():
         master_questions = []
 
     existing_concepts = set(q.get("concept_tag") for q in master_questions if q.get("concept_tag"))
+
+    # ✅ NEW: Check Firestore for existing questions too
+    existing_firestore_questions = db.collection(FIRESTORE_COLLECTION).stream()
+    for doc in existing_firestore_questions:
+        q = doc.to_dict()
+        concept = extract_concept_tag(q.get("question", ""))
+        if concept:
+            existing_concepts.add(concept)
+
     all_unique_questions = []
 
     for i in range(num_batches):
         this_batch_size = min(batch_size, num_total - i * batch_size)
+        selected_topic_text = selected_topic.get()
         user_prompt = (
             f"Generate {this_batch_size} {difficulty} soccer trivia questions.\n"
             f"Category: {category}\n"
             f"Subcategory: {subcategory}\n"
         )
+        if selected_topic_text:
+            user_prompt += f"Focus: {selected_topic_text}\n"
 
         try:
             print(f"\nWaiting for GPT to generate batch {i+1}...")
@@ -154,12 +180,25 @@ def submit_request():
                 raise Exception(f"JSON parsing error: {e}")
 
             batch_unique = []
+
             for q in questions:
+                options = q["options"]
+                answer = q["answer"]
+
+                if answer not in options:
+                    print(f"⚠️ Skipping question — answer not in options: {q['question']}")
+                    continue
+
+                random.shuffle(options)
+                q["options"] = options
+                q["answer"] = answer
+
                 concept = extract_concept_tag(q["question"])
                 if concept not in existing_concepts:
                     q["concept_tag"] = concept
                     batch_unique.append(q)
                     existing_concepts.add(concept)
+
                     try:
                         print(f"📤 Uploading to Firestore: {q['question'][:60]}...")
                         db.collection(FIRESTORE_COLLECTION).add({
@@ -224,6 +263,26 @@ tk.Label(root, text="How many questions?").pack(pady=(10, 0))
 count_entry = tk.Entry(root, width=10)
 count_entry.pack()
 count_entry.insert(0, "50")
+
+tk.Label(root, text="Select Topic (Optional):").pack(pady=(10, 0))
+selected_topic = tk.StringVar()
+topic_dropdown = ttk.Combobox(root, textvariable=selected_topic, width=50, state="readonly")
+topic_dropdown.pack()
+
+def update_topics(event):
+    try:
+        selected_combo = category_box.get()
+        _, subcategory = [s.strip() for s in selected_combo.split("–")]
+        topic_list = TOPIC_LIBRARY.get(subcategory, [])
+        topic_dropdown["values"] = topic_list
+        if topic_list:
+            topic_dropdown.current(0)
+        else:
+            selected_topic.set("")  # Clear selection
+    except Exception as e:
+        print("❌ Error updating topics:", e)
+
+category_box.bind("<<ComboboxSelected>>", update_topics)
 
 tk.Button(root, text="Generate Trivia Questions", command=submit_request).pack(pady=20)
 

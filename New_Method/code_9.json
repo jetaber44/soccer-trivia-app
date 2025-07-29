@@ -1,0 +1,479 @@
+[
+  {
+    "question": "Which player holds the record for the most Ballon d'Or wins?",
+    "answer": "Lionel Messi",
+    "options": ["Cristiano Ronaldo", "Michel Platini", "Johan Cruyff", "Lionel Messi"],
+    "category": "Player Records",
+    "subcategories": ["Most Wins"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Only one goalkeeper has ever won the Ballon d'Or. Who is he?",
+    "answer": "Lev Yashin",
+    "options": ["Gianluigi Buffon", "Manuel Neuer", "Iker Casillas", "Lev Yashin"],
+    "category": "Player Records",
+    "subcategories": ["Unique Achievements"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which nation has the most Ballon d'Or winners?",
+    "answer": "Germany",
+    "options": ["Netherlands", "France", "Germany", "Argentina"],
+    "category": "Nationality Stats",
+    "subcategories": ["Most Wins per Nation"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which club has had the most Ballon d'Or winners while playing for them?",
+    "answer": "Barcelona",
+    "options": ["Real Madrid", "AC Milan", "Juventus", "Barcelona"],
+    "category": "Club Affiliations",
+    "subcategories": ["Most Winners per Club"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "How many Ballon d'Or awards has Lionel Messi won as of 2024?",
+    "answer": "8",
+    "options": ["5", "6", "7", "8"],
+    "category": "Player Records",
+    "subcategories": ["Total Wins"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Who was the first ever recipient of the Ballon d'Or in 1956?",
+    "answer": "Stanley Matthews",
+    "options": ["Alfredo Di St�fano", "Raymond Kopa", "Stanley Matthews", "Ferenc Pusk�s"],
+    "category": "Player Records",
+    "subcategories": ["First Winner"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Two players have won the Ballon d'Or three times. One is Michel Platini. Who is the other?",
+    "answer": "Johan Cruyff",
+    "options": ["Franz Beckenbauer", "Marco van Basten", "Karl-Heinz Rummenigge", "Johan Cruyff"],
+    "category": "Player Records",
+    "subcategories": ["Multiple Winners"],
+    "difficulty": "medium",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which country boasts the most consecutive Ballon d'Or wins by a single player (3 times)?",
+    "answer": "France (Michel Platini)",
+    "options": ["Argentina", "Portugal", "Netherlands", "France"],
+    "category": "Nationality Stats",
+    "subcategories": ["Consecutive Wins"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Real Madrid and Barcelona are often rivals in the Ballon d'Or race. Which club has had more unique Ballon d'Or winners (excluding multiple wins by the same player)?",
+    "answer": "Barcelona",
+    "options": ["Real Madrid", "Barcelona"],
+    "category": "Club Affiliations",
+    "subcategories": ["Unique Winners"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "What is the largest age gap between two different Ballon d'Or winners who played for the same club in consecutive years?",
+    "answer": "8 years (between Messi 2009 and Ronaldo 2008, both then at Spanish clubs, or different players for the same club)",
+    "options": ["3 years", "5 years", "8 years", "10 years"],
+    "category": "Player Records",
+    "subcategories": ["Age Gaps"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Prior to Rodri winning in 2024, who was the most recent midfielder to win the Ballon d'Or?",
+    "answer": "Luka Modric",
+    "options": ["Xavi", "Andr�s Iniesta", "Kak�", "Luka Modric"],
+    "category": "Player Records",
+    "subcategories": ["Position Analysis"],
+    "difficulty": "medium",
+    "assigned_code": 9
+  },
+  {
+    "question": "How many times has a player from the Bundesliga won the Ballon d'Or?",
+    "answer": "5",
+    "options": ["3", "4", "5", "6"],
+    "category": "Leagues",
+    "subcategories": ["Total Wins per League"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "The 2005 UEFA Champions League semi-final second leg between Chelsea and Liverpool was decided by a controversial goal that remains debated. Who scored the decisive goal for Liverpool?",
+    "answer": "Luis García",
+    "options": ["Luis García", "Steven Gerrard", "Milan Baroš", "Jamie Carragher"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League", "2000s"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "The 2006 FIFA World Cup semi-final between Germany and Italy in Dortmund, which went to extra time, was decided by two late goals. Who scored Italy's dramatic opening goal in the 119th minute?",
+    "answer": "Fabio Grosso",
+    "options": ["Fabio Grosso", "Alessandro Del Piero", "Francesco Totti", "Luca Toni"],
+    "category": "International",
+    "subcategories": ["World Cup", "2000s"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "What was the transfer fee Manchester United paid to sign Rio Ferdinand from Leeds United in 2002?",
+    "answer": "£30 million",
+    "options": ["£30 million", "£25 million", "£35 million", "£28 million"],
+    "category": ["Transfers"],
+    "subcategories": ["Transfer Fees"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "As of 2023, which player holds the record for the most goals scored in a single Copa América tournament?",
+    "answer": "Jair",
+    "options": ["Jair", "Gabriel Batistuta", "Zizinho", "Paolo Guerrero"],
+    "category": ["International"],
+    "subcategories": ["CONMEBOL"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which country has won the Copa América the most times as of 2023?",
+    "answer": "Uruguay",
+    "options": ["Uruguay", "Argentina", "Brazil", "Chile"],
+    "category": ["International"],
+    "subcategories": ["CONMEBOL"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which team won the first CONCACAF Gold Cup held in 1991?",
+    "answer": "United States",
+    "options": ["United States", "Mexico", "Costa Rica", "Honduras"],
+    "category": ["International"],
+    "subcategories": ["CONCACAF"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which nation won the OFC Nations Cup for the first time in 2016?",
+    "answer": "New Zealand",
+    "options": ["New Zealand", "Tahiti", "Fiji", "Solomon Islands"],
+    "category": ["International"],
+    "subcategories": ["OFC"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Who holds the record for most goals scored in a single OFC Nations Cup tournament as of October 2023?",
+    "answer": "Vaughan Coveny",
+    "options": ["Vaughan Coveny", "Roy Krishna", "Chris Wood", "Michel Hmae"],
+    "category": ["International"],
+    "subcategories": ["OFC"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "As of October 2023, who is the highest-scoring player in the history of the OFC Champions League?",
+    "answer": "Emiliano Tade",
+    "options": ["Emiliano Tade", "Roy Krishna", "David Browne", "Ryan De Vries"],
+    "category": ["Club Competitions"],
+    "subcategories": ["Rest of World"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which CAF team was the first to reach the quarter-finals of a FIFA World Cup?",
+    "answer": "Cameroon",
+    "options": ["Cameroon", "Nigeria", "Senegal", "Ghana"],
+    "category": ["International"],
+    "subcategories": ["CAF", "World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which country hosted the first-ever Africa Cup of Nations tournament in 1957?",
+    "answer": "Sudan",
+    "options": ["Sudan", "Egypt", "Ethiopia", "Ghana"],
+    "category": ["International"],
+    "subcategories": ["CAF"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "As of October 2023, which player holds the record for the most appearances in the Africa Cup of Nations?",
+    "answer": "Ahmed Hassan",
+    "options": ["Ahmed Hassan", "Rigobert Song", "Essam El-Hadary", "Asamoah Gyan"],
+    "category": ["International"],
+    "subcategories": ["CAF"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which 2023 MLS expansion team had a remarkable debut season by qualifying for the playoffs?",
+    "answer": "St. Louis City SC",
+    "options": ["St. Louis City SC", "Inter Miami CF", "Charlotte FC", "Austin FC"],
+    "category": ["Leagues"],
+    "subcategories": ["MLS", "2020s"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which player made headlines by scoring the fastest hat-trick in the 2023 MLS season?",
+    "answer": "Cristian Arango",
+    "options": ["Cristian Arango", "Giorgos Giakoumakis", "Denis Bouanga", "Brandon Vazquez"],
+    "category": ["Leagues"],
+    "subcategories": ["MLS", "2020s"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which goalkeeper led the 2023 MLS season in clean sheets?",
+    "answer": "Roman Bürki",
+    "options": ["Roman Bürki", "Andre Blake", "Steve Clark", "Brad Stuver"],
+    "category": ["Leagues"],
+    "subcategories": ["MLS", "2020s"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which MLS team had the worst defensive record in the 2023 season, conceding the most goals?",
+    "answer": "Toronto FC",
+    "options": ["Toronto FC", "San Jose Earthquakes", "DC United", "Chicago Fire"],
+    "category": ["Leagues"],
+    "subcategories": ["MLS", "2020s"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "During which season did Barcelona achieve a record 100 points in La Liga under Tito Vilanova?",
+    "answer": "2012-2013",
+    "options": ["2012-2013", "2010-2011", "2014-2015", "2008-2009"],
+    "category": ["Leagues"],
+    "subcategories": ["La Liga"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which player scored the first goal of the 2023-24 UEFA Champions League group stage?",
+    "answer": "Rasmus Højlund",
+    "options": ["Rasmus Højlund", "Jude Bellingham", "Lautaro Martínez", "Robert Lewandowski"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which club made its debut in the 2023-24 UEFA Champions League group stage?",
+    "answer": "Union Berlin",
+    "options": ["Union Berlin", "Lens", "Galatasaray", "Red Star Belgrade"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which player provided the most assists in the 2023-24 UEFA Champions League group stage?",
+    "answer": "Leroy Sané",
+    "options": ["Leroy Sané", "Kevin De Bruyne", "Lionel Messi", "Joshua Kimmich"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Who was the top scorer in the 2023-24 UEFA Champions League group stage?",
+    "answer": "Erling Haaland",
+    "options": ["Erling Haaland", "Robert Lewandowski", "Kylian Mbappé", "Mohamed Salah"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which African nation made its World Cup debut in 1970, competing in a group with West Germany, Peru, and Bulgaria?",
+    "answer": "Morocco",
+    "options": ["Morocco", "Tunisia", "Zaire", "Algeria"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which African team recorded their first-ever World Cup point during the 1974 tournament?",
+    "answer": "Zaire",
+    "options": ["Zaire", "Morocco", "Algeria", "Tunisia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which European nation made its World Cup debut in 1978 and reached the second round group stage?",
+    "answer": "Austria",
+    "options": ["Austria", "Scotland", "Spain", "Sweden"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which Dutch midfielder was the team’s top scorer at the 1978 World Cup?",
+    "answer": "Rob Rensenbrink",
+    "options": ["Rob Rensenbrink", "Ruud Krol", "Willy van de Kerkhof", "Johnny Rep"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which nation made its World Cup debut in 1982 and earned a surprise draw with West Germany?",
+    "answer": "Algeria",
+    "options": ["Algeria", "Kuwait", "Honduras", "New Zealand"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which African team reached the Round of 16 at the 1986 World Cup — a first for the continent?",
+    "answer": "Morocco",
+    "options": ["Morocco", "Algeria", "Tunisia", "Cameroon"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which African team reached the quarterfinals of the 1990 World Cup, the first to do so?",
+    "answer": "Cameroon",
+    "options": ["Cameroon", "Nigeria", "Egypt", "Morocco"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which European team finished third in their World Cup debut in 1998?",
+    "answer": "Croatia",
+    "options": ["Croatia", "Ukraine", "Romania", "Czech Republic"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which African team advanced to the Round of 16 in their World Cup debut?",
+    "answer": "Ghana",
+    "options": ["Ghana", "Ivory Coast", "Togo", "Angola"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which goalkeeper was named Best Player of the Tournament — the first keeper to win the Golden Ball?",
+    "answer": "Gianluigi Buffon",
+    "options": ["Gianluigi Buffon", "Fabien Barthez", "Jens Lehmann", "Ricardo"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which player won the Golden Ball at the 2014 World Cup?",
+    "answer": "Lionel Messi",
+    "options": ["Lionel Messi", "Arjen Robben", "James Rodríguez", "Thomas Müller"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Who won the Golden Boot at the 2022 World Cup with 8 goals?",
+    "answer": "Kylian Mbappé",
+    "options": ["Kylian Mbappé", "Lionel Messi", "Olivier Giroud", "Julián Álvarez"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which African nation became the first to reach a World Cup semifinal?",
+    "answer": "Morocco",
+    "options": ["Morocco", "Senegal", "Cameroon", "Ghana"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which player has made the most appearances in World Cup matches?",
+    "answer": "Lionel Messi",
+    "options": ["Lionel Messi", "Lothar Matthäus", "Miroslav Klose", "Cristiano Ronaldo"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which goalkeeper has kept the most clean sheets in World Cup history?",
+    "answer": "Peter Shilton",
+    "options": ["Peter Shilton", "Fabien Barthez", "Manuel Neuer", "Gianluigi Buffon"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which player was the oldest to appear in a World Cup match?",
+    "answer": "Essam El-Hadary",
+    "options": ["Essam El-Hadary", "Roger Milla", "Gianluigi Buffon", "Pat Jennings"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which country has hosted the World Cup more than once and also won it as host?",
+    "answer": "Italy",
+    "options": ["Italy", "Germany", "France", "Argentina"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "What is the largest margin of victory in a World Cup match?",
+    "answer": "9 goals",
+    "options": ["9 goals", "8 goals", "10 goals", "7 goals"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which country received the most red cards in a single World Cup tournament?",
+    "answer": "Cameroon (1994)",
+    "options": ["Cameroon (1994)", "Uruguay (2010)", "Netherlands (2006)", "Argentina (2002)"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  },
+  {
+    "question": "Which team won the most matches in a single World Cup tournament?",
+    "answer": "Brazil (2002)",
+    "options": ["Brazil (2002)", "France (2018)", "Germany (2014)", "Argentina (2022)"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 9
+  }
+]

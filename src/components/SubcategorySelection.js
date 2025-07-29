@@ -15,7 +15,7 @@ const SubcategorySelection = () => {
   return (
     <div className="min-h-screen px-4 py-6 text-center">
       {/* Page Title */}
-      <h1 className="text-4xl font-extrabold mb-2">⚽ Soccer Trivia</h1>
+      <h1 className="text-4xl font-extrabold mb-2">Quizlazo</h1>
 
       {/* Subtitle */}
       <h2 className="text-2xl font-semibold mb-6">Choose a Subcategory</h2>

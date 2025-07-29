@@ -1,0 +1,16 @@
+{
+  "code_labels": {
+    "0": "Keep but error",
+    "1": "keep",
+    "2": "discard",
+    "3": "question too obvious",
+    "4": "question too confusing",
+    "5": "bad answer options",
+    "6": "difficulty",
+    "7": "remove league category",
+    "8": "duplicate",
+    "9": "other"
+  },
+  "last_file": "C:/Users/aq_pu/Desktop/quizlazo/soccer-trivia-app/New_Method/World Cup questions",
+  "output_folder": "C:/Users/aq_pu/Desktop/quizlazo/soccer-trivia-app/New_Method"
+}

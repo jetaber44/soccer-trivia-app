@@ -1,0 +1,114 @@
+{
+  "source": "https://en.wikipedia.org/wiki/Real_Salt_Lake",
+  "article_title": "Real Salt Lake",
+  "facts": [
+    {
+      "id": "real_salt_lake_001",
+      "text": "Jason Kreis's number 9 was retired by Real Salt Lake in 2011 but was recirculated in 2019 at his request."
+    },
+    {
+      "id": "real_salt_lake_002",
+      "text": "Javier Morales's number 11 was retired by Real Salt Lake in 2019."
+    },
+    {
+      "id": "real_salt_lake_003",
+      "text": "Real Salt Lake's reserve team, Real Monarchs SLC, was created on September 10, 2014."
+    },
+    {
+      "id": "real_salt_lake_004",
+      "text": "Real Monarchs SLC began play in the Western Conference of the United Soccer League during the 2015 season."
+    },
+    {
+      "id": "real_salt_lake_005",
+      "text": "Real Monarchs SLC moved to Zions Bank Stadium, a 5,000-seat facility, in 2018."
+    },
+    {
+      "id": "real_salt_lake_006",
+      "text": "Real Salt Lake Women was founded in 2008 and competes in the Western Division of United Women's Soccer."
+    },
+    {
+      "id": "real_salt_lake_007",
+      "text": "Real Salt Lake added a second women's team in the National Women's Soccer League in November 2017, replacing FC Kansas City."
+    },
+    {
+      "id": "real_salt_lake_008",
+      "text": "The new team in the National Women's Soccer League, associated with Real Salt Lake, was unveiled as Utah Royals FC."
+    },
+    {
+      "id": "real_salt_lake_009",
+      "text": "Real Salt Lake was founded in 2004 and is based in Sandy, Utah."
+    },
+    {
+      "id": "real_salt_lake_010",
+      "text": "The team's head coach as of 2021 is Pablo Mastroeni."
+    },
+    {
+      "id": "real_salt_lake_011",
+      "text": "Real Salt Lake competes for the Rocky Mountain Cup against the Colorado Rapids."
+    },
+    {
+      "id": "real_salt_lake_012",
+      "text": "Real Salt Lake's victory in the MLS Cup Playoffs Finals occurred in 2009."
+    },
+    {
+      "id": "real_salt_lake_013",
+      "text": "The team's former head coaches include Jason Kreis (2007–2013) and Mike Petke (2017–2019)."
+    },
+    {
+      "id": "real_salt_lake_014",
+      "text": "Real Salt Lake's home field has been America First Field and Rice–Eccles Stadium."
+    },
+    {
+      "id": "real_salt_lake_015",
+      "text": "D.C. United won the first MLS Cup in 1996."
+    },
+    {
+      "id": "real_salt_lake_016",
+      "text": "Who led the league in assists in the 2008 season with 15 assists? Javier Morales"
+    },
+    {
+      "id": "real_salt_lake_017",
+      "text": "How many shutouts did Nick Rimando achieve in the 2010 season? 14"
+    },
+    {
+      "id": "real_salt_lake_018",
+      "text": "Which player won the MLS Cup Most Valuable Player award in 2009? Nick Rimando"
+    },
+    {
+      "id": "real_salt_lake_019",
+      "text": "Who was named the MLS Young Player of the Year in 2024? Diego Luna"
+    },
+    {
+      "id": "real_salt_lake_020",
+      "text": "How many goals did Álvaro Saborío score in the 2012 season? 17"
+    },
+    {
+      "id": "real_salt_lake_021",
+      "text": "In which season did Damir Kreilach score his highest number of goals, tallying 16? 2021"
+    },
+    {
+      "id": "real_salt_lake_022",
+      "text": "Who achieved the most season MVP awards for the team, with their third award in 2015? Javier Morales"
+    },
+    {
+      "id": "real_salt_lake_023",
+      "text": "Which player scored a hat-trick against the Columbus Crew on April 2, 2009? Robbie Findley"
+    },
+    {
+      "id": "real_salt_lake_024",
+      "text": "Who was the top goal scorer in 2024 with 17 goals? Chicho Arango"
+    },
+    {
+      "id": "real_salt_lake_025",
+      "text": "How many times did Kyle Beckerman win the team's season MVP award? 4 times"
+    }
+  ],
+  "extraction_stats": {
+    "total_facts": 29,
+    "unique_facts": 29,
+    "new_unique_facts": 25,
+    "chunks_processed": 11,
+    "total_prompt_tokens": 3985,
+    "total_completion_tokens": 609
+  }
+}

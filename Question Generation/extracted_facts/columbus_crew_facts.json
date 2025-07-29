@@ -1,0 +1,178 @@
+{
+  "source": "https://en.wikipedia.org/wiki/Columbus_Crew",
+  "article_title": "Columbus Crew",
+  "facts": [
+    {
+      "id": "columbus_crew_001",
+      "text": "Adidas was the kit manufacturer for the team from 1996 to 2000."
+    },
+    {
+      "id": "columbus_crew_002",
+      "text": "The team's shirt sponsor from 2017 to 2019 was Acura."
+    },
+    {
+      "id": "columbus_crew_003",
+      "text": "Nationwide Children's Hospital was the shirt sponsor for the team in 2020."
+    },
+    {
+      "id": "columbus_crew_004",
+      "text": "The team won the MLS Cup in the years 2008, 2020, and 2023."
+    },
+    {
+      "id": "columbus_crew_005",
+      "text": "The team's Supporters' Shield victories occurred in 2004, 2008, and 2009."
+    },
+    {
+      "id": "columbus_crew_006",
+      "text": "The team won the U.S. Open Cup in 2002."
+    },
+    {
+      "id": "columbus_crew_007",
+      "text": "The Leagues Cup was won by the team in 2024."
+    },
+    {
+      "id": "columbus_crew_008",
+      "text": "The Campeones Cup was won by the team in 2021."
+    },
+    {
+      "id": "columbus_crew_009",
+      "text": "Gyasi Zardes was the top goalscorer for the team in 2020 with 15 goals."
+    },
+    {
+      "id": "columbus_crew_010",
+      "text": "Lucas Zelarayán was the top goalscorer for the team in 2021 with 13 goals."
+    },
+    {
+      "id": "columbus_crew_011",
+      "text": "Cucho Hernández was the top goalscorer for the team in 2023 with 24 goals."
+    },
+    {
+      "id": "columbus_crew_012",
+      "text": "Wilfried Nancy became the head coach of the team on December 6, 2022."
+    },
+    {
+      "id": "columbus_crew_013",
+      "text": "Issa Tall has been serving as the General Manager of the team since 2024."
+    },
+    {
+      "id": "columbus_crew_014",
+      "text": "In which year did Columbus Crew first participate in the CONCACAF Giants Cup?"
+    },
+    {
+      "id": "columbus_crew_015",
+      "text": "2001"
+    },
+    {
+      "id": "columbus_crew_016",
+      "text": "Columbus Crew won their first match in the CONCACAF Champions' Cup against which team?"
+    },
+    {
+      "id": "columbus_crew_017",
+      "text": "Árabe Unido in 2003"
+    },
+    {
+      "id": "columbus_crew_018",
+      "text": "What was Columbus Crew's final standing in the 2009-10 CONCACAF Champions League Group C?"
+    },
+    {
+      "id": "columbus_crew_019",
+      "text": "2nd"
+    },
+    {
+      "id": "columbus_crew_020",
+      "text": "Columbus Crew reached the quarterfinals of the CONCACAF Champions League in which season before being eliminated by Real Salt Lake?"
+    },
+    {
+      "id": "columbus_crew_021",
+      "text": "2010-11"
+    },
+    {
+      "id": "columbus_crew_022",
+      "text": "In what year did Columbus Crew win the Campeones Cup?"
+    },
+    {
+      "id": "columbus_crew_023",
+      "text": "2021"
+    },
+    {
+      "id": "columbus_crew_024",
+      "text": "Columbus Crew were runners-up in the CONCACAF Champions Cup in which year?"
+    },
+    {
+      "id": "columbus_crew_025",
+      "text": "Who was Columbus Crew's top scorer in 2024 with 25 goals?"
+    },
+    {
+      "id": "columbus_crew_026",
+      "text": "Cucho Hernández"
+    },
+    {
+      "id": "columbus_crew_027",
+      "text": "Which player holds the record for the most total appearances for Columbus Crew, with 277 appearances between 2004 and 2013?"
+    },
+    {
+      "id": "columbus_crew_028",
+      "text": "Chad Marshall"
+    },
+    {
+      "id": "columbus_crew_029",
+      "text": "Brian McBride scored how many goals for Columbus Crew in MLS matches?"
+    },
+    {
+      "id": "columbus_crew_030",
+      "text": "62 goals"
+    },
+    {
+      "id": "columbus_crew_031",
+      "text": "Who is the top assist provider in Columbus Crew's history, with 71 assists?"
+    },
+    {
+      "id": "columbus_crew_032",
+      "text": "Robert Warzycha"
+    },
+    {
+      "id": "columbus_crew_033",
+      "text": "William Hesmer had the highest total appearances from 2007–2012 with 45 for Kansas City Wizards."
+    },
+    {
+      "id": "columbus_crew_034",
+      "text": "Cucho Hernández is signed with Watford from 2022 to 2025, making a total of 38 appearances."
+    },
+    {
+      "id": "columbus_crew_035",
+      "text": "Zack Steffen made 26 appearances for SC Freiburg from 2016 to 2019."
+    },
+    {
+      "id": "columbus_crew_036",
+      "text": "Federico Higuaín was recognized in 2013 in the list of notable players by season."
+    },
+    {
+      "id": "columbus_crew_037",
+      "text": "Darlington Nagbe has been recognized from 2023 onwards in the list of notable players by season."
+    },
+    {
+      "id": "columbus_crew_038",
+      "text": "The highest regular season attendance recorded was 20,646 in 2024."
+    },
+    {
+      "id": "columbus_crew_039",
+      "text": "The lowest regular season attendance recorded due to COVID-19 restrictions was 4,138 in 2020."
+    },
+    {
+      "id": "columbus_crew_040",
+      "text": "The highest playoff attendance recorded was 20,807 in 1996."
+    },
+    {
+      "id": "columbus_crew_041",
+      "text": "The attendance was capped at 1,500 during the playoffs in 2020 due to COVID restrictions."
+    }
+  ],
+  "extraction_stats": {
+    "total_facts": 42,
+    "unique_facts": 42,
+    "new_unique_facts": 41,
+    "chunks_processed": 3,
+    "total_prompt_tokens": 4775,
+    "total_completion_tokens": 714
+  }
+}

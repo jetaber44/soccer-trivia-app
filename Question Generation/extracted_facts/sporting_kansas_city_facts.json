@@ -1,0 +1,574 @@
+{
+  "source": "https://en.wikipedia.org/wiki/Sporting_Kansas_City",
+  "article_title": "Sporting Kansas City",
+  "facts": [
+    {
+      "id": "sporting_kansas_city_001",
+      "text": "Sporting Kansas City began play in Major League Soccer (MLS) in 1996 as the Kansas City Wiz."
+    },
+    {
+      "id": "sporting_kansas_city_002",
+      "text": "The team was founded by Lamar Hunt in 1995."
+    },
+    {
+      "id": "sporting_kansas_city_003",
+      "text": "Sporting Kansas City was originally named Kansas City Wiz in 1996 before changing to Kansas City Wizards in 1997."
+    },
+    {
+      "id": "sporting_kansas_city_004",
+      "text": "The team rebranded to Sporting Kansas City in November 2010."
+    },
+    {
+      "id": "sporting_kansas_city_005",
+      "text": "Sporting Kansas City has won the MLS Cup in 2000 and 2013."
+    },
+    {
+      "id": "sporting_kansas_city_006",
+      "text": "Sporting Kansas City won the Supporters' Shield in 2000."
+    },
+    {
+      "id": "sporting_kansas_city_007",
+      "text": "Sporting Kansas City has won the U.S. Open Cup in 2004, 2012, 2015, and 2017."
+    },
+    {
+      "id": "sporting_kansas_city_008",
+      "text": "Sporting Kansas City's reserve team, Sporting Kansas City II, began play in the USL Championship in 2016 before switching to MLS Next Pro in 2022."
+    },
+    {
+      "id": "sporting_kansas_city_009",
+      "text": "The Kansas City Wiz played their first game on April 13, 1996, defeating the Colorado Rapids with a score of 3–0."
+    },
+    {
+      "id": "sporting_kansas_city_010",
+      "text": "Preki was named the MLS MVP in 1997."
+    },
+    {
+      "id": "sporting_kansas_city_011",
+      "text": "Tony Meola set an MLS record with a shutout streak of 681 minutes and won the MLS Goalkeeper of the Year and MLS MVP in 2000."
+    },
+    {
+      "id": "sporting_kansas_city_012",
+      "text": "Peter Vermes was named the 2000 MLS Defender of the Year."
+    },
+    {
+      "id": "sporting_kansas_city_013",
+      "text": "Sporting Kansas City won the MLS Supporters' Shield in 2000 with a regular-season record of 16–7–9."
+    },
+    {
+      "id": "sporting_kansas_city_014",
+      "text": "Sporting Kansas City won their first MLS Cup in 2000, defeating the Chicago Fire with an 11th-minute goal by Miklos Molnar."
+    },
+    {
+      "id": "sporting_kansas_city_015",
+      "text": "Tony Meola was named the 2000 MLS Cup MVP."
+    },
+    {
+      "id": "sporting_kansas_city_016",
+      "text": "In 2001, the Kansas City Wizards were eliminated from the playoffs by the Miami Fusion with a score of 6 points to 3."
+    },
+    {
+      "id": "sporting_kansas_city_017",
+      "text": "The Kansas City Wizards finished the 2002 MLS season in last place in the Western Conference but still made the playoffs."
+    },
+    {
+      "id": "sporting_kansas_city_018",
+      "text": "Landon Donovan scored a golden goal in the 117th minute for the San Jose Earthquakes against the Kansas City Wizards in the 2003 MLS playoffs."
+    },
+    {
+      "id": "sporting_kansas_city_019",
+      "text": "The Kansas City Wizards won the Western Conference regular season championship in 2004 with a record of 14–9–9."
+    },
+    {
+      "id": "sporting_kansas_city_020",
+      "text": "Josh Wolff scored the first penalty kick in MLS Cup history during the 2004 MLS Cup final."
+    },
+    {
+      "id": "sporting_kansas_city_021",
+      "text": "The Kansas City Wizards moved to the Eastern Conference in 2005 following MLS expansion."
+    },
+    {
+      "id": "sporting_kansas_city_022",
+      "text": "In 2006, the Kansas City Wizards missed out on a playoff berth with a loss to the New York Red Bulls on the final day of the regular season."
+    },
+    {
+      "id": "sporting_kansas_city_023",
+      "text": "Lamar Hunt sold the Kansas City Wizards to OnGoal, LLC in August 2006."
+    },
+    {
+      "id": "sporting_kansas_city_024",
+      "text": "The Kansas City Wizards dedicated their 2007 season to Lamar Hunt, who died in December 2006."
+    },
+    {
+      "id": "sporting_kansas_city_025",
+      "text": "Kansas City Wizards finished fifth in the Eastern Conference in 2007 with a record of 11–12–7 and qualified for the playoffs."
+    },
+    {
+      "id": "sporting_kansas_city_026",
+      "text": "As of August 2017, Sporting Kansas City had over 100 straight sellouts for their matches."
+    },
+    {
+      "id": "sporting_kansas_city_027",
+      "text": "Sporting Kansas City has 14,000 season-ticket holders."
+    },
+    {
+      "id": "sporting_kansas_city_028",
+      "text": "The average age of Sporting Kansas City season-ticket holders is 29.7 years."
+    },
+    {
+      "id": "sporting_kansas_city_029",
+      "text": "The main supporters group of Sporting Kansas City is known as \"The Cauldron\"."
+    },
+    {
+      "id": "sporting_kansas_city_030",
+      "text": "\"Blue the Dog\" is the official mascot of Sporting Kansas City."
+    },
+    {
+      "id": "sporting_kansas_city_031",
+      "text": "As of 2022, Sporting Kansas City's record against the Houston Dynamo was 18–18–16 (W–L–T)."
+    },
+    {
+      "id": "sporting_kansas_city_032",
+      "text": "The Portland Thorns defeated the Kansas City Current 2–0 in the 2022 NWSL Championship."
+    },
+    {
+      "id": "sporting_kansas_city_033",
+      "text": "Sporting Kansas City began a rivalry with St. Louis City SC starting with the 2023 season."
+    },
+    {
+      "id": "sporting_kansas_city_034",
+      "text": "St. Louis City won the first meeting against Sporting Kansas City at CityPark in May 2023."
+    },
+    {
+      "id": "sporting_kansas_city_035",
+      "text": "Sporting Kansas City won their first postseason matchup against St. Louis City SC in the 2023 MLS Cup playoffs."
+    },
+    {
+      "id": "sporting_kansas_city_036",
+      "text": "From 2023, every Sporting Kansas City match is available via MLS Season Pass on the Apple TV app."
+    },
+    {
+      "id": "sporting_kansas_city_037",
+      "text": "Nate Bukaty began broadcasting for Sporting Kansas City in the 2015 season."
+    },
+    {
+      "id": "sporting_kansas_city_038",
+      "text": "Andy Gruenebaum provided color commentary for Sporting Kansas City following his retirement after the 2014 season."
+    },
+    {
+      "id": "sporting_kansas_city_039",
+      "text": "Sporting Kansas City's matches were broadcast on KMCI-TV in high definition prior to 2017."
+    },
+    {
+      "id": "sporting_kansas_city_040",
+      "text": "Sporting Kansas City Television Network's coverage extended across six states including Kansas, Missouri, Iowa, Nebraska, Oklahoma, and Arkansas."
+    },
+    {
+      "id": "sporting_kansas_city_041",
+      "text": "Fox Sports Kansas City became the broadcaster for Sporting Kansas City matches not broadcast nationally, with the change occurring in 2017."
+    },
+    {
+      "id": "sporting_kansas_city_042",
+      "text": "Jacob Peterson joined as the color commentator for Sporting Kansas City ahead of the 2020 season."
+    },
+    {
+      "id": "sporting_kansas_city_043",
+      "text": "KMCI returned as the broadcast partner for Sporting Kansas City in the Kansas City market in 2022."
+    },
+    {
+      "id": "sporting_kansas_city_044",
+      "text": "Spanish radio broadcasts for Sporting Kansas City moved to KCZZ (ESPN Deportes Kansas City 1480AM) for the 2018 season."
+    },
+    {
+      "id": "sporting_kansas_city_045",
+      "text": "Sporting Kansas City won the MLS Fair Play Award in 1998, 2002, 2005, and 2006."
+    },
+    {
+      "id": "sporting_kansas_city_046",
+      "text": "Sporting Kansas City won the CONCACAF Champions League Fair Play Award in 2019."
+    },
+    {
+      "id": "sporting_kansas_city_047",
+      "text": "Graham Zusi holds the record for the most MLS regular season games played for Sporting Kansas City with 355 games."
+    },
+    {
+      "id": "sporting_kansas_city_048",
+      "text": "Preki is the top goalscorer in MLS regular season for Sporting Kansas City with 71 goals."
+    },
+    {
+      "id": "sporting_kansas_city_049",
+      "text": "Dániel Sallói holds the record for the most match-winning goals in MLS regular season for Sporting Kansas City with 17."
+    },
+    {
+      "id": "sporting_kansas_city_050",
+      "text": "Preki also holds the record for the most assists in MLS regular season for Sporting Kansas City with 98 assists."
+    },
+    {
+      "id": "sporting_kansas_city_051",
+      "text": "Tim Melia has the most wins for Sporting Kansas City in MLS regular season with 73 wins."
+    },
+    {
+      "id": "sporting_kansas_city_052",
+      "text": "Tim Melia also holds the record for the most shutouts in MLS regular season for Sporting Kansas City with 52 shutouts."
+    },
+    {
+      "id": "sporting_kansas_city_053",
+      "text": "Tim Melia has made the most saves in MLS regular season for Sporting Kansas City with 530 saves."
+    },
+    {
+      "id": "sporting_kansas_city_054",
+      "text": "Roger Espinoza has the most ejections in MLS regular season for Sporting Kansas City with 11 ejections."
+    },
+    {
+      "id": "sporting_kansas_city_055",
+      "text": "The Sporting Legends initiative was launched by Sporting Kansas City in 2013 to honor individuals significant to the club and soccer's growth in the region."
+    },
+    {
+      "id": "sporting_kansas_city_056",
+      "text": "Preki won the MLS League MVP award in which years?"
+    },
+    {
+      "id": "sporting_kansas_city_057",
+      "text": "1997 and 2003"
+    },
+    {
+      "id": "sporting_kansas_city_058",
+      "text": "Tony Meola was named MLS Goalkeeper of the Year in what year?"
+    },
+    {
+      "id": "sporting_kansas_city_059",
+      "text": "Bob Gansler won the MLS Coach of the Year award in which year?"
+    },
+    {
+      "id": "sporting_kansas_city_060",
+      "text": "Peter Vermes won the MLS Defender of the Year award in what year?"
+    },
+    {
+      "id": "sporting_kansas_city_061",
+      "text": "Jimmy Conrad was named to the MLS Best XI in which years?"
+    },
+    {
+      "id": "sporting_kansas_city_062",
+      "text": "2004, 2005, 2006, and 2008"
+    },
+    {
+      "id": "sporting_kansas_city_063",
+      "text": "Lamar Hunt was a founder of which soccer league?"
+    },
+    {
+      "id": "sporting_kansas_city_064",
+      "text": "Major League Soccer (MLS)"
+    },
+    {
+      "id": "sporting_kansas_city_065",
+      "text": "Chris Klein won the MLS Cup and MLS Supporters Shield in what year?"
+    },
+    {
+      "id": "sporting_kansas_city_066",
+      "text": "Kerry Zavagnin won the U.S. Open Cup in what year?"
+    },
+    {
+      "id": "sporting_kansas_city_067",
+      "text": "2004"
+    },
+    {
+      "id": "sporting_kansas_city_068",
+      "text": "Mo Johnston was an MLS All-Star in which years?"
+    },
+    {
+      "id": "sporting_kansas_city_069",
+      "text": "1996, 1997, and 1998"
+    },
+    {
+      "id": "sporting_kansas_city_070",
+      "text": "Josh Wolff won the MLS Western Conference Championship in what year?"
+    },
+    {
+      "id": "sporting_kansas_city_071",
+      "text": "Jimmy Nielsen was named MLS Goalkeeper of the Year in what year?"
+    },
+    {
+      "id": "sporting_kansas_city_072",
+      "text": "Davy Arnaud was the team captain of Sporting Kansas City in which years?"
+    },
+    {
+      "id": "sporting_kansas_city_073",
+      "text": "2010 and 2011"
+    },
+    {
+      "id": "sporting_kansas_city_074",
+      "text": "Benny Feilhaber won the MLS Cup in what year?"
+    },
+    {
+      "id": "sporting_kansas_city_075",
+      "text": "Sporting Kansas City rebranded from Kansas City Wizards on November 17, 2010."
+    },
+    {
+      "id": "sporting_kansas_city_076",
+      "text": "Preki was named the MLS MVP in 2003."
+    },
+    {
+      "id": "sporting_kansas_city_077",
+      "text": "Sporting Kansas City beat Manchester United at Arrowhead Stadium on July 25, 2010."
+    },
+    {
+      "id": "sporting_kansas_city_078",
+      "text": "A record crowd watched Manchester United play in Kansas City on July 25, 2010."
+    },
+    {
+      "id": "sporting_kansas_city_079",
+      "text": "Sporting Kansas City played their home games at Arrowhead Stadium from 1996 to 2007."
+    },
+    {
+      "id": "sporting_kansas_city_080",
+      "text": "Sporting Kansas City's home venue changed to Children's Mercy Park in 2011 and has remained there since."
+    },
+    {
+      "id": "sporting_kansas_city_081",
+      "text": "Peter Vermes became the head coach of Sporting Kansas City in 2009."
+    },
+    {
+      "id": "sporting_kansas_city_082",
+      "text": "The Kansas City Wizards, the former name for Sporting Kansas City, won the MLS Cup in 2000."
+    },
+    {
+      "id": "sporting_kansas_city_083",
+      "text": "Columbus Crew won the MLS Cup in 2020."
+    },
+    {
+      "id": "sporting_kansas_city_084",
+      "text": "The New York Red Bulls won the Supporters' Shield in 2024."
+    },
+    {
+      "id": "sporting_kansas_city_085",
+      "text": "The first team to win the MLS Cup was D.C. United in 1996."
+    },
+    {
+      "id": "sporting_kansas_city_086",
+      "text": "Chivas USA was an MLS team from 2005 to 2014 before ceasing operations."
+    },
+    {
+      "id": "sporting_kansas_city_087",
+      "text": "How many times did LA Galaxy win the MLS Cup between 1996 and 2004? 3 times"
+    },
+    {
+      "id": "sporting_kansas_city_088",
+      "text": "Which team won the Supporters' Shield in 2001? Miami Fusion"
+    },
+    {
+      "id": "sporting_kansas_city_089",
+      "text": "As of 2024, how many times has Seattle Sounders FC won the MLS Cup? 4 times"
+    },
+    {
+      "id": "sporting_kansas_city_090",
+      "text": "Who won the Supporters' Shield in 2020? Philadelphia Union"
+    },
+    {
+      "id": "sporting_kansas_city_091",
+      "text": "In what year did Los Angeles FC win their first Supporters' Shield? 2019"
+    },
+    {
+      "id": "sporting_kansas_city_092",
+      "text": "Which team won the Supporters' Shield but not the MLS Cup in 2014? Seattle Sounders FC"
+    },
+    {
+      "id": "sporting_kansas_city_093",
+      "text": "As of 2024, which team has won the MLS Cup the most times? LA Galaxy"
+    },
+    {
+      "id": "sporting_kansas_city_094",
+      "text": "Which team won the U.S. Open Cup in 2019?"
+    },
+    {
+      "id": "sporting_kansas_city_095",
+      "text": "A) Seattle Sounders FC"
+    },
+    {
+      "id": "sporting_kansas_city_096",
+      "text": "B) Sporting Kansas City"
+    },
+    {
+      "id": "sporting_kansas_city_097",
+      "text": "C) Atlanta United FC"
+    },
+    {
+      "id": "sporting_kansas_city_098",
+      "text": "D) Houston Dynamo"
+    },
+    {
+      "id": "sporting_kansas_city_099",
+      "text": "In what year did the Chicago Fire win their first U.S. Open Cup?"
+    },
+    {
+      "id": "sporting_kansas_city_100",
+      "text": "A) 1996"
+    },
+    {
+      "id": "sporting_kansas_city_101",
+      "text": "B) 1997"
+    },
+    {
+      "id": "sporting_kansas_city_102",
+      "text": "C) 1998"
+    },
+    {
+      "id": "sporting_kansas_city_103",
+      "text": "D) 1999"
+    },
+    {
+      "id": "sporting_kansas_city_104",
+      "text": "Which team was the U.S. Open Cup champion in both 2010 and 2011?"
+    },
+    {
+      "id": "sporting_kansas_city_105",
+      "text": "A) LA Galaxy"
+    },
+    {
+      "id": "sporting_kansas_city_106",
+      "text": "B) D.C. United"
+    },
+    {
+      "id": "sporting_kansas_city_107",
+      "text": "C) Chicago Fire"
+    },
+    {
+      "id": "sporting_kansas_city_108",
+      "text": "D) Seattle Sounders FC"
+    },
+    {
+      "id": "sporting_kansas_city_109",
+      "text": "For how many consecutive years did the U.S. Open Cup not have a champion due to the COVID-19 pandemic?"
+    },
+    {
+      "id": "sporting_kansas_city_110",
+      "text": "A) 1 year"
+    },
+    {
+      "id": "sporting_kansas_city_111",
+      "text": "B) 2 years"
+    },
+    {
+      "id": "sporting_kansas_city_112",
+      "text": "C) 3 years"
+    },
+    {
+      "id": "sporting_kansas_city_113",
+      "text": "D) 4 years"
+    },
+    {
+      "id": "sporting_kansas_city_114",
+      "text": "Which team won the U.S. Open Cup in 2023?"
+    },
+    {
+      "id": "sporting_kansas_city_115",
+      "text": "A) Orlando City SC"
+    },
+    {
+      "id": "sporting_kansas_city_116",
+      "text": "B) Houston Dynamo"
+    },
+    {
+      "id": "sporting_kansas_city_117",
+      "text": "C) Los Angeles FC"
+    },
+    {
+      "id": "sporting_kansas_city_118",
+      "text": "D) Sporting Kansas City"
+    },
+    {
+      "id": "sporting_kansas_city_119",
+      "text": "What was the shirt sponsor for Sporting Kansas City from 2013 to 2019?"
+    },
+    {
+      "id": "sporting_kansas_city_120",
+      "text": "A) Adidas"
+    },
+    {
+      "id": "sporting_kansas_city_121",
+      "text": "B) Compass Minerals"
+    },
+    {
+      "id": "sporting_kansas_city_122",
+      "text": "C) Ivy Investments"
+    },
+    {
+      "id": "sporting_kansas_city_123",
+      "text": "D) Victory Project"
+    },
+    {
+      "id": "sporting_kansas_city_124",
+      "text": "As of 2021, which sponsor appeared on the sleeve of Sporting Kansas City's kit?"
+    },
+    {
+      "id": "sporting_kansas_city_125",
+      "text": "D) Children's Mercy"
+    },
+    {
+      "id": "sporting_kansas_city_126",
+      "text": "Which stadium has been in use by Sporting Kansas City since 2011?"
+    },
+    {
+      "id": "sporting_kansas_city_127",
+      "text": "A) Arrowhead Stadium"
+    },
+    {
+      "id": "sporting_kansas_city_128",
+      "text": "B) CommunityAmerica Ballpark"
+    },
+    {
+      "id": "sporting_kansas_city_129",
+      "text": "C) Children's Mercy Park"
+    },
+    {
+      "id": "sporting_kansas_city_130",
+      "text": "D) None of the above"
+    },
+    {
+      "id": "sporting_kansas_city_131",
+      "text": "What position does John Pulskamp play for Sporting Kansas City?"
+    },
+    {
+      "id": "sporting_kansas_city_132",
+      "text": "A) Goalkeeper (GK)"
+    },
+    {
+      "id": "sporting_kansas_city_133",
+      "text": "B) Defender (DF)"
+    },
+    {
+      "id": "sporting_kansas_city_134",
+      "text": "C) Midfielder (MF)"
+    },
+    {
+      "id": "sporting_kansas_city_135",
+      "text": "D) Forward (FW)"
+    },
+    {
+      "id": "sporting_kansas_city_136",
+      "text": "Which player from Sporting Kansas City hails from Germany?"
+    },
+    {
+      "id": "sporting_kansas_city_137",
+      "text": "A) John Pulskamp"
+    },
+    {
+      "id": "sporting_kansas_city_138",
+      "text": "B) Ian James"
+    },
+    {
+      "id": "sporting_kansas_city_139",
+      "text": "C) Andrew Brody"
+    },
+    {
+      "id": "sporting_kansas_city_140",
+      "text": "D) Robert Voloder"
+    }
+  ],
+  "extraction_stats": {
+    "total_facts": 155,
+    "unique_facts": 147,
+    "new_unique_facts": 140,
+    "chunks_processed": 13,
+    "total_prompt_tokens": 9462,
+    "total_completion_tokens": 2542
+  }
+}

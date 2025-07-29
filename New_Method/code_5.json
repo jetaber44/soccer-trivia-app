@@ -1,0 +1,254 @@
+[
+  {
+    "question": "Which player won the Ballon d'Or in 2019 while playing for Barcelona?",
+    "answer": "Lionel Messi",
+    "options": ["Cristiano Ronaldo", "Luka Modric", "Lionel Messi", "Virgil van Dijk"],
+    "category": "Leagues",
+    "subcategories": ["La Liga", "2010s"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "Which player won the Ballon d'Or in 1995, playing for Paris Saint-Germain?",
+    "answer": "George Weah",
+    "options": ["Didier Drogba", "Samuel Eto'o", "George Weah", "Roger Milla"],
+    "category": "Leagues",
+    "subcategories": ["Ligue 1", "1990s"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "Which player won the Ballon d'Or in 1974, representing the Netherlands?",
+    "answer": "Johan Cruyff",
+    "options": ["Franz Beckenbauer", "Gerd M�ller", "Johan Cruyff", "Johan Neeskens"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "Matthias Sammer won the Ballon d'Or in 1996. What was his listed primary position?",
+    "answer": "DF,MF",
+    "options": ["FW", "MF", "DF", "DF,MF"],
+    "category": "Time Periods",
+    "subcategories": ["1990s"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "In 1970, a German striker won the Ballon d'Or. Who was it?",
+    "answer": "Gerd M�ller",
+    "options": ["Franz Beckenbauer", "Uwe Seeler", "Gerd M�ller", "J�rgen Klinsmann"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "Which player won the Ballon d'Or in 1969 for a Serie A club?",
+    "answer": "Gianni Rivera",
+    "options": ["Sandro Mazzola", "Luigi Riva", "Gianni Rivera", "Gigi Buffon"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "Which player, a prolific goalscorer, won the Ballon d'Or in 1970?",
+    "answer": "Gerd M�ller",
+    "options": ["Franz Beckenbauer", "Johan Cruyff", "Gerd M�ller", "Bobby Charlton"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "Which player won the Ballon d'Or in 2005 for a Spanish club?",
+    "answer": "Ronaldinho",
+    "options": ["Samuel Eto'o", "Deco", "Ronaldinho", "Zin�dine Zidane"],
+    "category": "Leagues",
+    "subcategories": ["La Liga", "2000s"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "Pel� was named to the 1958 FIFA World Cup All-Star Team. What was his listed age?",
+    "answer": "17",
+    "options": ["16", "17", "18", "19"],
+    "category": "International",
+    "subcategories": ["World Cup", "1958"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "Which goalkeeper was between the posts for Arsenal during three consecutive seasons where the club finished 2nd in the Premier League?",
+    "answer": "David Seaman",
+    "options": ["Jens Lehmann", "Wojciech Szczęsny", "David Seaman", "Petr Čech"],
+    "category": "Leagues",
+    "subcategories": ["Premier League", "1990s"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "In 1990-1991, Arsenal won the First Division title with a 2-point deduction. Which Arsenal goalkeeper from the 1990s was part of the squad that season?",
+    "answer": "David Seaman",
+    "options": ["Petr Čech", "Jens Lehmann", "David Seaman", "Wojciech Szczęsny"],
+    "category": "Leagues",
+    "subcategories": ["Premier League", "1990s"],
+    "difficulty": "hard",
+    "assigned_code": 5
+  },
+  {
+    "question": "Juventus holds an unfortunate record in the Champions League. What is it?",
+    "answer": "Most final losses",
+    "options": ["Most final losses", "Most group stage exits", "Most semi-final exits without reaching a final", "Most seasons without qualifying"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 5
+  },
+  {
+    "question": "Only a few teams have won the Champions League without losing a single game in the tournament. Which of these clubs achieved this feat?",
+    "answer": "Ajax (1994-95)",
+    "options": ["Ajax (1994-95)", "Manchester United (2007-08)", "AC Milan (1993-94)", "Bayern Munich (2019-20)"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 5
+  },
+  {
+    "question": "Which player is the oldest to score in a UEFA Champions League final?",
+    "answer": "Paolo Maldini",
+    "options": ["Paolo Maldini", "Javier Zanetti", "Francesco Totti", "Ryan Giggs"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 5
+  },
+  {
+    "question": "Who is the all-time leading goal scorer in Serie A history?",
+    "answer": "Silvio Piola",
+    "options": ["Silvio Piola", "Francesco Totti", "Gunnar Nordahl", "Giuseppe Meazza"],
+    "category": "Leagues",
+    "subcategories": ["Serie A"],
+    "difficulty": "hard",
+    "assigned_code": 5
+  },
+  {
+    "question": "Which edition of the Copa América featured a final between Argentina and Chile for two consecutive tournaments?",
+    "answer": "2015 and Centenario (2016)",
+    "options": ["2015 and Centenario (2016)", "2011 and 2015", "2007 and 2011", "2004 and 2007"],
+    "category": "International",
+    "subcategories": ["CONMEBOL"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "As of 2025, which player holds the record for the most appearances in the UEFA Europa League/UEFA Cup history, including qualifying rounds?",
+    "answer": "Henrik Larsson",
+    "options": ["Henrik Larsson", "Dries Mertens", "Rui Patrício", "Giuseppe Bergomi"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Europa League"],
+    "difficulty": "hard",
+    "assigned_code": 5
+  },
+  {
+    "question": "Which player scored five goals in a single UEFA Europa League group stage match in 2016 for Athletic Bilbao?",
+    "answer": "Aritz Aduriz",
+    "options": ["Aritz Aduriz", "Radamel Falcao", "Edinson Cavani", "Pierre-Emerick Aubameyang"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Europa League"],
+    "difficulty": "hard",
+    "assigned_code": 5
+  },
+  {
+    "question": "Oliver Kahn, known as 'Der Titan,' was a dominant force for Bayern Munich. In which year did he win his only UEFA Champions League title with the club?",
+    "answer": "2001",
+    "options": ["2001", "1999", "2013", "1996"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "Edwin van der Sar is one of the few players to win the Champions League with two different clubs. Which two clubs did he achieve this with?",
+    "answer": "Ajax and Manchester United",
+    "options": ["Ajax and Manchester United", "Juventus and Fulham", "Ajax and Juventus", "Manchester United and Fulham"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 5
+  },
+  {
+    "question": "Which FIFA World Cup match in 1982 is remembered for Paolo Rossi's hat-trick, as Italy unexpectedly defeated the highly fancied Brazil team?",
+    "answer": "Brazil 2-3 Italy",
+    "options": ["Brazil 2-3 Italy", "Argentina 2-1 England", "France 3-3 West Germany (Semi-final)", "Brazil 1-0 Poland"],
+    "category": "International",
+    "subcategories": ["World Cup", "1980s"],
+    "difficulty": "hard",
+    "assigned_code": 5
+  },
+  {
+    "question": "The 1986 FIFA World Cup quarter-final between Argentina and England featured Diego Maradona's 'Hand of God' goal and his 'Goal of the Century.' What was the final score of this iconic match?",
+    "answer": "2-1",
+    "options": ["2-1", "3-1", "2-0", "1-0"],
+    "category": "International",
+    "subcategories": ["World Cup", "1980s"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "Who was the youngest player to score in the 2018 World Cup final?",
+    "answer": "Kylian Mbappé",
+    "options": ["Kylian Mbappé", "Antoine Griezmann", "Paul Pogba", "Benjamin Pavard"],
+    "category": ["International", "World Cup"],
+    "subcategories": ["2010s", "2018 World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "Who was the first non-British manager to take charge of Manchester United?",
+    "answer": "Louis van Gaal",
+    "options": ["Louis van Gaal", "José Mourinho", "David Moyes", "Erik ten Hag"],
+    "category": ["Leagues"],
+    "subcategories": ["Premier League"],
+    "difficulty": "hard",
+    "assigned_code": 5
+  },
+  {
+    "question": "Which African team advanced to the knockout stage of the 2014 World Cup?",
+    "answer": "Nigeria",
+    "options": ["Nigeria", "Ghana", "Ivory Coast", "Algeria"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 5
+  },
+  {
+    "question": "Which legendary African player was known as the 'Black Panther' and is celebrated for his achievements with the Portuguese club Benfica?",
+    "answer": "Eusébio",
+    "options": ["Eusébio", "George Weah", "Roger Milla", "Abedi Pele"],
+    "category": ["Leagues"],
+    "subcategories": ["Rest of World"],
+    "difficulty": "hard",
+    "assigned_code": 5
+  },
+  {
+    "question": "Which manager led Barcelona to their first UEFA Champions League title in 1992?",
+    "answer": "Johan Cruyff",
+    "options": ["Johan Cruyff", "Pep Guardiola", "Bobby Robson", "Frank Rijkaard"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  },
+  {
+    "question": "Which country hosted the 1970 FIFA World Cup — the first World Cup held in North America?",
+    "answer": "Mexico",
+    "options": ["Mexico", "Chile", "Argentina", "Colombia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 5
+  }
+]

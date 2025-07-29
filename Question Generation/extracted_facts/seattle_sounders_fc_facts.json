@@ -1,0 +1,66 @@
+{
+  "source": "https://en.wikipedia.org/wiki/Seattle_Sounders_FC",
+  "article_title": "Seattle Sounders FC",
+  "facts": [
+    {
+      "id": "seattle_sounders_fc_001",
+      "text": "The kit manufacturer for the team from 2009 to 2018 was Adidas."
+    },
+    {
+      "id": "seattle_sounders_fc_002",
+      "text": "The shirt sponsor for the team in 2023 is Providence."
+    },
+    {
+      "id": "seattle_sounders_fc_003",
+      "text": "Travian Sousa wears the number 3 and plays as a defender (DF) for the team."
+    },
+    {
+      "id": "seattle_sounders_fc_004",
+      "text": "Jordan Morris is identified as a Homegrown Player (HGP) and a Designated Player (DP) for the team."
+    },
+    {
+      "id": "seattle_sounders_fc_005",
+      "text": "Sigi Schmid served as the team's head coach from December 16, 2008, to July 26, 2016."
+    },
+    {
+      "id": "seattle_sounders_fc_006",
+      "text": "Brian Schmetzer became the head coach on a permanent basis on November 2, 2016, and has held the position since."
+    },
+    {
+      "id": "seattle_sounders_fc_007",
+      "text": "The team has won the MLS Cup twice, in 2016 and 2019."
+    },
+    {
+      "id": "seattle_sounders_fc_008",
+      "text": "The team won the CONCACAF Champions League in 2022."
+    },
+    {
+      "id": "seattle_sounders_fc_009",
+      "text": "Stefan Frei, the team's goalkeeper, is also the team captain as of the latest update."
+    },
+    {
+      "id": "seattle_sounders_fc_010",
+      "text": "Garth Lagerwey served as the General Manager and Chief Soccer Officer from 2015 to 2022."
+    },
+    {
+      "id": "seattle_sounders_fc_011",
+      "text": "The team has won the U.S. Open Cup four times: in 2009, 2010, 2011, and 2014."
+    },
+    {
+      "id": "seattle_sounders_fc_012",
+      "text": "The team's majority owner is Adrian Hanauer, representing Hanauer Futból LLC."
+    },
+    {
+      "id": "seattle_sounders_fc_013",
+      "text": "Celebrities Russell Wilson, Ciara, and Macklemore are listed as minority owners of the team."
+    }
+  ],
+  "extraction_stats": {
+    "total_facts": 13,
+    "unique_facts": 13,
+    "new_unique_facts": 13,
+    "chunks_processed": 2,
+    "total_prompt_tokens": 1387,
+    "total_completion_tokens": 291
+  }
+}

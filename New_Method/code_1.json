@@ -1,0 +1,3360 @@
+[
+  {
+    "question": "How old was Cristiano Ronaldo when he won the Ballon d'Or in 2017?",
+    "answer": "31",
+    "options": ["29", "30", "31", "32"],
+    "category": "Time Periods",
+    "subcategories": ["2010s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player from Real Madrid won the Ballon d'Or in 2014?",
+    "answer": "Cristiano Ronaldo",
+    "options": ["Lionel Messi", "Luka Modric", "Cristiano Ronaldo", "Gareth Bale"],
+    "category": "Leagues",
+    "subcategories": ["La Liga", "2010s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player won the Ballon d'Or in 2011, continuing a dominant run for Barcelona?",
+    "answer": "Lionel Messi",
+    "options": ["Cristiano Ronaldo", "Xavi", "Andr�s Iniesta", "Lionel Messi"],
+    "category": "Leagues",
+    "subcategories": ["La Liga", "2010s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "What age was Lionel Messi when he won his first Ballon d'Or on this list in 2009?",
+    "answer": "21",
+    "options": ["20", "21", "22", "23"],
+    "category": "Time Periods",
+    "subcategories": ["2000s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Fabio Cannavaro won the Ballon d'Or in 2006. Which Italian club was he associated with in that year?",
+    "answer": "Juventus",
+    "options": ["AC Milan", "Internazionale", "Juventus", "AS Roma"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "2000s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Ronaldinho won the Ballon d'Or in 2005 for which club?",
+    "answer": "Barcelona",
+    "options": ["PSG", "AC Milan", "Barcelona", "Real Madrid"],
+    "category": "Leagues",
+    "subcategories": ["La Liga", "2000s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Andriy Shevchenko won the Ballon d'Or in 2004 while playing in which European league?",
+    "answer": "Serie A",
+    "options": ["Premier League", "Bundesliga", "Serie A", "La Liga"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "2000s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Pavel Nedved, a midfielder, won the Ballon d'Or in 2003. Which Serie A club did he play for?",
+    "answer": "Juventus",
+    "options": ["Lazio", "AS Roma", "Juventus", "Fiorentina"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "2000s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Zin�dine Zidane won the Ballon d'Or in 1998 for which Serie A club?",
+    "answer": "Juventus",
+    "options": ["AC Milan", "Internazionale", "Juventus", "AS Roma"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "1990s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "George Weah, representing Liberia, won the Ballon d'Or in 1995 while playing for which Ligue 1 club?",
+    "answer": "Paris Saint-Germain",
+    "options": ["Monaco", "Lyon", "Paris Saint-Germain", "Marseille"],
+    "category": "Leagues",
+    "subcategories": ["Ligue 1", "1990s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Roberto Baggio, the Italian forward, won the Ballon d'Or in 1993 while playing for which Serie A club?",
+    "answer": "Juventus",
+    "options": ["AC Milan", "Inter Milan", "Juventus", "Fiorentina"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "1990s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Jean-Pierre Papin won the Ballon d'Or in 1991. Which Ligue 1 club did he play for?",
+    "answer": "Marseille",
+    "options": ["Bordeaux", "PSG", "Marseille", "Monaco"],
+    "category": "Leagues",
+    "subcategories": ["Ligue 1", "1990s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player, representing the Netherlands and Milan, won the Ballon d'Or in 1988?",
+    "answer": "Marco van Basten",
+    "options": ["Ruud Gullit", "Frank Rijkaard", "Marco van Basten", "Johan Cruyff"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "1980s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Igor Belanov won the Ballon d'Or in 1986. Which nation did he represent?",
+    "answer": "Soviet Union",
+    "options": ["Ukraine", "Russia", "Soviet Union", "Poland"],
+    "category": "Time Periods",
+    "subcategories": ["1980s"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Michel Platini won the Ballon d'Or in 1985. Which Italian club was he playing for?",
+    "answer": "Juventus",
+    "options": ["Inter Milan", "AC Milan", "Juventus", "Napoli"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "1980s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Allan Simonsen won the Ballon d'Or in 1977. Which German club was he playing for?",
+    "answer": "Borussia Monchengladbach",
+    "options": ["Bayern Munich", "Borussia Dortmund", "Borussia Monchengladbach", "Hamburg"],
+    "category": "Leagues",
+    "subcategories": ["Bundesliga", "1970s or Earlier"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player, playing for Bayern Munich, won the Ballon d'Or in 1972?",
+    "answer": "Franz Beckenbauer",
+    "options": ["Gerd M�ller", "Johan Cruyff", "Franz Beckenbauer", "Sepp Maier"],
+    "category": "Leagues",
+    "subcategories": ["Bundesliga", "1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Gerd M�ller won the Ballon d'Or in 1970. What nation did he represent?",
+    "answer": "Germany",
+    "options": ["Netherlands", "England", "Germany", "Brazil"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player won the Ballon d'Or in 1967 while playing for Ferencvaros?",
+    "answer": "Fl�ri�n Albert",
+    "options": ["Jozsef Bozsik", "L�szl� Kubala", "Fl�ri�n Albert", "N�ndor Hidegkuti"],
+    "category": "Leagues",
+    "subcategories": ["Rest of World", "1970s or Earlier"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Lev Yashin, the only goalkeeper on this list to win, was awarded the Ballon d'Or in 1963. What nation did he represent?",
+    "answer": "Soviet Union",
+    "options": ["Russia", "Ukraine", "Soviet Union", "Germany"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Luis Su�rez won the Ballon d'Or in 1960 for Barcelona. What was his listed position?",
+    "answer": "MF",
+    "options": ["FW", "MF", "DF", "FW,MF"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Alfredo Di St�fano won the Ballon d'Or in 1959. Which club was he playing for?",
+    "answer": "Real Madrid",
+    "options": ["Barcelona", "Atletico Madrid", "Real Madrid", "River Plate"],
+    "category": "Leagues",
+    "subcategories": ["La Liga", "1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Raymond Kopa won the Ballon d'Or in 1958. What nation did he represent?",
+    "answer": "France",
+    "options": ["Germany", "Spain", "France", "Italy"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player, at 30 years old, won the Ballon d'Or in 1957 while playing for Real Madrid?",
+    "answer": "Alfredo Di St�fano",
+    "options": ["Raymond Kopa", "Stanley Matthews", "Alfredo Di St�fano", "Luis Su�rez"],
+    "category": "Leagues",
+    "subcategories": ["La Liga", "1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Lionel Messi won the Ballon d'Or in 2023. Which nation did he represent?",
+    "answer": "Argentina",
+    "options": ["Brazil", "Spain", "Argentina", "Portugal"],
+    "category": "Time Periods",
+    "subcategories": ["2020s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Luka Modric won the Ballon d'Or in 2018. Which nation does he represent?",
+    "answer": "Croatia",
+    "options": ["Serbia", "Croatia", "Bosnia and Herzegovina", "Slovenia"],
+    "category": "Time Periods",
+    "subcategories": ["2010s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Pavel Nedved won the Ballon d'Or in 2003. Which nation did he represent?",
+    "answer": "Czech Republic",
+    "options": ["Poland", "Slovakia", "Czech Republic", "Hungary"],
+    "category": "Time Periods",
+    "subcategories": ["2000s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Ronaldo, the Brazilian forward, won the Ballon d'Or in 2002. Which club was he playing for?",
+    "answer": "Internazionale",
+    "options": ["Real Madrid", "Barcelona", "Internazionale", "PSV Eindhoven"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "2000s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player, representing Brazil and Barcelona, won the Ballon d'Or in 1999?",
+    "answer": "Rivaldo",
+    "options": ["Ronaldinho", "Ronaldo", "Rivaldo", "Kak�"],
+    "category": "Leagues",
+    "subcategories": ["La Liga", "1990s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Hristo Stoichkov won the Ballon d'Or in 1994. Which nation did he represent?",
+    "answer": "Bulgaria",
+    "options": ["Romania", "Bulgaria", "Serbia", "Croatia"],
+    "category": "Time Periods",
+    "subcategories": ["1990s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Ruud Gullit won the Ballon d'Or in 1987. Which nation did he represent?",
+    "answer": "Netherlands",
+    "options": ["Belgium", "Netherlands", "Germany", "France"],
+    "category": "Time Periods",
+    "subcategories": ["1980s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Paolo Rossi won the Ballon d'Or in 1982. Which nation did he represent?",
+    "answer": "Italy",
+    "options": ["Germany", "Brazil", "Italy", "Argentina"],
+    "category": "Time Periods",
+    "subcategories": ["1980s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which German player won the Ballon d'Or in 1980?",
+    "answer": "Karl-Heinz Rummenigge",
+    "options": ["Franz Beckenbauer", "Gerd M�ller", "Karl-Heinz Rummenigge", "Uli Hoene�"],
+    "category": "Time Periods",
+    "subcategories": ["1980s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Franz Beckenbauer won the Ballon d'Or in 1976. Which club was he playing for?",
+    "answer": "Bayern Munich",
+    "options": ["Hamburg", "Real Madrid", "Bayern Munich", "Inter Milan"],
+    "category": "Leagues",
+    "subcategories": ["Bundesliga", "1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Fl�ri�n Albert won the Ballon d'Or in 1967. Which nation did he represent?",
+    "answer": "Hungary",
+    "options": ["Czechoslovakia", "Poland", "Hungary", "Yugoslavia"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Eus�bio won the Ballon d'Or in 1965. Which nation did he represent?",
+    "answer": "Portugal",
+    "options": ["Spain", "Brazil", "Portugal", "Angola"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player, playing for Barcelona, won the Ballon d'Or in 2011?",
+    "answer": "Lionel Messi",
+    "options": ["Cristiano Ronaldo", "Xavi", "Lionel Messi", "Andr�s Iniesta"],
+    "category": "Leagues",
+    "subcategories": ["La Liga", "2010s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Cristiano Ronaldo won the Ballon d'Or in 2008. Which club was he playing for?",
+    "answer": "Manchester United",
+    "options": ["Real Madrid", "Sporting CP", "Manchester United", "Juventus"],
+    "category": "Leagues",
+    "subcategories": ["Premier League", "2000s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Hristo Stoichkov won the Ballon d'Or in 1994 for Barcelona. Which nation did he represent?",
+    "answer": "Bulgaria",
+    "options": ["Romania", "Bulgaria", "Croatia", "Serbia"],
+    "category": "Leagues",
+    "subcategories": ["La Liga", "1990s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player, representing France and Marseille, won the Ballon d'Or in 1991?",
+    "answer": "Jean-Pierre Papin",
+    "options": ["Michel Platini", "Zin�dine Zidane", "Jean-Pierre Papin", "Eric Cantona"],
+    "category": "Leagues",
+    "subcategories": ["Ligue 1", "1990s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Ruud Gullit won the Ballon d'Or in 1987. Which club was he playing for?",
+    "answer": "Milan",
+    "options": ["PSV Eindhoven", "Ajax", "Milan", "Real Madrid"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "1980s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Michel Platini won the Ballon d'Or in 1985. Which nation did he represent?",
+    "answer": "France",
+    "options": ["Germany", "Italy", "France", "Spain"],
+    "category": "Time Periods",
+    "subcategories": ["1980s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player, representing the Soviet Union, won the Ballon d'Or in 1975?",
+    "answer": "Oleh Blokhin",
+    "options": ["Lev Yashin", "Igor Belanov", "Oleh Blokhin", "Rinat Dasayev"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which German player won the Ballon d'Or in 1972 while playing for Bayern Munich?",
+    "answer": "Franz Beckenbauer",
+    "options": ["Gerd M�ller", "J�rgen Klinsmann", "Franz Beckenbauer", "Sepp Maier"],
+    "category": "Leagues",
+    "subcategories": ["Bundesliga", "1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Gerd M�ller won the Ballon d'Or in 1970. What was his listed primary position?",
+    "answer": "FW",
+    "options": ["MF", "DF", "FW", "FW,MF"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Eus�bio won the Ballon d'Or in 1965. Which club was he playing for?",
+    "answer": "Benfica",
+    "options": ["Sporting CP", "Porto", "Benfica", "Real Madrid"],
+    "category": "Leagues",
+    "subcategories": ["Rest of World", "1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Lev Yashin won the Ballon d'Or in 1963. What was his listed primary position?",
+    "answer": "GK",
+    "options": ["FW", "MF", "DF", "GK"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Josef Masopust won the Ballon d'Or in 1962. Which nation did he represent?",
+    "answer": "Czechoslovakia",
+    "options": ["Hungary", "Poland", "Czechoslovakia", "Yugoslavia"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Luis Su�rez won the Ballon d'Or in 1960. Which club was he playing for?",
+    "answer": "Barcelona",
+    "options": ["Real Madrid", "Atletico Madrid", "Barcelona", "Inter Milan"],
+    "category": "Leagues",
+    "subcategories": ["La Liga", "1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Kak�, representing Brazil, won the Ballon d'Or in 2007. Which club was he playing for?",
+    "answer": "Milan",
+    "options": ["Real Madrid", "Chelsea", "Milan", "Paris Saint-Germain"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "2000s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player won the Ballon d'Or in 1989, representing the Netherlands and Milan?",
+    "answer": "Marco van Basten",
+    "options": ["Ruud Gullit", "Frank Rijkaard", "Marco van Basten", "Johan Cruyff"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "1980s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player, representing France and Juventus, won the Ballon d'Or in 1983?",
+    "answer": "Michel Platini",
+    "options": ["Zin�dine Zidane", "Raymond Kopa", "Michel Platini", "Jean-Pierre Papin"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "1980s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Oleh Blokhin won the Ballon d'Or in 1975. What was his listed primary position?",
+    "answer": "FW",
+    "options": ["MF", "DF", "FW", "FW,MF"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Lev Yashin won the Ballon d'Or in 1963. Which club was he playing for?",
+    "answer": "Dynamo Moscow",
+    "options": ["Spartak Moscow", "CSKA Moscow", "Dynamo Moscow", "Zenit"],
+    "category": "Leagues",
+    "subcategories": ["Rest of World", "1970s or Earlier"],
+    "difficulty": "medium",
+    "assigned_code": 1
+  },
+  {
+    "question": "Josef Masopust won the Ballon d'Or in 1962. Which club was he playing for?",
+    "answer": "Dukla Prague",
+    "options": ["Slavia Prague", "Sparta Prague", "Dukla Prague", "Ban�k Ostrava"],
+    "category": "Leagues",
+    "subcategories": ["Rest of World", "1970s or Earlier"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Omar S�vori won the Ballon d'Or in 1961. Which club was he playing for?",
+    "answer": "Juventus",
+    "options": ["Napoli", "Internazionale", "Juventus", "AS Roma"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Luis Su�rez won the Ballon d'Or in 1960. Which nation did he represent?",
+    "answer": "Spain",
+    "options": ["Argentina", "Brazil", "Spain", "Uruguay"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Stanley Matthews won the Ballon d'Or in 1956. Which club was he playing for?",
+    "answer": "Blackpool",
+    "options": ["Stoke City", "Manchester United", "Blackpool", "Arsenal"],
+    "category": "Leagues",
+    "subcategories": ["Premier League", "1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player won the Ballon d'Or in 1966?",
+    "answer": "Bobby Charlton",
+    "options": ["Franz Beckenbauer", "George Best", "Bobby Charlton", "Eus�bio"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Ballon d'Or winner played for a French club in 1995?",
+    "answer": "George Weah",
+    "options": ["Jean-Pierre Papin", "Zin�dine Zidane", "George Weah", "Eric Cantona"],
+    "category": "Leagues",
+    "subcategories": ["Ligue 1", "1990s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player won the Ballon d'Or in 2004 for a Serie A club?",
+    "answer": "Andriy Shevchenko",
+    "options": ["Pavel Nedved", "Kak�", "Andriy Shevchenko", "Ronaldinho"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "2000s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Denis Law won the Ballon d'Or in 1964. Which nation did he represent?",
+    "answer": "Scotland",
+    "options": ["England", "Wales", "Scotland", "Northern Ireland"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player won the Ballon d'Or for an Italian club in 1990?",
+    "answer": "Lothar Matth�us",
+    "options": ["Marco van Basten", "Roberto Baggio", "Lothar Matth�us", "Paolo Maldini"],
+    "category": "Leagues",
+    "subcategories": ["Serie A", "1990s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Lionel Messi, playing for Barcelona, won the Ballon d'Or in 2015. This falls into which decade?",
+    "answer": "2010s",
+    "options": ["2000s", "2010s", "1990s", "2020s"],
+    "category": "Time Periods",
+    "subcategories": ["2010s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Arsenal season featured an undefeated league campaign with the fewest goals conceded?",
+    "answer": "2003-2004",
+    "options": ["1990-1991", "2003-2004", "1934-1935", "2023-2024"],
+    "category": "Leagues",
+    "subcategories": ["Premier League", "2000s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Arsenal striker was the club’s top scorer in a season where the team scored over 120 league goals?",
+    "answer": "Cliff Bastin",
+    "options": ["Thierry Henry", "Ted Drake", "Cliff Bastin", "Jack Lambert"],
+    "category": "Time Periods",
+    "subcategories": ["1930s", "Leagues"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "In which season did Arsenal earn Champions League qualification despite having their worst defensive record of the modern era?",
+    "answer": "2001-2002",
+    "options": ["2010-2011", "2016-2017", "2001-2002", "2009-2010"],
+    "category": "Leagues",
+    "subcategories": ["Premier League", "2000s"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Arsenal achieved their lowest Premier League finish of 8th place twice in consecutive seasons. Which of these players was the top scorer in *both* of those campaigns?",
+    "answer": "Pierre-Emerick Aubameyang",
+    "options": ["Alexandre Lacazette", "Bukayo Saka", "Pierre-Emerick Aubameyang", "Kai Havertz"],
+    "category": "Leagues",
+    "subcategories": ["Premier League", "2010s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club has won the most UEFA Champions League/European Cup titles in history?",
+    "answer": "Real Madrid",
+    "options": ["Real Madrid", "AC Milan", "Bayern Munich", "Liverpool"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "The 1999 Champions League final is famous for its dramatic finish. Which two teams played in that final?",
+    "answer": "Manchester United vs. Bayern Munich",
+    "options": ["Manchester United vs. Bayern Munich", "Real Madrid vs. Juventus", "AC Milan vs. Barcelona", "Porto vs. Monaco"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Before its rebranding as the UEFA Champions League in 1992, what was the competition known as?",
+    "answer": "European Cup",
+    "options": ["European Cup", "UEFA Cup Winners' Cup", "UEFA Super Cup", "Inter-Cities Fairs Cup"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "In which year did Liverpool complete their famous comeback against AC Milan in the Champions League final, often referred to as 'The Miracle of Istanbul'?",
+    "answer": "2005",
+    "options": ["2005", "2007", "2001", "2003"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which manager has won the most UEFA Champions League titles?",
+    "answer": "Carlo Ancelotti",
+    "options": ["Carlo Ancelotti", "Pep Guardiola", "Zinedine Zidane", "Sir Alex Ferguson"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which city has hosted the UEFA Champions League/European Cup final the most times?",
+    "answer": "London",
+    "options": ["London", "Madrid", "Paris", "Rome"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player has scored the most goals in a single UEFA Champions League season?",
+    "answer": "Cristiano Ronaldo",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Robert Lewandowski", "Ruud van Nistelrooy"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club has appeared in the most Champions League semi-finals?",
+    "answer": "Real Madrid",
+    "options": ["Real Madrid", "Bayern Munich", "Barcelona", "Juventus"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which year saw the first Champions League final contested between two clubs from the same country?",
+    "answer": "2000",
+    "options": ["2000", "2003", "2008", "2014"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which English club achieved the 'treble' (Premier League, FA Cup, and Champions League) in the 1998-99 season?",
+    "answer": "Manchester United",
+    "options": ["Manchester United", "Liverpool", "Arsenal", "Chelsea"],
+    "category": "Leagues",
+    "subcategories": ["Premier League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who was the first player to score five goals in a single UEFA Champions League match?",
+    "answer": "Lionel Messi",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Luiz Adriano", "Erling Haaland"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club caused a major upset in the 2003/04 Champions League by eliminating Real Madrid in the quarter-finals?",
+    "answer": "AS Monaco",
+    "options": ["AS Monaco", "Deportivo La Coruña", "Lyon", "Stuttgart"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player holds the record for the most appearances in the UEFA Champions League?",
+    "answer": "Cristiano Ronaldo",
+    "options": ["Cristiano Ronaldo", "Iker Casillas", "Lionel Messi", "Xavi"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "In the 2009 Champions League final, who scored Barcelona's second goal against Manchester United to seal their victory?",
+    "answer": "Lionel Messi",
+    "options": ["Lionel Messi", "Samuel Eto'o", "Xavi", "Andres Iniesta"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which national team has won the most CONCACAF Gold Cup titles?",
+    "answer": "Mexico",
+    "options": ["Mexico", "United States", "Costa Rica", "Canada"],
+    "category": "International",
+    "subcategories": ["CONCACAF"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "In which year did the CONCACAF Gold Cup replace the CONCACAF Championship?",
+    "answer": "1991",
+    "options": ["1991", "1989", "1993", "1985"],
+    "category": "International",
+    "subcategories": ["CONCACAF"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country hosted the first-ever CONCACAF Gold Cup final?",
+    "answer": "United States",
+    "options": ["United States", "Mexico", "Canada", "Costa Rica"],
+    "category": "International",
+    "subcategories": ["CONCACAF"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which national team became the first Caribbean nation to reach the semifinals of a CONCACAF Gold Cup?",
+    "answer": "Trinidad and Tobago",
+    "options": ["Trinidad and Tobago", "Jamaica", "Haiti", "Cuba"],
+    "category": "International",
+    "subcategories": ["CONCACAF"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Liga MX club holds the record for the most CONCACAF Champions League/Champions Cup titles?",
+    "answer": "Club América",
+    "options": ["Club América", "Cruz Azul", "Pachuca", "Monterrey"],
+    "category": "Club Competitions",
+    "subcategories": ["CONCACAF"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country is the only CONCACAF nation to have won the FIFA Confederations Cup?",
+    "answer": "Mexico",
+    "options": ["Mexico", "United States", "Canada", "Costa Rica"],
+    "category": "International",
+    "subcategories": ["CONCACAF"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club holds the record for the most Serie A titles (Scudetti)?",
+    "answer": "Juventus",
+    "options": ["Juventus", "AC Milan", "Inter Milan", "Genoa"],
+    "category": "Leagues",
+    "subcategories": ["Serie A"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "The 'Derby della Madonnina' is a fierce rivalry between which two Serie A clubs?",
+    "answer": "AC Milan and Inter Milan",
+    "options": ["AC Milan and Inter Milan", "AS Roma and Lazio", "Juventus and Inter Milan", "Napoli and AS Roma"],
+    "category": "Leagues",
+    "subcategories": ["Serie A"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player has made the most appearances in Serie A?",
+    "answer": "Gianluigi Buffon",
+    "options": ["Gianluigi Buffon", "Paolo Maldini", "Francesco Totti", "Javier Zanetti"],
+    "category": "Leagues",
+    "subcategories": ["Serie A"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "What significant scandal rocked Italian football in 2006, leading to Juventus's relegation and title stripping?",
+    "answer": "Calciopoli",
+    "options": ["Calciopoli", "Totonero", "Calcioscommesse", "Fifa-gate"],
+    "category": "Leagues",
+    "subcategories": ["Serie A"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club holds the record for the most Coppa Italia titles?",
+    "answer": "Juventus",
+    "options": ["Juventus", "AS Roma", "Inter Milan", "AC Milan"],
+    "category": "Club Competitions",
+    "subcategories": ["Domestic Cups"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "The Serie A 'Capocannoniere' award is given to the player who achieves what each season?",
+    "answer": "Top goal scorer",
+    "options": ["Top goal scorer", "Most assists", "Best goalkeeper", "Most clean sheets"],
+    "category": "Leagues",
+    "subcategories": ["Serie A"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club has won the most La Liga titles in history?",
+    "answer": "Real Madrid",
+    "options": ["Real Madrid", "Barcelona", "Atletico Madrid", "Athletic Bilbao"],
+    "category": "Leagues",
+    "subcategories": ["La Liga"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "The 'El Clásico' is the famous rivalry between which two La Liga clubs?",
+    "answer": "Real Madrid and Barcelona",
+    "options": ["Real Madrid and Barcelona", "Atletico Madrid and Real Madrid", "Sevilla and Real Betis", "Valencia and Villarreal"],
+    "category": "Leagues",
+    "subcategories": ["La Liga"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who is the all-time leading goal scorer in La Liga history?",
+    "answer": "Lionel Messi",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sánchez"],
+    "category": "Leagues",
+    "subcategories": ["La Liga"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player holds the record for the most appearances in La Liga?",
+    "answer": "Andoni Zubizarreta",
+    "options": ["Andoni Zubizarreta", "Raúl González", "Lionel Messi", "Sergio Ramos"],
+    "category": "Leagues",
+    "subcategories": ["La Liga"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club famously won La Liga in the 1999-2000 season, breaking a long dominance by Real Madrid and Barcelona?",
+    "answer": "Deportivo La Coruña",
+    "options": ["Deportivo La Coruña", "Valencia", "Real Sociedad", "Athletic Bilbao"],
+    "category": "Leagues",
+    "subcategories": ["La Liga"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "What is the name of the annual award given to La Liga's top goal scorer?",
+    "answer": "Pichichi Trophy",
+    "options": ["Pichichi Trophy", "Zamora Trophy", "Di Stéfano Trophy", "Zarra Trophy"],
+    "category": "Leagues",
+    "subcategories": ["La Liga"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "In which season did Atlético Madrid break the duopoly of Real Madrid and Barcelona to win their first La Liga title under Diego Simeone?",
+    "answer": "2013-14",
+    "options": ["2013-14", "2011-12", "2015-16", "2017-18"],
+    "category": "Leagues",
+    "subcategories": ["La Liga"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Spanish city hosts the 'Derbi Sevillano'?",
+    "answer": "Seville",
+    "options": ["Seville", "Valencia", "Madrid", "Barcelona"],
+    "category": "Leagues",
+    "subcategories": ["La Liga"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which nation holds the record for the most Copa América titles?",
+    "answer": "Argentina",
+    "options": ["Argentina", "Uruguay", "Brazil", "Chile"],
+    "category": "International",
+    "subcategories": ["CONMEBOL"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "In which year was the first official Copa América (then South American Championship) held?",
+    "answer": "1916",
+    "options": ["1916", "1910", "1920", "1930"],
+    "category": "International",
+    "subcategories": ["CONMEBOL"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which non-CONMEBOL nation has participated in Copa América the most times as an invited guest?",
+    "answer": "Mexico",
+    "options": ["Mexico", "United States", "Costa Rica", "Japan"],
+    "category": "International",
+    "subcategories": ["CONMEBOL", "CONCACAF"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who was the coach that led Chile to their first-ever Copa América title?",
+    "answer": "Jorge Sampaoli",
+    "options": ["Jorge Sampaoli", "Marcelo Bielsa", "Manuel Pellegrini", "Reinaldo Rueda"],
+    "category": "International",
+    "subcategories": ["CONMEBOL"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country hosted the 2007 Copa América, where Brazil defeated Argentina in the final?",
+    "answer": "Venezuela",
+    "options": ["Venezuela", "Peru", "Colombia", "Argentina"],
+    "category": "International",
+    "subcategories": ["CONMEBOL"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "In the 1989 Copa América, which player scored a famous bicycle kick goal for Brazil against Argentina?",
+    "answer": "Careca",
+    "options": ["Careca", "Romário", "Bebeto", "Müller"],
+    "category": "International",
+    "subcategories": ["CONMEBOL"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which two nations participated in the very first Copa América match in 1916?",
+    "answer": "Uruguay and Chile",
+    "options": ["Uruguay and Chile", "Argentina and Chile", "Brazil and Argentina", "Uruguay and Argentina"],
+    "category": "International",
+    "subcategories": ["CONMEBOL"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Prior to the 2009 rebranding, which Italian club won the UEFA Cup three times in the 1990s?",
+    "answer": "Inter Milan",
+    "options": ["Inter Milan", "Juventus", "Parma", "AS Roma"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Europa League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club from a non-top five European league famously won the UEFA Cup in 1982 and again in 1987?",
+    "answer": "IFK Göteborg",
+    "options": ["IFK Göteborg", "Ajax", "PSV Eindhoven", "Anderlecht"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Europa League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "In the 2000 UEFA Cup final, Galatasaray defeated which English club on penalties to become the first Turkish team to win a major European trophy?",
+    "answer": "Arsenal",
+    "options": ["Arsenal", "Liverpool", "Leeds United", "Chelsea"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Europa League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club, in 2013, became the first reigning UEFA Champions League winner to subsequently win the UEFA Europa League in the same calendar year?",
+    "answer": "Chelsea",
+    "options": ["Chelsea", "Manchester United", "Liverpool", "Porto"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Europa League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Russian club, managed by Valery Gazzaev, won the UEFA Cup in 2005, becoming the first Russian club to win a major European trophy?",
+    "answer": "CSKA Moscow",
+    "options": ["CSKA Moscow", "Zenit Saint Petersburg", "Spartak Moscow", "Lokomotiv Moscow"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Europa League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "As of 2025, which LA Galaxy player holds the club's all-time record for most goals scored in all competitions?",
+    "answer": "Landon Donovan",
+    "options": ["Landon Donovan", "Robbie Keane", "Cobi Jones", "Zlatan Ibrahimović"],
+    "category": "Leagues",
+    "subcategories": ["MLS"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "The LA Galaxy's rivalry with the San Jose Earthquakes is known by what specific name?",
+    "answer": "California Clásico",
+    "options": ["California Clásico", "El Tráfico", "SuperClasico", "Golden State Derby"],
+    "category": "Leagues",
+    "subcategories": ["MLS"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "As of 2025, how many times has the LA Galaxy won the Supporters' Shield (regular season title)?",
+    "answer": "4",
+    "options": ["4", "5", "3", "6"],
+    "category": "Leagues",
+    "subcategories": ["MLS"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "The LA Galaxy famously won the 2005 MLS Cup on their home field. Who scored the winning goal in that final against New England Revolution?",
+    "answer": "Guillermo Barros Schelotto",
+    "options": ["Guillermo Barros Schelotto", "Landon Donovan", "Carlos Ruiz", "Cobi Jones"],
+    "category": "Leagues",
+    "subcategories": ["MLS"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which LA Galaxy Designated Player, known for his time at Liverpool and Tottenham, formed a prolific attacking partnership with Landon Donovan in the early 2010s?",
+    "answer": "Robbie Keane",
+    "options": ["Robbie Keane", "Giovani dos Santos", "Javier Hernández", "Steven Gerrard"],
+    "category": "Leagues",
+    "subcategories": ["MLS"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "The LA Galaxy was one of the original MLS franchises that began play in which year?",
+    "answer": "1996",
+    "options": ["1996", "1995", "1998", "2000"],
+    "category": "Leagues",
+    "subcategories": ["MLS"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which LA Galaxy head coach led the team to their first two MLS Cup titles in 2002 and 2005?",
+    "answer": "Sigi Schmid",
+    "options": ["Sigi Schmid", "Bruce Arena", "Steve Nicol", "Frank Yallop"],
+    "category": "Leagues",
+    "subcategories": ["MLS"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which LA Galaxy defender, known for his distinctive hair, was a key figure in their three MLS Cup triumphs between 2011 and 2014?",
+    "answer": "Omar Gonzalez",
+    "options": ["Omar Gonzalez", "Todd Dunivant", "A.J. DeLaGarza", "Robbie Rogers"],
+    "category": "Leagues",
+    "subcategories": ["MLS"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Lev Yashin, the only goalkeeper to win the Ballon d'Or, spent his entire club career with which team?",
+    "answer": "Dynamo Moscow",
+    "options": ["Dynamo Moscow", "CSKA Moscow", "Spartak Moscow", "Zenit Saint Petersburg"],
+    "category": "Time Periods",
+    "subcategories": ["1960s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Dino Zoff captained Italy to the 1982 World Cup title at what record-breaking age, making him the oldest World Cup winner?",
+    "answer": "40",
+    "options": ["40", "38", "36", "42"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Gordon Banks is renowned for his 'Save of the Century' against Pelé in the 1970 World Cup. Which club did Banks primarily play for during his most celebrated years?",
+    "answer": "Stoke City",
+    "options": ["Stoke City", "Leicester City", "Chelsea", "Liverpool"],
+    "category": "Time Periods",
+    "subcategories": ["1970s or Earlier"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Manuel Neuer revolutionized the 'sweeper-keeper' role. Which year did he make his debut for the German national team?",
+    "answer": "2009",
+    "options": ["2009", "2006", "2010", "2007"],
+    "category": "Time Periods",
+    "subcategories": ["2000s"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Peter Schmeichel, a key figure in Manchester United's treble-winning team, famously scored a goal in the Premier League. Against which opponent did he achieve this rare feat?",
+    "answer": "Everton",
+    "options": ["Everton", "Sunderland", "Tottenham Hotspur", "Charlton Athletic"],
+    "category": "Leagues",
+    "subcategories": ["Premier League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "As of 2025, which club holds the record for the highest net transfer spend in a single season?",
+    "answer": "Chelsea (2022-23)",
+    "options": ["Chelsea (2022-23)", "Manchester United (2022-23)", "Real Madrid (2009-10)", "Paris Saint-Germain (2017-18)"],
+    "category": "Transfers",
+    "subcategories": ["Transfer Fees"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which prominent English Premier League club faced a transfer ban from FIFA in 2019 for breaching rules related to the international transfer and registration of players under 18?",
+    "answer": "Chelsea",
+    "options": ["Chelsea", "Manchester City", "Liverpool", "Arsenal"],
+    "category": "Transfers",
+    "subcategories": ["Transfer Fees"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "The first £1 million transfer in English football involved which player in 1979?",
+    "answer": "Trevor Francis",
+    "options": ["Trevor Francis", "Kenny Dalglish", "Kevin Keegan", "Bryan Robson"],
+    "category": "Transfers",
+    "subcategories": ["Transfer Fees", "Time Periods"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "As of 2025, which player holds the record for the most red cards received in La Liga history?",
+    "answer": "Sergio Ramos",
+    "options": ["Sergio Ramos", "Pablo Alfaro", "Juanito", "Fernando Hierro"],
+    "category": "Leagues",
+    "subcategories": ["La Liga"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "In the 2006 FIFA World Cup final, Zinedine Zidane received a red card for a headbutt. Which Italian player was involved in the incident?",
+    "answer": "Marco Materazzi",
+    "options": ["Marco Materazzi", "Fabio Cannavaro", "Gennaro Gattuso", "Gianluigi Buffon"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "As of 2025, which Premier League manager has received the most red cards during matches?",
+    "answer": "Arsène Wenger",
+    "options": ["Arsène Wenger", "José Mourinho", "Sir Alex Ferguson", "Pep Guardiola"],
+    "category": "Leagues",
+    "subcategories": ["Premier League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "As of 2025, which goalkeeper holds the record for the most penalty saves in La Liga history?",
+    "answer": "Diego Alves",
+    "options": ["Diego Alves", "Iker Casillas", "Jan Oblak", "Thibaut Courtois"],
+    "category": "Leagues",
+    "subcategories": ["La Liga"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "In the 1994 FIFA World Cup final, which legendary Italian player missed a crucial penalty in the shootout that cost his team the trophy?",
+    "answer": "Roberto Baggio",
+    "options": ["Roberto Baggio", "Franco Baresi", "Daniele Massaro", "Giuseppe Signori"],
+    "category": "International",
+    "subcategories": ["World Cup", "1990s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country's national team holds the unfortunate record for the most penalty shootout losses in FIFA World Cup history?",
+    "answer": "England",
+    "options": ["England", "Spain", "Italy", "Mexico"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "The 1954 FIFA World Cup final, famously dubbed 'The Miracle of Bern,' saw heavily favored Hungary, the 'Mighty Magyars,' lose to which underdog nation?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Brazil", "Uruguay", "Austria"],
+    "category": "International",
+    "subcategories": ["World Cup", "1950s"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Beyond the 'Miracle of Istanbul,' Liverpool also orchestrated a stunning Champions League comeback in 2019, overturning a 3-0 first-leg deficit against which Spanish giant?",
+    "answer": "Barcelona",
+    "options": ["Barcelona", "Real Madrid", "Atletico Madrid", "Valencia"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League", "2010s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "The 2011-12 Premier League season concluded with a dramatic final day, where Sergio Agüero's last-minute goal secured the title for Manchester City over which opponent?",
+    "answer": "Queens Park Rangers",
+    "options": ["Queens Park Rangers", "Manchester United", "Sunderland", "Stoke City"],
+    "category": "Leagues",
+    "subcategories": ["Premier League", "2010s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "In the 2017 Champions League Round of 16, Barcelona completed 'La Remontada,' overturning a 4-0 first-leg deficit against which French club?",
+    "answer": "Paris Saint-Germain",
+    "options": ["Paris Saint-Germain", "Lyon", "Monaco", "Marseille"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League", "2010s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "The 1999 Champions League final is remembered for two dramatic late Manchester United goals. Who scored the second, winning goal for United against Bayern Munich?",
+    "answer": "Ole Gunnar Solskjær",
+    "options": ["Ole Gunnar Solskjær", "Teddy Sheringham", "David Beckham", "Dwight Yorke"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League", "1990s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "The 'Battle of Santiago' refers to a notoriously violent group stage match in the 1962 FIFA World Cup between which two nations?",
+    "answer": "Chile and Italy",
+    "options": ["Chile and Italy", "Brazil and Portugal", "Argentina and West Germany", "USSR and Uruguay"],
+    "category": "International",
+    "subcategories": ["World Cup", "1970s or Earlier"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "The 2001 UEFA Cup final, famously a 5-4 thriller, was contested between Liverpool and which Spanish club?",
+    "answer": "Alavés",
+    "options": ["Alavés", "Valencia", "Celta Vigo", "Mallorca"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Europa League", "2000s"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "The 2010 UEFA Champions League final saw Inter Milan defeat Bayern Munich, completing a historic treble under which manager?",
+    "answer": "José Mourinho",
+    "options": ["José Mourinho", "Louis van Gaal", "Pep Guardiola", "Carlo Ancelotti"],
+    "category": "Club Competitions",
+    "subcategories": ["UEFA Champions League", "2010s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which iconic stadium in Rio de Janeiro, Brazil, hosted the FIFA World Cup finals in both 1950 and 2014?",
+    "answer": "Estádio do Maracanã",
+    "options": ["Estádio do Maracanã", "Estádio Mineirão", "Estádio do Morumbi", "Estádio Nacional Mané Garrincha"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Known for its unique 'Yellow Wall' terrace, which German stadium is the home of Borussia Dortmund?",
+    "answer": "Signal Iduna Park (Westfalenstadion)",
+    "options": ["Signal Iduna Park (Westfalenstadion)", "Allianz Arena", "Olympiastadion", "Veltins-Arena"],
+    "category": "Leagues",
+    "subcategories": ["Bundesliga"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which stadium, located in Milan, is famously shared as a home ground by both AC Milan and Inter Milan?",
+    "answer": "San Siro (Stadio Giuseppe Meazza)",
+    "options": ["San Siro (Stadio Giuseppe Meazza)", "Stadio Olimpico", "Allianz Stadium", "Stadio Diego Armando Maradona"],
+    "category": "Leagues",
+    "subcategories": ["Serie A"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "The 'Estadio Azteca' in Mexico City holds the distinction of being the only stadium to have hosted two FIFA World Cup finals. In what years did these finals take place?",
+    "answer": "1970 and 1986",
+    "options": ["1970 and 1986", "1970 and 1994", "1986 and 2002", "1966 and 1982"],
+    "category": "International",
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which stadium is the home of Athletic Bilbao, known for its strong Basque identity and policy of only signing Basque players?",
+    "answer": "San Mamés",
+    "options": ["San Mamés", "Estadio de Mestalla", "Estadio Ramón Sánchez Pizjuán", "Estadio Benito Villamarín"],
+    "category": "Leagues",
+    "subcategories": ["La Liga"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "The 'Anfield' stadium, famous for its 'Kop' stand, is the historic home ground of which English club?",
+    "answer": "Liverpool",
+    "options": ["Liverpool", "Manchester United", "Everton", "Arsenal"],
+    "category": "Leagues",
+    "subcategories": ["Premier League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which stadium in Portugal, known for its distinctive architecture, was one of the primary venues for Euro 2004 and is the home of Benfica?",
+    "answer": "Estádio da Luz",
+    "options": ["Estádio da Luz", "Estádio do Dragão", "Estádio José Alvalade", "Estádio Municipal de Braga"],
+    "category": "Leagues",
+    "subcategories": ["Rest of World"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Serie A club is widely known by the nickname 'I Partenopei,' referencing the ancient Greek name for the city of Naples?",
+    "answer": "Napoli",
+    "options": ["Napoli", "AS Roma", "Lazio", "Bari"],
+    "category": "Leagues",
+    "subcategories": ["Serie A"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Spanish La Liga club shares its nickname, 'Los Colchoneros,' directly with mattress makers due to the traditional colors of its kit?",
+    "answer": "Atletico Madrid",
+    "options": ["Atletico Madrid", "Athletic Bilbao", "Valencia", "Sevilla"],
+    "category": "Leagues",
+    "subcategories": ["La Liga"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Scottish Premiership club is known by the nickname 'The Bhoys' or 'The Hoops'?",
+    "answer": "Celtic",
+    "options": ["Celtic", "Rangers", "Heart of Midlothian", "Aberdeen"],
+    "category": "Leagues",
+    "subcategories": ["Rest of World"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "The French Ligue 1 club Olympique Lyonnais often goes by which nickname that refers to the city's heraldic symbol?",
+    "answer": "Les Gones",
+    "options": ["Les Gones", "Les Dogues", "Les Canaris", "Les Aiglons"],
+    "category": "Leagues",
+    "subcategories": ["Ligue 1"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which major Portuguese club shares its official nickname, 'Dragões' (Dragons), with the mythical creature prominently featured on its crest?",
+    "answer": "Porto",
+    "options": ["Porto", "Benfica", "Sporting CP", "Braga"],
+    "category": "Leagues",
+    "subcategories": ["Rest of World"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club in the English Premier League is nicknamed 'The Toffees,' a reference to a type of sweet candy with historical ties to the club's origins?",
+    "answer": "Everton",
+    "options": ["Everton", "Liverpool", "Aston Villa", "Newcastle United"],
+    "category": "Leagues",
+    "subcategories": ["Premier League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who was Manchester City's manager when they won their first Premier League title in 2012?",
+    "answer": "Roberto Mancini",
+    "options": ["Roberto Mancini", "Manuel Pellegrini", "Pep Guardiola", "Mark Hughes"],
+    "category": ["Leagues", "Premier League"],
+    "subcategories": ["2010s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "In which year did Manchester City complete a domestic treble of the Premier League, FA Cup, and League Cup?",
+    "answer": "2019",
+    "options": ["2018", "2019", "2020", "2021"],
+    "category": ["Club Competitions", "Domestic Cups"],
+    "subcategories": ["2010s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which manager led Manchester United to their first European Cup victory in 1968?",
+    "answer": "Matt Busby",
+    "options": ["Matt Busby", "Alex Ferguson", "Tommy Docherty", "Ron Atkinson"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "During the 2007-2008 season, which Manchester United player was the top scorer in the Premier League?",
+    "answer": "Cristiano Ronaldo",
+    "options": ["Cristiano Ronaldo", "Carlos Tevez", "Wayne Rooney", "Dimitar Berbatov"],
+    "category": ["Leagues"],
+    "subcategories": ["Premier League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "What was the transfer fee Manchester United paid to sign Rio Ferdinand from Leeds United in 2002?",
+    "answer": "£30 million",
+    "options": ["£30 million", "£25 million", "£35 million", "£28 million"],
+    "category": ["Transfers"],
+    "subcategories": ["Transfer Fees"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "In which year did Manchester United complete their historic treble of the Premier League, FA Cup, and UEFA Champions League?",
+    "answer": "1999",
+    "options": ["1999", "2008", "1996", "2001"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League", "Domestic Cups"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club did Manchester United defeat to win their first FA Cup under Sir Alex Ferguson in 1990?",
+    "answer": "Crystal Palace",
+    "options": ["Crystal Palace", "Liverpool", "Everton", "Arsenal"],
+    "category": ["Club Competitions"],
+    "subcategories": ["Domestic Cups"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player from Manchester United was famously known for his 'Kung Fu kick' incident in 1995?",
+    "answer": "Eric Cantona",
+    "options": ["Eric Cantona", "Roy Keane", "Paul Ince", "Mark Hughes"],
+    "category": ["Leagues"],
+    "subcategories": ["Premier League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Manchester United academy graduate scored in the 2008 UEFA Champions League final?",
+    "answer": "Wes Brown",
+    "options": ["Wes Brown", "Darren Fletcher", "John O'Shea", "Johnny Evans"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "What was the original name of Manchester United Football Club before it was changed in 1902?",
+    "answer": "Newton Heath LYR F.C.",
+    "options": ["Newton Heath LYR F.C.", "Manchester Central F.C.", "Manchester Red Devils", "Lancashire United"],
+    "category": ["Leagues"],
+    "subcategories": ["Premier League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Manchester United player was known as 'The King' and wore the number 7 shirt during his time at the club in the 1990s?",
+    "answer": "Eric Cantona",
+    "options": ["Eric Cantona", "David Beckham", "George Best", "Cristiano Ronaldo"],
+    "category": ["Leagues"],
+    "subcategories": ["Premier League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Under which manager did Manchester United win their first Premier League title in the 1992-1993 season?",
+    "answer": "Alex Ferguson",
+    "options": ["Alex Ferguson", "Ron Atkinson", "Matt Busby", "Tommy Docherty"],
+    "category": ["Leagues"],
+    "subcategories": ["Premier League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which former Manchester United captain has the second highest number of appearances for the club after Ryan Giggs?",
+    "answer": "Bobby Charlton",
+    "options": ["Bobby Charlton", "Paul Scholes", "Gary Neville", "Roy Keane"],
+    "category": ["Leagues"],
+    "subcategories": ["Premier League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team scored the most goals during the 2014 FIFA World Cup?",
+    "answer": "Germany",
+    "options": ["Germany", "Netherlands", "Brazil", "Argentina"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who was awarded the Golden Glove for the best goalkeeper in the 2014 World Cup?",
+    "answer": "Manuel Neuer",
+    "options": ["Manuel Neuer", "Keylor Navas", "Tim Howard", "Sergio Romero"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player scored the fastest hat-trick in World Cup history during the 2014 tournament?",
+    "answer": "Xherdan Shaqiri",
+    "options": ["Xherdan Shaqiri", "Thomas Müller", "James Rodríguez", "Lionel Messi"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country made its World Cup debut during the 2014 tournament?",
+    "answer": "Bosnia and Herzegovina",
+    "options": ["Bosnia and Herzegovina", "Iceland", "Slovakia", "Wales"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "What was the final score in the 2014 World Cup final between Germany and Argentina?",
+    "answer": "1-0",
+    "options": ["1-0", "2-1", "0-0 (penalties)", "3-2"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player was the top scorer of the 2014 World Cup with six goals?",
+    "answer": "James Rodríguez",
+    "options": ["James Rodríguez", "Thomas Müller", "Lionel Messi", "Neymar"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team did Costa Rica defeat in the Round of 16 at the 2014 World Cup?",
+    "answer": "Greece",
+    "options": ["Greece", "Uruguay", "Italy", "England"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who scored the only goal in the 2014 World Cup final?",
+    "answer": "Mario Götze",
+    "options": ["Mario Götze", "Thomas Müller", "André Schürrle", "Miroslav Klose"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which CONMEBOL nation achieved its first World Cup victory in 1958?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Uruguay", "Argentina", "Chile"],
+    "category": ["International"],
+    "subcategories": ["CONMEBOL", "World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country hosted the first Copa América tournament in 1916?",
+    "answer": "Argentina",
+    "options": ["Argentina", "Uruguay", "Brazil", "Chile"],
+    "category": ["International"],
+    "subcategories": ["CONMEBOL"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who scored the decisive goal for Uruguay in the 1950 World Cup final against Brazil?",
+    "answer": "Alcides Ghiggia",
+    "options": ["Alcides Ghiggia", "Juan Alberto Schiaffino", "Obdulio Varela", "Juan Hohberg"],
+    "category": ["International"],
+    "subcategories": ["CONMEBOL", "World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player won the Golden Ball award for the best player at the 2015 Copa América?",
+    "answer": "Lionel Messi",
+    "options": ["Lionel Messi", "Arturo Vidal", "Sergio Agüero", "Paolo Guerrero"],
+    "category": ["International"],
+    "subcategories": ["CONMEBOL"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player famously scored a hat-trick in the 1995 Copa América final?",
+    "answer": "Enzo Francescoli",
+    "options": ["Enzo Francescoli", "Zamorano", "Gabriel Batistuta", "Ronaldo"],
+    "category": ["International"],
+    "subcategories": ["CONMEBOL"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Caribbean nation reached the quarter-finals of the CONCACAF Gold Cup for the first time in 2019?",
+    "answer": "Haiti",
+    "options": ["Haiti", "Trinidad and Tobago", "Jamaica", "Cuba"],
+    "category": ["International"],
+    "subcategories": ["CONCACAF"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "In the 1998 CONCACAF Champions' Cup, which team became the first Major League Soccer team to win the competition?",
+    "answer": "D.C. United",
+    "options": ["D.C. United", "LA Galaxy", "New York Red Bulls", "Toronto FC"],
+    "category": ["Club Competitions"],
+    "subcategories": ["Rest of World"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team did Mexico defeat in the final to win the 2019 CONCACAF Gold Cup?",
+    "answer": "United States",
+    "options": ["United States", "Costa Rica", "Honduras", "Jamaica"],
+    "category": ["International"],
+    "subcategories": ["CONCACAF"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who was the top scorer of the 2021 CONCACAF Gold Cup?",
+    "answer": "Almoez Ali",
+    "options": ["Almoez Ali", "Raúl Jiménez", "Cyle Larin", "Hirving Lozano"],
+    "category": ["International"],
+    "subcategories": ["CONCACAF"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player was named the Best Young Player of the 2017 CONCACAF Gold Cup?",
+    "answer": "Alphonso Davies",
+    "options": ["Alphonso Davies", "Christian Pulisic", "Jonathan David", "Hirving Lozano"],
+    "category": ["International"],
+    "subcategories": ["CONCACAF"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which nation won the OFC Nations Cup for the first time in 2016?",
+    "answer": "New Zealand",
+    "options": ["New Zealand", "Tahiti", "Fiji", "Solomon Islands"],
+    "category": ["International"],
+    "subcategories": ["OFC"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country's national team is known as the 'Bula Boys'?",
+    "answer": "Fiji",
+    "options": ["Fiji", "Vanuatu", "Samoa", "Papua New Guinea"],
+    "category": ["International"],
+    "subcategories": ["OFC"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which OFC team qualified for the FIFA World Cup for the first time in 1982?",
+    "answer": "New Zealand",
+    "options": ["New Zealand", "Australia", "Tahiti", "Papua New Guinea"],
+    "category": ["International"],
+    "subcategories": ["OFC", "World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which nation achieved a historic victory by winning the OFC Nations Cup in 2012, breaking New Zealand's dominance?",
+    "answer": "Tahiti",
+    "options": ["Tahiti", "Fiji", "Vanuatu", "Solomon Islands"],
+    "category": ["International"],
+    "subcategories": ["OFC"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which OFC country was the first to host the FIFA U-20 World Cup in 1999?",
+    "answer": "New Zealand",
+    "options": ["New Zealand", "Australia", "Fiji", "Solomon Islands"],
+    "category": ["International"],
+    "subcategories": ["OFC"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which OFC member has won the most OFC Champions League titles as of October 2023?",
+    "answer": "Auckland City",
+    "options": ["Auckland City", "Waitakere United", "Ba FC", "Team Wellington"],
+    "category": ["Club Competitions"],
+    "subcategories": ["Rest of World"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "What was the original name of the OFC Champions League when it was first established in 1987?",
+    "answer": "Oceania Club Championship",
+    "options": ["Oceania Club Championship", "Pacific Club Cup", "Oceania Champions Cup", "Island Club Tournament"],
+    "category": ["Club Competitions"],
+    "subcategories": ["Rest of World"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which OFC national team is nicknamed the 'Kapuls'?",
+    "answer": "Papua New Guinea",
+    "options": ["Papua New Guinea", "Fiji", "Solomon Islands", "New Caledonia"],
+    "category": ["International"],
+    "subcategories": ["OFC"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which nation won the Africa Cup of Nations (AFCON) for the first time in 1996?",
+    "answer": "South Africa",
+    "options": ["South Africa", "Nigeria", "Egypt", "Ivory Coast"],
+    "category": ["International"],
+    "subcategories": ["CAF"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which coach led Egypt to three consecutive AFCON titles in 2006, 2008, and 2010?",
+    "answer": "Hassan Shehata",
+    "options": ["Hassan Shehata", "Claude Le Roy", "Hervé Renard", "Stephen Keshi"],
+    "category": ["International"],
+    "subcategories": ["CAF"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country hosted the first-ever Africa Cup of Nations tournament in 1957?",
+    "answer": "Sudan",
+    "options": ["Sudan", "Egypt", "Ethiopia", "Ghana"],
+    "category": ["International"],
+    "subcategories": ["CAF"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who was the captain of the Senegal national team that reached the quarter-finals of the 2002 FIFA World Cup?",
+    "answer": "Aliou Cissé",
+    "options": ["Aliou Cissé", "El Hadji Diouf", "Henri Camara", "Kalilou Fadiga"],
+    "category": ["International"],
+    "subcategories": ["CAF", "World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which CAF member nation won its first AFCON title in 1994, led by coach Clemens Westerhof?",
+    "answer": "Nigeria",
+    "options": ["Nigeria", "Zambia", "Algeria", "Morocco"],
+    "category": ["International"],
+    "subcategories": ["CAF"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which African player won the CAF African Player of the Year award in 2000, also known for his time at Barcelona?",
+    "answer": "Patrick Mboma",
+    "options": ["Patrick Mboma", "Samuel Eto'o", "Jay-Jay Okocha", "Nwankwo Kanu"],
+    "category": ["International"],
+    "subcategories": ["CAF"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team won the 2021 Africa Cup of Nations, defeating Egypt in the final?",
+    "answer": "Senegal",
+    "options": ["Senegal", "Algeria", "Ivory Coast", "Morocco"],
+    "category": ["International"],
+    "subcategories": ["CAF"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which MLS team had the highest average attendance during the 2024 season?",
+    "answer": "Atlanta United FC",
+    "options": ["Atlanta United FC", "Seattle Sounders", "LA Galaxy", "Portland Timbers"],
+    "category": ["Leagues"],
+    "subcategories": ["MLS"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who was the head coach of the 2023 MLS Cup-winning team, Columbus Crew?",
+    "answer": "Wilfried Nancy",
+    "options": ["Wilfried Nancy", "Brian Schmetzer", "Bruce Arena", "Jim Curtin"],
+    "category": ["Leagues"],
+    "subcategories": ["MLS", "2020s"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which 2023 MLS expansion team had a remarkable debut season by qualifying for the playoffs?",
+    "answer": "St. Louis City SC",
+    "options": ["St. Louis City SC", "Inter Miami CF", "Charlotte FC", "Austin FC"],
+    "category": ["Leagues"],
+    "subcategories": ["MLS", "2020s"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Barcelona player scored the decisive goal in their 2006 UEFA Champions League final victory against Arsenal?",
+    "answer": "Juliano Belletti",
+    "options": ["Juliano Belletti", "Samuel Eto'o", "Ronaldinho", "Andrés Iniesta"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "During which season did Barcelona achieve a record 100 points in La Liga under Tito Vilanova?",
+    "answer": "2012-2013",
+    "options": ["2012-2013", "2010-2011", "2014-2015", "2008-2009"],
+    "category": ["Leagues"],
+    "subcategories": ["La Liga"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player transferred from Barcelona to Paris Saint-Germain for a world record fee in 2017?",
+    "answer": "Neymar",
+    "options": ["Neymar", "Luis Suárez", "Philippe Coutinho", "Ousmane Dembélé"],
+    "category": ["Transfers"],
+    "subcategories": ["Transfer Fees"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who became Barcelona's head coach immediately after Pep Guardiola's departure in 2012?",
+    "answer": "Tito Vilanova",
+    "options": ["Tito Vilanova", "Luis Enrique", "Gerardo Martino", "Frank Rijkaard"],
+    "category": ["Leagues"],
+    "subcategories": ["La Liga"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Barcelona academy graduate became the youngest player to score in La Liga for the club at age 16?",
+    "answer": "Ansu Fati",
+    "options": ["Ansu Fati", "Bojan Krkić", "Lionel Messi", "Pedri"],
+    "category": ["Leagues"],
+    "subcategories": ["La Liga"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who was the manager of Real Madrid during their 'La Décima' UEFA Champions League victory in 2014?",
+    "answer": "Carlo Ancelotti",
+    "options": ["Carlo Ancelotti", "Zinedine Zidane", "José Mourinho", "Vicente del Bosque"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "In which year did Real Madrid win their first European Cup, the predecessor to the UEFA Champions League?",
+    "answer": "1956",
+    "options": ["1956", "1960", "1957", "1959"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "As of October 2023, who holds the record for most appearances for Real Madrid in official competitions?",
+    "answer": "Raúl",
+    "options": ["Raúl", "Iker Casillas", "Sergio Ramos", "Cristiano Ronaldo"],
+    "category": ["Leagues"],
+    "subcategories": ["La Liga"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player did Real Madrid sign from Juventus in 2001 for a then-world record transfer fee?",
+    "answer": "Zinedine Zidane",
+    "options": ["Zinedine Zidane", "Luis Figo", "David Beckham", "Ronaldo Nazário"],
+    "category": ["Transfers"],
+    "subcategories": ["Transfer Fees"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Real Madrid's famous 'Galácticos' era began with the signing of which player in 2000?",
+    "answer": "Luis Figo",
+    "options": ["Luis Figo", "Roberto Carlos", "Ronaldo Nazário", "Zinedine Zidane"],
+    "category": ["Transfers"],
+    "subcategories": ["Career Paths"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Real Madrid player famously scored a hat-trick against Bayern Munich in the 2017 UEFA Champions League quarter-finals?",
+    "answer": "Cristiano Ronaldo",
+    "options": ["Cristiano Ronaldo", "Karim Benzema", "Gareth Bale", "Marco Asensio"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who was Real Madrid's manager during their historic five consecutive European Cup wins from 1956 to 1960?",
+    "answer": "Miguel Muñoz",
+    "options": ["Miguel Muñoz", "Alfredo Di Stéfano", "Luis Molowny", "José Villalonga"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which legendary player scored a stunning volley for Real Madrid in the 2002 UEFA Champions League final?",
+    "answer": "Zinedine Zidane",
+    "options": ["Zinedine Zidane", "Raúl", "Fernando Morientes", "Roberto Carlos"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Real Madrid player earned the nickname 'El Buitre' during his playing career?",
+    "answer": "Emilio Butragueño",
+    "options": ["Emilio Butragueño", "Fernando Hierro", "Michel", "Raúl"],
+    "category": ["Leagues"],
+    "subcategories": ["La Liga"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club made its debut in the 2023-24 UEFA Champions League group stage?",
+    "answer": "Union Berlin",
+    "options": ["Union Berlin", "Lens", "Galatasaray", "Red Star Belgrade"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which stadium hosted the final of the 2023-24 UEFA Champions League?",
+    "answer": "Wembley Stadium",
+    "options": ["Wembley Stadium", "Allianz Arena", "Parc des Princes", "San Siro"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club had the youngest average squad age in the 2023-24 UEFA Champions League?",
+    "answer": "Red Bull Salzburg",
+    "options": ["Red Bull Salzburg", "Ajax", "Borussia Dortmund", "Benfica"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who was the top scorer in the 2023-24 UEFA Champions League group stage?",
+    "answer": "Erling Haaland",
+    "options": ["Erling Haaland", "Robert Lewandowski", "Kylian Mbappé", "Mohamed Salah"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player was the top scorer in the 2022-23 UEFA Champions League?",
+    "answer": "Erling Haaland",
+    "options": ["Erling Haaland", "Kylian Mbappé", "Robert Lewandowski", "Karim Benzema"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club won the 2022-23 UEFA Champions League?",
+    "answer": "Manchester City",
+    "options": ["Manchester City", "Real Madrid", "Bayern Munich", "Paris Saint-Germain"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which stadium hosted the 2022-23 UEFA Champions League final?",
+    "answer": "Atatürk Olympic Stadium",
+    "options": ["Atatürk Olympic Stadium", "Wembley Stadium", "San Siro", "Santiago Bernabéu"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team did Manchester City defeat in the semi-finals of the 2022-23 UEFA Champions League?",
+    "answer": "Real Madrid",
+    "options": ["Real Madrid", "Bayern Munich", "Paris Saint-Germain", "Inter Milan"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player provided the most assists in the 2022-23 UEFA Champions League?",
+    "answer": "Kevin De Bruyne",
+    "options": ["Kevin De Bruyne", "Lionel Messi", "Luka Modric", "Joshua Kimmich"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which club did Chelsea face in the quarter-finals of the 2022-23 UEFA Champions League?",
+    "answer": "Real Madrid",
+    "options": ["Real Madrid", "Bayern Munich", "Atletico Madrid", "AC Milan"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player scored the winning goal in the 2022-23 UEFA Champions League final?",
+    "answer": "Rodri",
+    "options": ["Rodri", "Kevin De Bruyne", "Riyad Mahrez", "Phil Foden"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which goalkeeper kept the most clean sheets in the 2022-23 UEFA Champions League?",
+    "answer": "Ederson",
+    "options": ["Ederson", "Thibaut Courtois", "Manuel Neuer", "Alisson Becker"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team did Benfica face in the Round of 16 in the 2022-23 UEFA Champions League?",
+    "answer": "Club Brugge",
+    "options": ["Club Brugge", "Paris Saint-Germain", "Borussia Dortmund", "Porto"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which manager led Inter Milan to a historic treble-winning season in 2009–10?",
+    "answer": "José Mourinho",
+    "options": ["José Mourinho", "Roberto Mancini", "Simone Inzaghi", "Luciano Spalletti"],
+    "category": ["Leagues"],
+    "subcategories": ["Serie A"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which club did Inter Milan sign Wesley Sneijder from shortly before their 2009–10 treble-winning season?",
+    "answer": "Real Madrid",
+    "options": ["Real Madrid", "Ajax", "Valencia", "Galatasaray"],
+    "category": ["Transfers"],
+    "subcategories": ["Career Paths"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "In which stadium did Inter Milan win the 2010 UEFA Champions League final?",
+    "answer": "Santiago Bernabéu",
+    "options": ["Santiago Bernabéu", "San Siro", "Allianz Arena", "Old Trafford"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Inter Milan striker scored 24 league goals in the 2019–20 Serie A season under Antonio Conte?",
+    "answer": "Romelu Lukaku",
+    "options": ["Romelu Lukaku", "Mauro Icardi", "Lautaro Martínez", "Edin Džeko"],
+    "category": ["Leagues"],
+    "subcategories": ["Serie A"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who captained Inter Milan in their 2009–10 UEFA Champions League final victory over Bayern Munich?",
+    "answer": "Javier Zanetti",
+    "options": ["Javier Zanetti", "Esteban Cambiasso", "Walter Samuel", "Marco Materazzi"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which German striker played for Inter Milan during the 1989–90 season and scored in the UEFA Cup semi-finals?",
+    "answer": "Jürgen Klinsmann",
+    "options": ["Jürgen Klinsmann", "Karl-Heinz Rummenigge", "Rudi Völler", "Lothar Matthäus"],
+    "category": ["Time Periods"],
+    "subcategories": ["1990s"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which club eliminated Inter Milan in the 2022–23 UEFA Champions League final?",
+    "answer": "Manchester City",
+    "options": ["Manchester City", "Real Madrid", "Liverpool", "Bayern Munich"],
+    "category": ["Club Competitions"],
+    "subcategories": ["UEFA Champions League"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Italian club did Inter Milan defeat 4–2 in the 2005–06 Coppa Italia final to secure the double?",
+    "answer": "Roma",
+    "options": ["Roma", "Juventus", "Lazio", "Fiorentina"],
+    "category": ["Club Competitions"],
+    "subcategories": ["Domestic Cups"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which team won the 1950 FIFA World Cup by defeating Brazil in the final match of the tournament?",
+    "answer": "Uruguay",
+    "options": ["Uruguay", "Brazil", "Sweden", "Spain"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who scored the winning goal for Uruguay in the decisive 2–1 victory over Brazil at the Maracanã in 1950?",
+    "answer": "Alcides Ghiggia",
+    "options": ["Alcides Ghiggia", "Juan Alberto Schiaffino", "Obdulio Varela", "Zizinho"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country withdrew from Group 4 of the 1950 World Cup, leaving Uruguay to advance without playing a group match?",
+    "answer": "France",
+    "options": ["France", "Scotland", "India", "Paraguay"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Brazilian midfielder was awarded the best player of the 1950 World Cup, despite his team finishing as runner-up?",
+    "answer": "Zizinho",
+    "options": ["Zizinho", "Didi", "Ademir", "Julinho"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which stadium hosted the decisive match between Brazil and Uruguay in the 1950 World Cup, attended by an estimated 200,000 spectators?",
+    "answer": "Maracanã",
+    "options": ["Maracanã", "Pacaembu", "Estádio das Laranjeiras", "São Januário"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player finished as the top scorer of the 1950 World Cup with 8 goals?",
+    "answer": "Ademir",
+    "options": ["Ademir", "Zizinho", "Juan Alberto Schiaffino", "Estanislao Basora"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which nation won the 1954 FIFA World Cup by defeating Hungary 3–2 in the final?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Hungary", "Brazil", "Uruguay"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Hungarian striker scored 11 goals in the 1954 World Cup, finishing as the tournament's top scorer?",
+    "answer": "Sándor Kocsis",
+    "options": ["Sándor Kocsis", "Ferenc Puskás", "Helmut Rahn", "Nándor Hidegkuti"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "What was the nickname commonly used to describe Hungary’s national team in the early 1950s?",
+    "answer": "The Mighty Magyars",
+    "options": ["The Mighty Magyars", "The Budapest Bombers", "The Golden Eleven", "The Danube Dynamos"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which West German player scored twice in the 1954 World Cup final against Hungary?",
+    "answer": "Helmut Rahn",
+    "options": ["Helmut Rahn", "Fritz Walter", "Max Morlock", "Hans Schäfer"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Hungary defeated which nation 8–3 in the group stage of the 1954 World Cup before meeting them again in the final?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Austria", "Brazil", "Yugoslavia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Swiss city hosted the final match of the 1954 World Cup?",
+    "answer": "Bern",
+    "options": ["Bern", "Zurich", "Basel", "Geneva"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 1958 FIFA World Cup, claiming their first-ever title?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Sweden", "France", "West Germany"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which 17-year-old Brazilian forward became a global sensation at the 1958 World Cup by scoring a hat-trick in the semifinal and two goals in the final?",
+    "answer": "Pelé",
+    "options": ["Pelé", "Garrincha", "Vavá", "Zagallo"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which French striker won the Golden Boot at the 1958 World Cup with 13 goals?",
+    "answer": "Just Fontaine",
+    "options": ["Just Fontaine", "Raymond Kopa", "Roger Piantoni", "Jean Vincent"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team did Sweden defeat in the semifinals of the 1958 World Cup to reach their only final to date?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Yugoslavia", "France", "Austria"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country hosted the 1958 World Cup?",
+    "answer": "Sweden",
+    "options": ["Sweden", "Brazil", "France", "West Germany"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Northern Ireland made their first World Cup appearance in 1958. How far did they advance?",
+    "answer": "Quarter-finals",
+    "options": ["Quarter-finals", "Group stage", "Semifinals", "Round of 16"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Soviet goalkeeper was a standout performer at the 1958 World Cup and later became a Ballon d'Or winner?",
+    "answer": "Lev Yashin",
+    "options": ["Lev Yashin", "Viktor Bannikov", "Rinat Dasayev", "Valentin Ivanov"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 1962 FIFA World Cup, successfully defending their title?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Czechoslovakia", "Chile", "Yugoslavia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country hosted the 1962 FIFA World Cup?",
+    "answer": "Chile",
+    "options": ["Chile", "Brazil", "Uruguay", "Argentina"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Brazilian midfielder won the Golden Ball at the 1962 World Cup and was crucial in the absence of an injured Pelé?",
+    "answer": "Garrincha",
+    "options": ["Garrincha", "Didi", "Zito", "Vavá"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which European nation reached the 1962 World Cup final but lost 3–1 to Brazil?",
+    "answer": "Czechoslovakia",
+    "options": ["Czechoslovakia", "Hungary", "Yugoslavia", "Austria"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Chilean forward scored four goals during the 1962 World Cup and helped the host nation finish third?",
+    "answer": "Leonel Sánchez",
+    "options": ["Leonel Sánchez", "Eladio Rojas", "Carlos Campos", "Honorino Landa"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which two players shared the Golden Boot at the 1962 World Cup with 4 goals each, including one from the Soviet Union and one from Hungary?",
+    "answer": "Flórián Albert and Valentin Ivanov",
+    "options": ["Flórián Albert and Valentin Ivanov", "Just Fontaine and Josef Masopust", "Vavá and Uwe Seeler", "Didi and Sándor Kocsis"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "What infamous nickname was given to the 1962 group stage match between Chile and Italy due to its violent nature?",
+    "answer": "The Battle of Santiago",
+    "options": ["The Battle of Santiago", "The War of the Andes", "The Clash of the Continents", "The Rumble in Rancagua"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which West German player scored four goals during the 1962 World Cup and was a key attacking presence before injury?",
+    "answer": "Uwe Seeler",
+    "options": ["Uwe Seeler", "Helmut Rahn", "Fritz Walter", "Sigfried Held"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 1966 FIFA World Cup?",
+    "answer": "England",
+    "options": ["England", "West Germany", "Portugal", "Brazil"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which English striker scored a hat-trick in the 1966 World Cup final?",
+    "answer": "Geoff Hurst",
+    "options": ["Geoff Hurst", "Bobby Charlton", "Roger Hunt", "Martin Peters"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 1966 World Cup with 9 goals?",
+    "answer": "Eusébio",
+    "options": ["Eusébio", "Bobby Charlton", "Gerd Müller", "Luis Suárez Miramontes"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Asian team shocked Italy with a 1–0 win in the group stage of the 1966 World Cup?",
+    "answer": "North Korea",
+    "options": ["North Korea", "Japan", "Iran", "Israel"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team did Portugal defeat 5–3 in the quarterfinals of the 1966 World Cup after trailing 3–0?",
+    "answer": "North Korea",
+    "options": ["North Korea", "Hungary", "Soviet Union", "Argentina"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who was England’s captain during their 1966 World Cup triumph?",
+    "answer": "Bobby Moore",
+    "options": ["Bobby Moore", "Jack Charlton", "Bobby Charlton", "Alan Ball"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which South American giant failed to advance past the group stage at the 1966 World Cup?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Argentina", "Uruguay", "Chile"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which goalkeeper was England’s first-choice throughout their victorious 1966 World Cup campaign?",
+    "answer": "Gordon Banks",
+    "options": ["Gordon Banks", "Peter Bonetti", "Ray Clemence", "Pat Jennings"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team won the 1970 FIFA World Cup final, defeating Italy 4–1?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Mexico", "West Germany", "Uruguay"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 1970 World Cup with 10 goals?",
+    "answer": "Gerd Müller",
+    "options": ["Gerd Müller", "Pelé", "Luigi Riva", "Teófilo Cubillas"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Peruvian midfielder scored five goals at the 1970 World Cup and was later named South American Footballer of the Year?",
+    "answer": "Teófilo Cubillas",
+    "options": ["Teófilo Cubillas", "Julio Meléndez", "César Cueto", "Pedro León"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which English goalkeeper made a legendary save from a Pelé header in a 1–0 loss to Brazil during the group stage?",
+    "answer": "Gordon Banks",
+    "options": ["Gordon Banks", "Peter Bonetti", "Ray Clemence", "Sepp Maier"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Italian forward scored the decisive extra-time goal against West Germany in the 1970 semifinal?",
+    "answer": "Giacinto Facchetti",
+    "options": ["Giacinto Facchetti", "Gigi Riva", "Roberto Boninsegna", "Sandro Mazzola"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 1974 FIFA World Cup?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Netherlands", "Brazil", "Poland"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which forward was the top scorer at the 1974 World Cup with 7 goals?",
+    "answer": "Grzegorz Lato",
+    "options": ["Grzegorz Lato", "Johan Cruyff", "Gerd Müller", "Rivellino"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which tactical system, associated with the 1974 Netherlands team, emphasized fluid positioning and collective pressing?",
+    "answer": "Total Football",
+    "options": ["Total Football", "Catenaccio", "Tiki-Taka", "Zona Mista"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Dutch player captained the Netherlands at the 1974 World Cup and was named the tournament’s best player?",
+    "answer": "Johan Cruyff",
+    "options": ["Johan Cruyff", "Willem van Hanegem", "Ruud Krol", "Johnny Rep"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team finished third at the 1974 World Cup after defeating Brazil in the third-place match?",
+    "answer": "Poland",
+    "options": ["Poland", "Sweden", "Argentina", "East Germany"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who scored the winning goal for West Germany in the 1974 World Cup final against the Netherlands?",
+    "answer": "Gerd Müller",
+    "options": ["Gerd Müller", "Paul Breitner", "Franz Beckenbauer", "Wolfgang Overath"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 1978 FIFA World Cup?",
+    "answer": "Argentina",
+    "options": ["Argentina", "Netherlands", "Brazil", "Italy"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which striker won the Golden Boot at the 1978 World Cup with 6 goals?",
+    "answer": "Mario Kempes",
+    "options": ["Mario Kempes", "Rob Rensenbrink", "Paolo Rossi", "Teófilo Cubillas"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team did Argentina defeat 3–1 after extra time in the 1978 World Cup final?",
+    "answer": "Netherlands",
+    "options": ["Netherlands", "Brazil", "France", "West Germany"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country hosted the 1978 FIFA World Cup?",
+    "answer": "Argentina",
+    "options": ["Argentina", "Chile", "Uruguay", "Colombia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Dutch legend declined to participate in the 1978 World Cup despite being active at the time?",
+    "answer": "Johan Cruyff",
+    "options": ["Johan Cruyff", "Johan Neeskens", "Arie Haan", "Wim Jansen"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 1982 FIFA World Cup?",
+    "answer": "Italy",
+    "options": ["Italy", "West Germany", "Brazil", "France"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which striker won the Golden Boot at the 1982 World Cup with 6 goals?",
+    "answer": "Paolo Rossi",
+    "options": ["Paolo Rossi", "Karl-Heinz Rummenigge", "Zico", "Michel Platini"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team did Italy defeat 3–1 in the 1982 World Cup final?",
+    "answer": "West Germany",
+    "options": ["West Germany", "France", "Brazil", "Argentina"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team did Italy eliminate with a 3–2 win in the 1982 quarterfinals, featuring a Paolo Rossi hat-trick?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Argentina", "France", "Soviet Union"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which goalkeeper's foul on Patrick Battiston in the semifinal caused controversy but no card?",
+    "answer": "Harald Schumacher",
+    "options": ["Harald Schumacher", "Jean-Luc Ettori", "Dino Zoff", "Peter Shilton"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which African team nearly reached the knockout stage but was controversially eliminated after the 'Disgrace of Gijón'?",
+    "answer": "Algeria",
+    "options": ["Algeria", "Cameroon", "Tunisia", "Morocco"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which legendary midfielder captained France at the 1982 World Cup?",
+    "answer": "Michel Platini",
+    "options": ["Michel Platini", "Alain Giresse", "Jean Tigana", "Manuel Amoros"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 1986 FIFA World Cup?",
+    "answer": "Argentina",
+    "options": ["Argentina", "West Germany", "France", "Brazil"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Argentine player won the Golden Ball at the 1986 World Cup?",
+    "answer": "Diego Maradona",
+    "options": ["Diego Maradona", "Jorge Valdano", "Oscar Ruggeri", "Claudio Caniggia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 1986 World Cup with 6 goals?",
+    "answer": "Gary Lineker",
+    "options": ["Gary Lineker", "Careca", "Maradona", "Rudi Völler"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team lost to Argentina 3–2 in the 1986 World Cup final?",
+    "answer": "West Germany",
+    "options": ["West Germany", "France", "Italy", "Belgium"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country did Maradona score both the 'Hand of God' and 'Goal of the Century' against?",
+    "answer": "England",
+    "options": ["England", "Belgium", "Italy", "Uruguay"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team knocked out Brazil on penalties in the 1986 quarterfinals?",
+    "answer": "France",
+    "options": ["France", "Argentina", "Germany", "Belgium"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Mexican striker scored four goals in the 1986 World Cup, helping the hosts reach the quarterfinals?",
+    "answer": "Manuel Negrete",
+    "options": ["Manuel Negrete", "Hugo Sánchez", "Tomás Boy", "Carlos Hermosillo"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 1990 FIFA World Cup?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Argentina", "Italy", "England"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which striker won the Golden Boot at the 1990 World Cup with 6 goals?",
+    "answer": "Salvatore Schillaci",
+    "options": ["Salvatore Schillaci", "Jürgen Klinsmann", "Gary Lineker", "Diego Maradona"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country hosted the 1990 World Cup?",
+    "answer": "Italy",
+    "options": ["Italy", "Germany", "Spain", "France"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team did West Germany defeat in the 1990 final with a late penalty by Andreas Brehme?",
+    "answer": "Argentina",
+    "options": ["Argentina", "Italy", "England", "Czechoslovakia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which 38-year-old Cameroonian forward scored four goals during the 1990 tournament?",
+    "answer": "Roger Milla",
+    "options": ["Roger Milla", "François Omam-Biyik", "Thomas N'Kono", "Emmanuel Kunde"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team eliminated England in the semifinals of the 1990 World Cup on penalties?",
+    "answer": "West Germany",
+    "options": ["West Germany", "Italy", "Argentina", "Romania"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Italian goalkeeper won the Lev Yashin Award for best keeper at the 1990 World Cup?",
+    "answer": "Walter Zenga",
+    "options": ["Walter Zenga", "Dino Zoff", "Peter Shilton", "Bodo Illgner"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 1994 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Italy", "Germany", "Sweden"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which World Cup holds the all-time attendance record with over 3.5 million total spectators?",
+    "answer": "1994 World Cup",
+    "options": ["1994 World Cup", "2014 World Cup", "1998 World Cup", "2006 World Cup"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 1994 World Cup with 6 goals?",
+    "answer": "Hristo Stoichkov",
+    "options": ["Hristo Stoichkov", "Romário", "Roberto Baggio", "Oleg Salenko"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team lost the 1994 final to Brazil in a penalty shootout?",
+    "answer": "Italy",
+    "options": ["Italy", "Germany", "Argentina", "Netherlands"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which forward missed the decisive penalty for Italy in the 1994 final?",
+    "answer": "Roberto Baggio",
+    "options": ["Roberto Baggio", "Franco Baresi", "Daniele Massaro", "Demetrio Albertini"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which African team reached the Round of 16 before losing to Italy in extra time?",
+    "answer": "Nigeria",
+    "options": ["Nigeria", "Cameroon", "Morocco", "South Africa"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Russian forward scored five goals in a single match during the group stage?",
+    "answer": "Oleg Salenko",
+    "options": ["Oleg Salenko", "Dmitri Radchenko", "Igor Kolyvanov", "Sergei Yuran"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 1998 FIFA World Cup?",
+    "answer": "France",
+    "options": ["France", "Brazil", "Netherlands", "Croatia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 1998 World Cup with 6 goals?",
+    "answer": "Davor Šuker",
+    "options": ["Davor Šuker", "Ronaldo", "Christian Vieri", "Zinedine Zidane"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team did France defeat 3–0 in the 1998 World Cup final?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Croatia", "Germany", "Argentina"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which French midfielder scored twice in the 1998 final against Brazil?",
+    "answer": "Zinedine Zidane",
+    "options": ["Zinedine Zidane", "Emmanuel Petit", "Youri Djorkaeff", "Patrick Vieira"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which goalkeeper was controversially sent off for Argentina in their Round of 16 shootout loss to England?",
+    "answer": "Carlos Roa",
+    "options": ["Carlos Roa", "Roberto Abbondanzieri", "Germán Burgos", "Sergio Goycochea"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "What was significant about the 1998 World Cup tournament format?",
+    "answer": "It was the first World Cup with 32 teams",
+    "options": ["It was the first World Cup with 32 teams", "It had no third-place match", "It used golden goal in every knockout round", "It was hosted across multiple countries"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 2002 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Germany", "Turkey", "South Korea"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 2002 World Cup with 8 goals?",
+    "answer": "Ronaldo",
+    "options": ["Ronaldo", "Miroslav Klose", "Rivaldo", "Ronaldinho"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team did Brazil defeat in the 2002 World Cup final?",
+    "answer": "Germany",
+    "options": ["Germany", "Turkey", "England", "Italy"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which nation was a semifinalist in the 2002 World Cup?",
+    "answer": "South Korea",
+    "options": ["South Korea", "Spain", "USA", "England"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which Asian country co-hosted the 2002 World Cup along with South Korea?",
+    "answer": "Japan",
+    "options": ["Japan", "China", "Thailand", "Indonesia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which European team finished third at the 2002 World Cup?",
+    "answer": "Turkey",
+    "options": ["Turkey", "Spain", "Sweden", "Denmark"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 2006 FIFA World Cup?",
+    "answer": "Italy",
+    "options": ["Italy", "France", "Germany", "Portugal"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team did Italy defeat in the 2006 World Cup final on penalties?",
+    "answer": "France",
+    "options": ["France", "Germany", "Brazil", "Argentina"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 2006 World Cup with 5 goals?",
+    "answer": "Miroslav Klose",
+    "options": ["Miroslav Klose", "Thierry Henry", "Luca Toni", "Zinedine Zidane"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which midfielder was sent off in the 2006 World Cup final for headbutting Marco Materazzi?",
+    "answer": "Zinedine Zidane",
+    "options": ["Zinedine Zidane", "Patrick Vieira", "Andrea Pirlo", "Gennaro Gattuso"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country hosted the 2006 World Cup?",
+    "answer": "Germany",
+    "options": ["Germany", "Italy", "France", "Spain"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which goalkeeper was named Best Player of the Tournament — the first keeper to win the Golden Ball?",
+    "answer": "Gianluigi Buffon",
+    "options": ["Gianluigi Buffon", "Fabien Barthez", "Jens Lehmann", "Ricardo"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which nation finished third at the 2006 World Cup?",
+    "answer": "Germany",
+    "options": ["Germany", "Portugal", "Argentina", "Spain"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 2010 FIFA World Cup?",
+    "answer": "Spain",
+    "options": ["Spain", "Netherlands", "Germany", "Brazil"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who scored the winning goal for Spain in the 2010 World Cup final?",
+    "answer": "Andrés Iniesta",
+    "options": ["Andrés Iniesta", "Xavi", "David Villa", "Fernando Torres"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which African nation hosted the 2010 World Cup?",
+    "answer": "South Africa",
+    "options": ["South Africa", "Nigeria", "Egypt", "Ghana"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which forward won the Golden Boot at the 2010 World Cup with 5 goals?",
+    "answer": "Thomas Müller",
+    "options": ["Thomas Müller", "David Villa", "Wesley Sneijder", "Diego Forlán"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which European team finished second after losing the final in extra time?",
+    "answer": "Netherlands",
+    "options": ["Netherlands", "Germany", "Portugal", "Italy"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which African team reached the quarterfinals and was eliminated by Uruguay on penalties?",
+    "answer": "Ghana",
+    "options": ["Ghana", "South Africa", "Ivory Coast", "Cameroon"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 2014 FIFA World Cup?",
+    "answer": "Germany",
+    "options": ["Germany", "Argentina", "Brazil", "Netherlands"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which German scored the winning goal in the 2014 World Cup final?",
+    "answer": "Mario Götze",
+    "options": ["Mario Götze", "Thomas Müller", "André Schürrle", "Miroslav Klose"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Germany", "South Africa", "Russia"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which German striker became the all-time leading World Cup scorer during the 2014 tournament?",
+    "answer": "Miroslav Klose",
+    "options": ["Miroslav Klose", "Ronaldo", "Thomas Müller", "Gerd Müller"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player won the Golden Ball at the 2014 World Cup?",
+    "answer": "Lionel Messi",
+    "options": ["Lionel Messi", "Arjen Robben", "James Rodríguez", "Thomas Müller"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who won the Golden Boot at the 2014 World Cup with 6 goals?",
+    "answer": "James Rodríguez",
+    "options": ["James Rodríguez", "Neymar", "Lionel Messi", "Robin van Persie"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team did Germany defeat 7–1 in the 2014 World Cup semifinals?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Argentina", "France", "Portugal"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which African nation reached the Round of 16 in 2014 before being eliminated by France?",
+    "answer": "Nigeria",
+    "options": ["Nigeria", "Algeria", "Ghana", "Cameroon"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 2018 FIFA World Cup?",
+    "answer": "France",
+    "options": ["France", "Croatia", "Belgium", "England"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "What was the score of the 2018 World Cup final?",
+    "answer": "4–2",
+    "options": ["4–2", "2–1", "3–1", "1–0"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who won the Best Young Player Award at the 2018 World Cup?",
+    "answer": "Kylian Mbappé",
+    "options": ["Kylian Mbappé", "Eden Hazard", "Denis Cheryshev", "Vinicius Jr"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which striker won the Golden Boot at the 2018 World Cup with 6 goals?",
+    "answer": "Harry Kane",
+    "options": ["Harry Kane", "Romelu Lukaku", "Kylian Mbappé", "Cristiano Ronaldo"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who won the Golden Ball at the 2018 World Cup?",
+    "answer": "Luka Modrić",
+    "options": ["Luka Modrić", "Kevin De Bruyne", "Eden Hazard", "Paul Pogba"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team defeated Brazil 2–1 in the 2018 quarterfinals?",
+    "answer": "Belgium",
+    "options": ["Belgium", "France", "Croatia", "Uruguay"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team eliminated Spain in the Round of 16 after a penalty shootout?",
+    "answer": "Russia",
+    "options": ["Russia", "Croatia", "Sweden", "Denmark"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which country won the 2022 FIFA World Cup?",
+    "answer": "Argentina",
+    "options": ["Argentina", "France", "Croatia", "Brazil"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "What was the score of the 2022 World Cup final before penalties?",
+    "answer": "3–3",
+    "options": ["3–3", "2–2", "1–1", "4–4"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who won the Golden Boot at the 2022 World Cup with 8 goals?",
+    "answer": "Kylian Mbappé",
+    "options": ["Kylian Mbappé", "Lionel Messi", "Olivier Giroud", "Julián Álvarez"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who won the Golden Ball at the 2022 World Cup?",
+    "answer": "Lionel Messi",
+    "options": ["Lionel Messi", "Kylian Mbappé", "Luka Modrić", "Antoine Griezmann"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which African nation became the first to reach a World Cup semifinal?",
+    "answer": "Morocco",
+    "options": ["Morocco", "Senegal", "Cameroon", "Ghana"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team eliminated Portugal in the 2022 World Cup quarterfinals?",
+    "answer": "Morocco",
+    "options": ["Morocco", "France", "Croatia", "Netherlands"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who scored a hat-trick in the 2022 World Cup final?",
+    "answer": "Kylian Mbappé",
+    "options": ["Kylian Mbappé", "Lionel Messi", "Olivier Giroud", "Ángel Di María"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which goalkeeper was named Best Goalkeeper of the 2022 World Cup?",
+    "answer": "Emiliano Martínez",
+    "options": ["Emiliano Martínez", "Dominik Livaković", "Hugo Lloris", "Yassine Bounou"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player has scored the most goals in FIFA World Cup history?",
+    "answer": "Miroslav Klose",
+    "options": ["Miroslav Klose", "Ronaldo", "Lionel Messi", "Gerd Müller"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team has appeared in the most FIFA World Cup tournaments?",
+    "answer": "Brazil",
+    "options": ["Brazil", "Germany", "Argentina", "Italy"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Who scored the fastest goal in World Cup history, just 11 seconds into a match?",
+    "answer": "Hakan Şükür",
+    "options": ["Hakan Şükür", "Clint Dempsey", "Bryan Robson", "David Villa"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which team holds the record for the most goals scored in a single World Cup tournament?",
+    "answer": "Hungary (1954)",
+    "options": ["Hungary (1954)", "Brazil (2002)", "Germany (2014)", "France (2022)"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "hard",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player was the youngest to score in a World Cup match?",
+    "answer": "Pelé",
+    "options": ["Pelé", "Manuel Rosas", "Kylian Mbappé", "Lionel Messi"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  },
+  {
+    "question": "Which player has scored in five different World Cup tournaments?",
+    "answer": "Cristiano Ronaldo",
+    "options": ["Cristiano Ronaldo", "Miroslav Klose", "Pelé", "Lionel Messi"],
+    "category": ["International"],
+    "subcategories": ["World Cup"],
+    "difficulty": "easy",
+    "assigned_code": 1
+  }
+]

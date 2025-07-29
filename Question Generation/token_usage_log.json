@@ -1,0 +1,21 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_MLS_seasons",
+  "article_title": "List of MLS seasons",
+  "total_prompt_tokens": 2123,
+  "total_completion_tokens": 568,
+  "estimated_cost_usd": 0.0383,
+  "chunk_details": [
+    {
+      "chunk": 1,
+      "prompt_tokens": 1665,
+      "completion_tokens": 314,
+      "facts_extracted": 14
+    },
+    {
+      "chunk": 2,
+      "prompt_tokens": 458,
+      "completion_tokens": 254,
+      "facts_extracted": 14
+    }
+  ]
+}

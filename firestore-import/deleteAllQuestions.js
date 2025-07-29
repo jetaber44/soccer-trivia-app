@@ -12,7 +12,7 @@ initializeApp({
 const db = getFirestore();
 
 async function deleteAllQuestions() {
-  const snapshot = await db.collection("questions").get();
+  const snapshot = await db.collection("triviaQuestions").get();
   const batch = db.batch();
 
   snapshot.docs.forEach((doc) => {
