@@ -21,3 +21,19 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Firebase service account key (sensitive)
+firestore-import/serviceAccount.json
+
+# Question generation tools and data
+New_Method/
+Question Generation/
+
+# Intermediate or generated trivia files
+*.jsonl
+*.txt
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
