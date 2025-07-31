@@ -18,6 +18,7 @@ import { auth } from "./firebase";
 import BottomNav from "./components/BottomNav"; // ✅ NEW
 import About from "./pages/About";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
+import NotFound from "./pages/NotFound";
 
 
 function AppContent() {
@@ -64,6 +65,7 @@ function AppContent() {
                   </ProtectedRoute>
                 }
               />
+              <Route path="*" element={<NotFound />} />
             </Routes>
           </div>
         </div>

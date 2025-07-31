@@ -4,6 +4,7 @@ import { useAuth } from "../context/AuthContext";
 import { doc, getDoc, collection, getDocs } from "firebase/firestore";
 import { db } from "../firebase";
 import { useNavigate } from "react-router-dom";
+import ContactForm from "../components/ContactForm";
 
 const getPerformanceColor = (percentage) => {
   if (percentage >= 80) return "text-green-500";
@@ -154,8 +155,9 @@ const Profile = () => {
       <div className="text-center text-xs text-zinc-400 mt-10 space-x-4">
         <a href="/about" className="hover:underline">About</a>
         <a href="/privacy" className="hover:underline">Privacy Policy</a>
-        <a href="mailto:contact@quizlazo.com" className="hover:underline">Contact </a>
       </div>
+
+      <ContactForm />
     </div>
   );
 };
