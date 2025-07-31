@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { db } from '../firebase';
 import { collection, addDoc, serverTimestamp } from 'firebase/firestore';
 
-const ContactForm = () => {
+const ContactForm = ({ titleColor = "text-black" }) => {
   const [email, setEmail] = useState('');
   const [topic, setTopic] = useState('');
   const [message, setMessage] = useState('');
@@ -37,7 +37,7 @@ const ContactForm = () => {
 
   return (
     <div className="mt-10 p-4 border-t border-gray-300">
-      <h2 className="text-lg font-semibold text-white mb-2">Contact Us</h2>
+      <h2 className={`text-lg font-semibold mb-2 ${titleColor}`}>Contact Us</h2>
       <form onSubmit={handleSubmit} className="space-y-3">
         <input
           type="email"
@@ -78,7 +78,9 @@ const ContactForm = () => {
         </button>
 
         {status && (
-          <p className="text-sm mt-2 text-black">{status}</p>
+          <p className={`text-sm mt-2 ${status.includes('successfully') ? 'text-green-400' : 'text-red-400'}`}>
+            {status}
+          </p>
         )}
       </form>
     </div>

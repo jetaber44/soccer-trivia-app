@@ -157,7 +157,7 @@ const Profile = () => {
         <a href="/privacy" className="hover:underline">Privacy Policy</a>
       </div>
 
-      <ContactForm />
+      <ContactForm titleColor="text-white" />
     </div>
   );
 };

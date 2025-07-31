@@ -80,7 +80,7 @@ function AppContent() {
 function App() {
   return (
     <AuthProvider>
-      <Router>
+      <Router basename="/">
         <AppContent />
       </Router>
     </AuthProvider>
