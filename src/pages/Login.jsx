@@ -5,6 +5,7 @@ import { db } from '../firebase';
 import { signInWithEmailAndPassword, createUserWithEmailAndPassword } from 'firebase/auth';
 import { doc, setDoc, serverTimestamp } from 'firebase/firestore';
 import { useNavigate } from 'react-router-dom';
+import ContactForm from '../components/ContactForm';
 
 function Login() {
   const [isLoginMode, setIsLoginMode] = useState(true);
@@ -109,9 +110,8 @@ function Login() {
           <a href="/about" className="hover:underline">About</a>
           <a href="/privacy" className="hover:underline">Privacy Policy</a>
         </div>
-        <div className="text-center text-xs text-zinc-500 mt-2">
-          <a href="mailto:contact@quizlazo.com" className="hover:underline">Need help? Contact us</a>
-        </div>
+        
+        <ContactForm />
       </div>
     </div>
   );
