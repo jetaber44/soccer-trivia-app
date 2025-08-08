@@ -4,7 +4,7 @@ import { auth } from '../firebase';
 import { db } from '../firebase';
 import { signInWithEmailAndPassword, createUserWithEmailAndPassword } from 'firebase/auth';
 import { doc, setDoc, serverTimestamp } from 'firebase/firestore';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 import ContactForm from '../components/ContactForm';
 
 function Login() {
@@ -107,12 +107,13 @@ function Login() {
 
         {/* ✅ Legal links */}
         <div className="text-center text-xs text-zinc-500 mt-6 space-x-4">
-          <a href="/about" className="hover:underline">About</a>
-          <a href="/privacy" className="hover:underline">Privacy Policy</a>
+          <Link to="/about" className="hover:underline">About</Link>
+          <Link to="/privacy" className="hover:underline">Privacy Policy</Link>
         </div>
         
         <ContactForm />
       </div>
+      '
     </div>
   );
 }
